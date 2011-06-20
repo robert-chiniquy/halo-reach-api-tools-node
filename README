@@ -1,7 +1,8 @@
 
 
-
-
+REQUIRED NODE MODULES
+* redis (optionally, hiredis)
+* jasmine-node
 
 REFERENCE
 
