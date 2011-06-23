@@ -74,21 +74,20 @@ describe('CacheableEntity', function() {
     asyncSpecWait();
   });
   
-  // tbd: fix
-  it('should correctly apply instance ttls', function() {
+  it('should correctly apply instance ttls and catch a cache miss', function() {
     
     var
       dfd = $.Deferred();
     
-    mc.ttl = 1;
+    mc.ttl = 1; // 1 second
     mc.store();
     
     $.when(dfd)
       .done(function() {
-        mc.set_a(17);
-        $.when(mc.fetch()) // currently, this will do nothing if cache miss
+        $.when(mc.fetch())
           .done(function() {
-            expect(mc.get_a()).toEqual(17);
+            expect(typeof mc.cache_miss).toNotEqual('undefined');
+            expect(mc.cache_miss).toEqual(true);
             asyncSpecDone();        
           })
       });
