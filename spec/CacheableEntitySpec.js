@@ -7,7 +7,7 @@ var
 describe('CacheableEntity', function() {
 
   var
-    mc;
+    mc, mc2;
   
   function MockCacheableEntity(props) {
     var
@@ -34,6 +34,15 @@ describe('CacheableEntity', function() {
         'a': 1,
         'b': 3      
       });
+      
+    mc2 = new MockCacheableEntity(
+      {
+        'a': 99,  
+        'b': 'string'
+      });
+      
+    mc2.id = 2;
+      
   });
   
   it('should be able to enter and return from cache', function() {
@@ -48,7 +57,48 @@ describe('CacheableEntity', function() {
         asyncSpecDone();
       });
 
-    asyncSpecWait();  
+    asyncSpecWait();
+    
+  });
+  
+  it("shouldn't allow collisions with different ids", function() {
+    mc.store();
+    mc2.store();
+    
+    $.when(mc.fetch(), mc2.fetch())
+      .done(function() {
+        expect(mc.get_a()).toNotEqual(mc2.get_a());
+        asyncSpecDone();
+      });
+
+    asyncSpecWait();
+  });
+  
+  // tbd: fix
+  it('should correctly apply instance ttls', function() {
+    
+    var
+      dfd = $.Deferred();
+    
+    mc.ttl = 1;
+    mc.store();
+    
+    $.when(dfd)
+      .done(function() {
+        mc.set_a(17);
+        $.when(mc.fetch()) // currently, this will do nothing if cache miss
+          .done(function() {
+            expect(mc.get_a()).toEqual(17);
+            asyncSpecDone();        
+          })
+      });
+    
+    setTimeout(
+      function() {
+        dfd.resolve();
+      }, 2000);
+
+    asyncSpecWait();
   });
   
 });
