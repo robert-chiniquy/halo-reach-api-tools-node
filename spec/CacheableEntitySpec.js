@@ -11,17 +11,21 @@ describe('CacheableEntity', function() {
   
   function MockCacheableEntity(props) {
     var
-      inst = {};
+      inst = {},
+      setters = {
+        'a': function(value) {
+          props.a = +value;
+        }
+      };
     
     inst.id = '1';
     inst.type = 'MockCacheableEntity';
-    inst.properties = props;
     
     inst.getProperties = function() {
-      return inst.properties;
+      return props;
     }
     
-    return CacheableEntity(inst, props, {}, props);
+    return CacheableEntity(inst, props, setters, props);
   }
   
   beforeEach(function() {
@@ -32,19 +36,15 @@ describe('CacheableEntity', function() {
       });
   });
   
-  it('should be able to enter and return from cache', function(){
-    
-    console.log(mc);
+  it('should be able to enter and return from cache', function() {
     
     mc.store();
-    
-    mc.properties = {
-      'a': 2
-    };
+
+    mc = new MockCacheableEntity({'a':2});
     
     $.when(mc.fetch())
       .done(function() {
-        expect(mc.properties.a).toEqual(1);
+        expect(mc.get_a()).toEqual(1);
         asyncSpecDone();
       });
 
