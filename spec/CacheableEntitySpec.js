@@ -20,11 +20,11 @@ describe('CacheableEntity', function() {
     
     inst.id = '1';
     inst.type = 'MockCacheableEntity';
-    
+
     inst.getProperties = function() {
       return props;
     }
-    
+
     return CacheableEntity(inst, props, setters, props);
   }
   
@@ -42,7 +42,6 @@ describe('CacheableEntity', function() {
       });
       
     mc2.id = 2;
-      
   });
   
   it('should be able to enter and return from cache', function() {
