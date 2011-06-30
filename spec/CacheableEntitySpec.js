@@ -86,7 +86,7 @@ describe('CacheableEntity', function() {
         $.when(mc.fetch())
           .done(function() {
             expect(typeof mc.cache_miss).toNotEqual('undefined');
-            expect(mc.cache_miss).toEqual(true);
+            expect(mc.cache_miss).toEqual(true); // tbd: real errors
             asyncSpecDone();        
           })
       });
