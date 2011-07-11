@@ -1,5 +1,6 @@
 
 var
+  MockApiClient = require('../spec/MockApiClient.js').MockApiClient,
   Player = require('../lib/Player.js').Player;
 
 describe('Player', function() {
@@ -12,4 +13,24 @@ describe('Player', function() {
     expect(p.get_gamertag()).toEqual('test');
 
   });
+  
+  it('should be constructable from player details nostats mock', function() {
+    var
+      mac = MockApiClient();
+    
+    mac.get('player/details/nostats',
+      mac.mock_args,
+      function(err, data) {
+        var
+          player = Player(data);
+          
+        expect(player.get_gamertag()).toEqual(mac.mock_args.gamertag);
+          
+        asyncSpecDone();
+      }
+    );
+     
+    asyncSpecWait();
+  });
+  
 });
