@@ -2,21 +2,34 @@
 
 var
   fs = require('fs'),
+  $ = require('../node_modules/jquery/dist/node-jquery.js'),
   API_KEY = require('../lib/config.js').API_KEY,
   ApiClient = require('../lib/ApiClient.js').ApiClient;
+
 
 function MockApiClient() {
   var
     instance = {},
     api_mixin = ApiClient(),
-    MOCK_DIR = 'mock_api_responses';
+    MOCK_DIR = 'spec/mock_api_responses';
+    
+  instance.mock_args =
+    {
+      'gamertag': 'cioj',
+      'gameId': '689591721'
+    };
+    
+  instance.FAKE_KEY = '@@@@@';
     
   instance.get_url = function(action, args) {
     var
       opts = api_mixin.get_params(args),
-      url = API_ROOT + '/' + action + '/' + api_mixin.actions[action].params;
+      url = action + '/' + api_mixin.actions[action].params;
       
     url = url.replace(/\//g, '_');
+    url = MOCK_DIR + '/' + url;
+    
+    opts.identifier = instance.FAKE_KEY;
     
     return url.replace(/\{(\w+)\}/g, function(str, match) {
       return match in (opts || {}) ? opts[match] : str;
@@ -27,23 +40,32 @@ function MockApiClient() {
     
   };
   
+  /**
+   * @returns {Array} array of deferreds representing each mock
+   */
   instance.build_mocks = function() {
     var
+      dfds = [],
       action; // for iteration
       
     for (action in api_mixin.actions) {
-      api_mixin.get(action, 
-        {
-          'gamertag': 'cioj',
-          'gameId': '689591721'
-        },
-        function(err, obj) {
-          
-          console.log(err);
-          console.log(obj);
-        }        
-      );
+      if (({}).hasOwnProperty.call(api_mixin.actions, action)) {
+        (function(action, args){
+          var
+            dfd = $.Deferred();
+            
+          dfds.push(dfd);
+          api_mixin.get(action, args,
+            function(err, obj) {
+              fs.writeFile(instance.get_url(action, args), obj);
+              dfd.resolve();
+            }        
+          );
+        })(action, instance.mock_args);          
+      }
     }
+    
+    return dfds;
   };
 
   instance.prototype = MockApiClient.prototype;

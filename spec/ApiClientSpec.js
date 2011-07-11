@@ -14,8 +14,7 @@ describe('ApiClient', function() {
       url = api.get_url(action, args);
       
     expect(api.get_params(args).gamertag).toEqual('h');
-    expect(url).toEqual('api/reach/reachapijson.svc/player/gamehistory/1/h/Unknown/0');
-      
+    expect(url).toEqual('/api/reach/reachapijson.svc/player/gamehistory/1/h/Unknown/0');
     
   });
 });

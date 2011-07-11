@@ -1,8 +1,7 @@
 
 var
   $ = require('../node_modules/jquery/dist/node-jquery.js'),
-  CacheableEntity = require('../lib/CacheableEntity.js').CacheableEntity;
-  
+  CacheableEntity = require('../lib/CacheableEntity.js').CacheableEntity;  
   
 describe('CacheableEntity', function() {
 
