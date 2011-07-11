@@ -47,7 +47,7 @@ describe('CacheableEntity', function() {
     
     mc.store();
 
-    mc = new MockCacheableEntity({'a':2});
+    mc = new MockCacheableEntity({'a':2, 'b':4});
     
     $.when(mc.fetch())
       .done(function() {
@@ -72,7 +72,7 @@ describe('CacheableEntity', function() {
     asyncSpecWait();
   });
   
-  it('should correctly apply instance ttls and catch a cache miss', function() {
+  it('should correctly apply instance ttls', function() {
     
     var
       dfd = $.Deferred();
@@ -80,6 +80,12 @@ describe('CacheableEntity', function() {
     mc.ttl = 1; // 1 second
     mc.store();
     
+    mc.getTtl(function(err, obj) {
+      expect(+obj).toBeGreaterThan(0);
+      asyncSpecDone();
+    });
+    
+    /*
     $.when(dfd)
       .done(function() {
         $.when(mc.fetch())
@@ -94,7 +100,7 @@ describe('CacheableEntity', function() {
       function() {
         dfd.resolve();
       }, 2000);
-
+    */
     asyncSpecWait();
   });
   
