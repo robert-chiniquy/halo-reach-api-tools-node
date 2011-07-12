@@ -23,7 +23,8 @@ function MockApiClient() {
     
   instance.get_url = function(action, args) {
     var
-      opts = api_mixin.get_params(args),
+      mock_args = $.extend(instance.mock_args, args),
+      opts = api_mixin.get_params(mock_args),
       url = action + '/' + api_mixin.actions[action].params;
       
     url = url.replace(/\//g, '_');

@@ -14,6 +14,7 @@ describe('CacheableEntity', function() {
       setters = {
         'a': function(value) {
           props.a = +value;
+//          inst.id = props.a;
         }
       };
     
@@ -77,7 +78,7 @@ describe('CacheableEntity', function() {
     var
       dfd = $.Deferred();
     
-    mc.ttl = 1; // 1 second
+    mc.ttl = 1000;
     mc.store();
     
     mc.getTtl(function(err, obj) {
