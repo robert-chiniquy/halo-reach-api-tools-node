@@ -3,10 +3,11 @@ var
   $ = require('../node_modules/jquery/dist/node-jquery.js'),
   CacheableEntity = require('../lib/CacheableEntity.js').CacheableEntity;  
   
+  
 describe('CacheableEntity', function() {
 
   var
-    mc, mc2;
+    mc, mc2, mc3;
   
   function MockCacheableEntity(props) {
     var
@@ -14,11 +15,16 @@ describe('CacheableEntity', function() {
       setters = {
         'a': function(value) {
           props.a = +value;
-//          inst.id = props.a;
+          inst.id = props.a;
+        },
+        'b': function(value) {
+          props.b = +value;
+        },
+        'complex': function(value) {
+          props.complex = value;
         }
       };
     
-    inst.id = '1';
     inst.type = 'MockCacheableEntity';
 
     inst.getProperties = function() {
@@ -29,6 +35,15 @@ describe('CacheableEntity', function() {
   }
   
   beforeEach(function() {
+    
+    mc3 = new MockCacheableEntity(
+      {
+        'a': 333,
+        'b': 444,
+        'complex': {'3':'salsa'}
+      }
+    );
+
     mc = new MockCacheableEntity( 
       {
         'a': 1,
@@ -37,22 +52,22 @@ describe('CacheableEntity', function() {
       
     mc2 = new MockCacheableEntity(
       {
-        'a': 99,  
-        'b': 'string'
-      });
-      
-    mc2.id = 2;
+        'a': 2,  
+        'b': '9'
+      });    
+    
   });
+  
   
   it('should be able to enter and return from cache', function() {
     
     mc.store();
 
-    mc = new MockCacheableEntity({'a':2, 'b':4});
+    mc = new MockCacheableEntity({'a':1, 'b':4});
     
     $.when(mc.fetch())
       .done(function() {
-        expect(mc.get_a()).toEqual(1);
+        expect(mc.get_b()).toEqual(3);
         asyncSpecDone();
       });
 
@@ -72,6 +87,29 @@ describe('CacheableEntity', function() {
 
     asyncSpecWait();
   });
+  
+  
+  it('should handle complex properties', function() {
+    
+    mc3.store();
+    
+    mc3 = new MockCacheableEntity({'a':333, 'b':4});
+    
+    $.when(mc3.fetch())
+      .done(function() {
+        var
+          complex = mc3.get_complex();
+          
+        expect(mc3.get_b()).toEqual(444);
+        expect(typeof complex[3]).toEqual('string');
+        
+        asyncSpecDone();
+      });
+    
+    asyncSpecWait();
+  });
+  
+  
   
   it('should correctly apply instance ttls', function() {
     
@@ -102,6 +140,7 @@ describe('CacheableEntity', function() {
         dfd.resolve();
       }, 2000);
     */
+    
     asyncSpecWait();
   });
   

@@ -69,7 +69,7 @@ describe('Metadata', function() {
             expect(typeof weapons[0]).toEqual('object');
             expect(weapons[0].Name).toEqual('Unknown Event');
 
-            console.log(meta.get_AllReachPlaylists());
+//            console.log(meta.get_AllReachPlaylists());
             //console.log(meta.getProperties());
 
             asyncSpecDone();
