@@ -60,6 +60,7 @@ describe('Metadata', function() {
         $.when(meta.fetch())
           .done(function() {
             var
+              colors = meta.get_PlayerColorsByIndex(),
               variants = meta.get_GameVariantClassesKeysAndValues(),
               maps = meta.get_AllMapsById(),
               ranks = meta.get_GlobalRanks(),
@@ -87,8 +88,12 @@ describe('Metadata', function() {
             expect(typeof variants).toEqual('object');
             expect(typeof variants[3]).toEqual('string');
             expect(variants[3]).toEqual('Competitive');
+            
+            expect(typeof colors).toEqual('object');
+            expect(typeof colors[0]).toEqual('string');
+            expect(colors[0]).toEqual('383838');
 
-            //console.log(variants);
+            //console.log(colors);
             //console.log(meta.getProperties());
 
             asyncSpecDone();
