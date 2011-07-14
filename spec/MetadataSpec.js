@@ -10,6 +10,11 @@ var
  */
 
 describe('Metadata', function() {
+
+  beforeEach(function() {
+    //Cache.prototype.select(TEST_REDIS_DB);
+  });  
+  
   it('should be constructable from mock', function() {
     var
       mac = MockApiClient();

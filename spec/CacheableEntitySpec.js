@@ -1,6 +1,8 @@
 
 var
   $ = require('../node_modules/jquery/dist/node-jquery.js'),
+  TEST_REDIS_DB = require('../lib/config.js').TEST_REDIS_DB,  
+  Cache = require('../lib/Cache.js').Cache,
   CacheableEntity = require('../lib/CacheableEntity.js').CacheableEntity;  
   
   
@@ -8,6 +10,11 @@ describe('CacheableEntity', function() {
 
   var
     mc, mc2, mc3;
+  
+  beforeEach(function() {
+    Cache.prototype.select(TEST_REDIS_DB);
+    Cache.prototype.flushdb();
+  });
   
   function MockCacheableEntity(props) {
     var
@@ -22,6 +29,9 @@ describe('CacheableEntity', function() {
         },
         'complex': function(value) {
           props.complex = value;
+        },
+        'arr': function(value) {
+          props.arr = value;
         }
       };
     
@@ -40,7 +50,8 @@ describe('CacheableEntity', function() {
       {
         'a': 333,
         'b': 444,
-        'complex': {'3':'salsa'}
+        'complex': {'3':'salsa'},
+        'arr': ['pirate', 'parrot']
       }
     );
 
@@ -63,7 +74,7 @@ describe('CacheableEntity', function() {
     
     mc.store();
 
-    mc = new MockCacheableEntity({'a':1, 'b':4});
+    mc.set_b(444);
     
     $.when(mc.fetch())
       .done(function() {
@@ -74,6 +85,7 @@ describe('CacheableEntity', function() {
     asyncSpecWait();
     
   });
+  
   
   it("shouldn't allow collisions with different ids", function() {
     mc.store();
@@ -93,23 +105,27 @@ describe('CacheableEntity', function() {
     
     mc3.store();
     
-    mc3 = new MockCacheableEntity({'a':333, 'b':4});
+    mc3.set_b('1313');
+    mc3.set_complex({});
+    mc3.set_arr([]);
     
     $.when(mc3.fetch())
       .done(function() {
         var
+          arr = mc3.get_arr(),
           complex = mc3.get_complex();
           
         expect(mc3.get_b()).toEqual(444);
         expect(typeof complex[3]).toEqual('string');
+        expect(complex[3]).toEqual('salsa');
+        expect(typeof arr[0]).toEqual('string');
+        expect(typeof arr[1]).toEqual('string');
         
         asyncSpecDone();
       });
     
     asyncSpecWait();
-  });
-  
-  
+  });  
   
   it('should correctly apply instance ttls', function() {
     
