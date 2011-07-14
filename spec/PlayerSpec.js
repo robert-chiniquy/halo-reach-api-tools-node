@@ -29,7 +29,7 @@ describe('Player', function() {
         asyncSpecDone();
       }
     );
-     
+    
     asyncSpecWait();
   });
   
