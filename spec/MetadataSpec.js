@@ -60,21 +60,35 @@ describe('Metadata', function() {
         $.when(meta.fetch())
           .done(function() {
             var
+              variants = meta.get_GameVariantClassesKeysAndValues(),
+              maps = meta.get_AllMapsById(),
+              ranks = meta.get_GlobalRanks(),
+              playlists = meta.get_AllReachPlaylists(),
               weapons = meta.get_AllWeaponsById();
               
             expect(typeof meta.get_CurrentArenaSeason()).toEqual('number');
-            expect(typeof meta.get_AllReachPlaylists()).toEqual('object');
             
-            //expect(meta.get_AllReachPlaylists()[0]).toEqual(false);
+            expect(typeof playlists).toNotEqual('undefined');
+            expect(typeof playlists[101]).toNotEqual('undefined');
+            expect(playlists[101].Id).toEqual('101');
             
-            expect(typeof meta.get_GlobalRanks()).toEqual('object');
-            expect(meta.get_GlobalRanks()[0].DisplayName).toEqual('Recruit');
+            expect(typeof ranks).toEqual('object');
+            expect(ranks[0].DisplayName).toEqual('Recruit');
             
             expect(typeof weapons).toEqual('object');            
             expect(typeof weapons[0]).toEqual('object');
             expect(weapons[0].Name).toEqual('Unknown Event');
 
-//            console.log(meta.get_AllReachPlaylists());
+            expect(typeof maps).toEqual('object');
+            expect(typeof maps[1035]).toEqual('object');
+            expect(typeof maps[1035].Name).toEqual('string');            
+            expect(maps[1035].Name).toEqual('Boardwalk');            
+
+            expect(typeof variants).toEqual('object');
+            expect(typeof variants[3]).toEqual('string');
+            expect(variants[3]).toEqual('Competitive');
+
+            //console.log(variants);
             //console.log(meta.getProperties());
 
             asyncSpecDone();
