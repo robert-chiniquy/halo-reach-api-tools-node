@@ -1,3 +1,4 @@
+
 var
   $ = require('../node_modules/jquery/dist/node-jquery.js'),
   MockApiClient = require('../spec/MockApiClient.js').MockApiClient,
