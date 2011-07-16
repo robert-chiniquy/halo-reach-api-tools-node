@@ -9,7 +9,7 @@ describe('MockApiClient', function() {
       mac = MockApiClient();
       
     expect(mac.get_url('player/gamehistory', mac.mock_args))
-      .toEqual('spec/mock_api_responses/player_gamehistory_' + mac.FAKE_KEY + '_cioj_Unknown_0');
+      .toEqual('spec/mock_api_responses/player_gamehistory_' + mac.FAKE_KEY + '_cioj_Unknown_0.json');
   });
   
   /* uncomment this test only to build mocks

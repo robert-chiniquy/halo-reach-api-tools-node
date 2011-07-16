@@ -36,6 +36,8 @@ function MockApiClient() {
     url = url.replace(/\//g, '_');
     url = MOCK_DIR + '/' + url;
     
+    url = url + '.json';
+    
     opts.identifier = instance.FAKE_KEY;
     
     return url.replace(/\{(\w+)\}/g, function(str, match) {

@@ -14,6 +14,7 @@ describe('Player', function() {
 
   });
   
+  
   it('should be constructable from player details nostats mock', function() {
     var
       mac = MockApiClient();
