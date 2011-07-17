@@ -42,7 +42,7 @@ describe('Player', function() {
         
       });
 
-    if (!completed) {
+    if (!completed) { // asyncSpecDone() might already have been called
       asyncSpecWait();
     }
   });
@@ -70,8 +70,4 @@ describe('Player', function() {
     asyncSpecWait();
   });
   
-
-
-
-
 });

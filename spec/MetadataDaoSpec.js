@@ -43,6 +43,8 @@ describe('MetadataDao', function() {
     mdd.get(function(err, obj) {
       meta = obj;
       
+      //console.log(meta.getKey());
+      
       $.when(mdd.exists())
         .fail(function(){
           existed = false;

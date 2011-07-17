@@ -1,18 +1,51 @@
 
 var
+  $ = require('../node_modules/jquery/dist/node-jquery.js'),
   MockApiClient = require('../spec/MockApiClient.js').MockApiClient,
+  Cache = require('../lib/Cache.js').Cache,  
+  TEST_REDIS_DB = require('../lib/config.js').TEST_REDIS_DB,    
+  MetadataDao = require('../lib/MetadataDao.js').MetadataDao,   
   Game = require('../lib/Game.js').Game;
   
   
 describe('Game', function() {
-  it('should be able to be instantiated', function() {
-    var
-      game_props = {'GameId':'test'},
-      g = Game(game_props);
+  var
+    meta_dfd, // deferred resolved when metadata is ready
+    metadata; // metadata
 
-    expect(g).toNotEqual(false);
-    expect(typeof g.get_Teams()).toEqual('undefined');
+  beforeEach(function() {
+    
+    var
+      mdd = MetadataDao(MockApiClient);
+
+    meta_dfd = 
+      mdd.get(
+        function(err, obj) {
+          metadata = obj;
+        }
+      );
+      
+    Cache.prototype.select(TEST_REDIS_DB);    
+    Cache.prototype.flushdb();
+  });  
+  
+  
+  it('should be able to be instantiated', function() {
+    
+    $.when(meta_dfd)
+      .done(function() {
+
+        var
+          game_props = {'GameId':'test'},
+          g = Game(metadata, game_props);
+
+        expect(g).toNotEqual(false);
+        expect(typeof g.get_Teams()).toEqual('undefined');
+
+      }    
+    );
   });
+  
   
   it('should be constructable from game details mock', function() {
     var
@@ -22,7 +55,7 @@ describe('Game', function() {
       mac.mock_args,
       function(err, data) {
         var
-          game = Game(data);
+          game = Game(metadata, data);
           
         expect(game.get_GameId()).toEqual(mac.mock_args.gameId);
           
@@ -32,4 +65,31 @@ describe('Game', function() {
      
     asyncSpecWait();
   });
+  
+  it('should load from game history mock', function() {
+    var
+      mac = MockApiClient();
+    
+    $.when(meta_dfd)
+      .done(function() {
+        mac.get('player/gamehistory',
+          mac.mock_args,
+          function(err, data) {
+//            
+//            
+//            
+//            var
+//              game = Game(metadata, data);
+
+//            expect(player.get_gamertag()).toEqual(mac.mock_args.gamertag);
+
+            asyncSpecDone();
+          }
+        )
+      });
+    
+    asyncSpecWait();
+  });
+  
+  
 });

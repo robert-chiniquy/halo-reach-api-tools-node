@@ -27,6 +27,7 @@ describe('PlayerDao', function() {
     Cache.prototype.flushdb();    
   });
 
+  
   it('should detect non-existence', function() {
     var
       existed,
@@ -159,7 +160,7 @@ describe('PlayerDao', function() {
 
     asyncSpecWait();        
   });
-
+  
 
 
 });

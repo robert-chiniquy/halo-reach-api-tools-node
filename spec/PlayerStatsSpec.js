@@ -15,13 +15,15 @@ describe('PlayerStats', function() {
     var
       mdd = MetadataDao(MockApiClient);
 
-    meta_dfd = mdd.get(
+    meta_dfd = 
+      mdd.get(
         function(err, obj) {
           meta = obj;
         }
       );
   });
 
+  
   it('should be able to be instantiated', function() {
     var
       player_stats_props = {
@@ -29,10 +31,12 @@ describe('PlayerStats', function() {
       },
       ps;
 
-    $.when(meta_dfd).done(function() {
-      ps = PlayerStats('cioj', meta, player_stats_props);
-      expect(ps).toNotEqual(false);
-      expect(ps.gamertag).toEqual('cioj');
+    $.when(meta_dfd)
+      .done(function() {
+  //      console.log(meta.getProperties());
+        ps = PlayerStats('cioj', meta, player_stats_props);
+        expect(ps).toNotEqual(false);
+        expect(ps.gamertag).toEqual('cioj');
     });
 
   });
@@ -56,7 +60,7 @@ describe('PlayerStats', function() {
 
             expect(player_stats_arr[i].gamertag).toEqual(mac.mock_args.gamertag);
             expect(typeof player_stats_arr[i].get_MapId()).toEqual('number');
-            //expect(typeof player_stats_arr[0].get_MapName()).toEqual('string');            
+            //expect(typeof player_stats_arr[i].get_MapName()).toEqual('string');            
             
           }          
 
@@ -73,26 +77,28 @@ describe('PlayerStats', function() {
       mac = MockApiClient();
      
     // have to get metadata before you can instantiate stats
-    $.when(meta_dfd).done(function() {
-      //console.log(meta.get_AllMapsById());
-      mac.get('player/details/byplaylist',
-        mac.mock_args,
-        function(err, data) { // data is an array of playerstats objects
-          var
-            i, // for iteration
-            player_stats_arr = [];
+    $.when(meta_dfd)
+      .done(function() {
+        mac.get('player/details/byplaylist',
+          mac.mock_args,
+          function(err, data) { // data is an array of playerstats objects
+            var
+              i, // for iteration
+              player_stats_arr = [];
 
-          for (i=0; i<data.length; i++) {
-            player_stats_arr[i] = PlayerStats(mac.mock_args.gamertag, meta, data[i]);
+            for (i=0; i<data.length; i++) {
+              
+              player_stats_arr[i] = PlayerStats(mac.mock_args.gamertag, meta, data[i]);
 
-            expect(player_stats_arr[i].gamertag).toEqual(mac.mock_args.gamertag);
-            expect(typeof player_stats_arr[i].get_HopperId()).toEqual('number');
-            expect(typeof player_stats_arr[0].get_PlaylistName()).toEqual('string');            
-          }          
-          
-          asyncSpecDone();
-        }
-      );
+              expect(player_stats_arr[i].gamertag).toEqual(mac.mock_args.gamertag);
+
+              expect(typeof player_stats_arr[i].get_HopperId()).toEqual('number');
+              expect(typeof player_stats_arr[i].get_PlaylistName()).toEqual('string');            
+            }          
+
+            asyncSpecDone();
+          }
+        );
     });
     
     asyncSpecWait();
