@@ -1,1 +1,224 @@
-{"reason":"Okay","status":0,"AiStatistics":null,"CurrentRankIndex":"E50B16A8-EAC9-4D98-B012-3B88338C01C3","CurrentSeasonArenaStatistics":null,"Player":{"CampaignProgressCoop":"PartialNormal","CampaignProgressSp":"None","Initialized":true,"IsGuest":false,"LastGameVariantClassPlayed":"Competitive","ReachEmblem":{"background_index":51,"change_colors":[0,25,25,15],"flags":1,"foreground_index":13},"appearance_primary_color":0,"appearance_secondary_color":25,"armor_completion_percentage":0.73202616,"credits_lifetime":2984252,"daily_challenges_completed":175,"first_active":"\/Date(1284569520000-0700)\/","gamertag":"cioj","games_total":2089,"last_active":"\/Date(1310348640000-0700)\/","service_tag":"BAIT","weekly_challenges_completed":2,"CommendationState":[{"Key":0,"Value":5145},{"Key":1,"Value":1718},{"Key":2,"Value":1346},{"Key":3,"Value":4479},{"Key":4,"Value":7502},{"Key":5,"Value":11582},{"Key":6,"Value":45},{"Key":7,"Value":2924},{"Key":8,"Value":863},{"Key":9,"Value":1846},{"Key":10,"Value":164},{"Key":11,"Value":2589},{"Key":12,"Value":76},{"Key":13,"Value":8587},{"Key":14,"Value":183},{"Key":15,"Value":165},{"Key":16,"Value":380},{"Key":17,"Value":376},{"Key":18,"Value":81},{"Key":19,"Value":440},{"Key":20,"Value":21},{"Key":21,"Value":50},{"Key":22,"Value":78},{"Key":23,"Value":200},{"Key":24,"Value":98},{"Key":25,"Value":28},{"Key":26,"Value":11},{"Key":27,"Value":5},{"Key":28,"Value":2},{"Key":29,"Value":119},{"Key":30,"Value":6},{"Key":31,"Value":182},{"Key":32,"Value":81},{"Key":33,"Value":56},{"Key":34,"Value":33},{"Key":35,"Value":115},{"Key":36,"Value":29},{"Key":37,"Value":88},{"Key":38,"Value":41},{"Key":39,"Value":13},{"Key":40,"Value":9},{"Key":41,"Value":11},{"Key":42,"Value":18},{"Key":43,"Value":8},{"Key":44,"Value":4}],"commendation_completion_percentage":0.24},"PlayerModelUrl":"\/stats\/reach\/playermodel.ashx?rpis=kcDP9B4xtDtwyFpwp8YqlVV1Aczuu5A8Pl17UfNoxTM=","PlayerModelUrlHiRes":"\/stats\/reach\/playermodel.ashx?rpis=WdikVpDB0$5Jq9ulzpUC3w==","PriorSeasonArenaStatistics":null,"StatisticsByMap":null,"StatisticsByPlaylist":null}
+{
+    "reason": "Okay",
+    "status": 0,
+    "AiStatistics": null,
+    "CurrentRankIndex": "E50B16A8-EAC9-4D98-B012-3B88338C01C3",
+    "CurrentSeasonArenaStatistics": null,
+    "Player": {
+        "CampaignProgressCoop": "PartialNormal",
+        "CampaignProgressSp": "None",
+        "Initialized": true,
+        "IsGuest": false,
+        "LastGameVariantClassPlayed": "Competitive",
+        "ReachEmblem": {
+            "background_index": 51,
+            "change_colors": [
+                0,
+                25,
+                25,
+                15
+            ],
+            "flags": 1,
+            "foreground_index": 13
+        },
+        "appearance_primary_color": 0,
+        "appearance_secondary_color": 25,
+        "armor_completion_percentage": 0.73202616,
+        "credits_lifetime": 2984252,
+        "daily_challenges_completed": 175,
+        "first_active": "/Date(1284569520000-0700)/",
+        "gamertag": "cioj",
+        "games_total": 2089,
+        "last_active": "/Date(1310348640000-0700)/",
+        "service_tag": "BAIT",
+        "weekly_challenges_completed": 2,
+        "CommendationState": [
+            {
+                "Key": 0,
+                "Value": 5145
+            },
+            {
+                "Key": 1,
+                "Value": 1718
+            },
+            {
+                "Key": 2,
+                "Value": 1346
+            },
+            {
+                "Key": 3,
+                "Value": 4479
+            },
+            {
+                "Key": 4,
+                "Value": 7502
+            },
+            {
+                "Key": 5,
+                "Value": 11582
+            },
+            {
+                "Key": 6,
+                "Value": 45
+            },
+            {
+                "Key": 7,
+                "Value": 2924
+            },
+            {
+                "Key": 8,
+                "Value": 863
+            },
+            {
+                "Key": 9,
+                "Value": 1846
+            },
+            {
+                "Key": 10,
+                "Value": 164
+            },
+            {
+                "Key": 11,
+                "Value": 2589
+            },
+            {
+                "Key": 12,
+                "Value": 76
+            },
+            {
+                "Key": 13,
+                "Value": 8587
+            },
+            {
+                "Key": 14,
+                "Value": 183
+            },
+            {
+                "Key": 15,
+                "Value": 165
+            },
+            {
+                "Key": 16,
+                "Value": 380
+            },
+            {
+                "Key": 17,
+                "Value": 376
+            },
+            {
+                "Key": 18,
+                "Value": 81
+            },
+            {
+                "Key": 19,
+                "Value": 440
+            },
+            {
+                "Key": 20,
+                "Value": 21
+            },
+            {
+                "Key": 21,
+                "Value": 50
+            },
+            {
+                "Key": 22,
+                "Value": 78
+            },
+            {
+                "Key": 23,
+                "Value": 200
+            },
+            {
+                "Key": 24,
+                "Value": 98
+            },
+            {
+                "Key": 25,
+                "Value": 28
+            },
+            {
+                "Key": 26,
+                "Value": 11
+            },
+            {
+                "Key": 27,
+                "Value": 5
+            },
+            {
+                "Key": 28,
+                "Value": 2
+            },
+            {
+                "Key": 29,
+                "Value": 119
+            },
+            {
+                "Key": 30,
+                "Value": 6
+            },
+            {
+                "Key": 31,
+                "Value": 182
+            },
+            {
+                "Key": 32,
+                "Value": 81
+            },
+            {
+                "Key": 33,
+                "Value": 56
+            },
+            {
+                "Key": 34,
+                "Value": 33
+            },
+            {
+                "Key": 35,
+                "Value": 115
+            },
+            {
+                "Key": 36,
+                "Value": 29
+            },
+            {
+                "Key": 37,
+                "Value": 88
+            },
+            {
+                "Key": 38,
+                "Value": 41
+            },
+            {
+                "Key": 39,
+                "Value": 13
+            },
+            {
+                "Key": 40,
+                "Value": 9
+            },
+            {
+                "Key": 41,
+                "Value": 11
+            },
+            {
+                "Key": 42,
+                "Value": 18
+            },
+            {
+                "Key": 43,
+                "Value": 8
+            },
+            {
+                "Key": 44,
+                "Value": 4
+            }
+        ],
+        "commendation_completion_percentage": 0.24
+    },
+    "PlayerModelUrl": "/stats/reach/playermodel.ashx?rpis=kcDP9B4xtDtwyFpwp8YqlVV1Aczuu5A8Pl17UfNoxTM=",
+    "PlayerModelUrlHiRes": "/stats/reach/playermodel.ashx?rpis=WdikVpDB0$5Jq9ulzpUC3w==",
+    "PriorSeasonArenaStatistics": null,
+    "StatisticsByMap": null,
+    "StatisticsByPlaylist": null
+}

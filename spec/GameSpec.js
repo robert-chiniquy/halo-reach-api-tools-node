@@ -75,13 +75,16 @@ describe('Game', function() {
         mac.get('player/gamehistory',
           mac.mock_args,
           function(err, data) {
-//            
-//            
-//            
-//            var
-//              game = Game(metadata, data);
+            var
+              i, // for iteration
+              games = [];
 
-//            expect(player.get_gamertag()).toEqual(mac.mock_args.gamertag);
+            for (i=0; i<data.length; i++) {
+              //games[i] = Game(metadata, data[i]);
+              
+            }
+            
+            //console.log(games[0].getProperties());
 
             asyncSpecDone();
           }

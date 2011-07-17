@@ -22,7 +22,6 @@ describe('PlayerStats', function() {
         }
       );
   });
-
   
   it('should be able to be instantiated', function() {
     var
@@ -40,7 +39,6 @@ describe('PlayerStats', function() {
     });
 
   });
-  
  
   it('should be constructable from the map stats mock', function() {
     var

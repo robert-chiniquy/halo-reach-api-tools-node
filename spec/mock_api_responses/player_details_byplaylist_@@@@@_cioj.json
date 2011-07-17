@@ -1,1 +1,5017 @@
-{"reason":"Okay","status":0,"AiStatistics":null,"CurrentRankIndex":"E50B16A8-EAC9-4D98-B012-3B88338C01C3","CurrentSeasonArenaStatistics":[],"Player":{"CampaignProgressCoop":"PartialNormal","CampaignProgressSp":"None","Initialized":true,"IsGuest":false,"LastGameVariantClassPlayed":"Competitive","ReachEmblem":{"background_index":51,"change_colors":[0,25,25,15],"flags":1,"foreground_index":13},"appearance_primary_color":0,"appearance_secondary_color":25,"armor_completion_percentage":0.73202616,"credits_lifetime":2984252,"daily_challenges_completed":175,"first_active":"\/Date(1284569520000-0700)\/","gamertag":"cioj","games_total":2089,"last_active":"\/Date(1310348640000-0700)\/","service_tag":"BAIT","weekly_challenges_completed":2,"CommendationState":[{"Key":0,"Value":5145},{"Key":1,"Value":1718},{"Key":2,"Value":1346},{"Key":3,"Value":4479},{"Key":4,"Value":7502},{"Key":5,"Value":11582},{"Key":6,"Value":45},{"Key":7,"Value":2924},{"Key":8,"Value":863},{"Key":9,"Value":1846},{"Key":10,"Value":164},{"Key":11,"Value":2589},{"Key":12,"Value":76},{"Key":13,"Value":8587},{"Key":14,"Value":183},{"Key":15,"Value":165},{"Key":16,"Value":380},{"Key":17,"Value":376},{"Key":18,"Value":81},{"Key":19,"Value":440},{"Key":20,"Value":21},{"Key":21,"Value":50},{"Key":22,"Value":78},{"Key":23,"Value":200},{"Key":24,"Value":98},{"Key":25,"Value":28},{"Key":26,"Value":11},{"Key":27,"Value":5},{"Key":28,"Value":2},{"Key":29,"Value":119},{"Key":30,"Value":6},{"Key":31,"Value":182},{"Key":32,"Value":81},{"Key":33,"Value":56},{"Key":34,"Value":33},{"Key":35,"Value":115},{"Key":36,"Value":29},{"Key":37,"Value":88},{"Key":38,"Value":41},{"Key":39,"Value":13},{"Key":40,"Value":9},{"Key":41,"Value":11},{"Key":42,"Value":18},{"Key":43,"Value":8},{"Key":44,"Value":4}],"commendation_completion_percentage":0.24},"PlayerModelUrl":"\/stats\/reach\/playermodel.ashx?rpis=kcDP9B4xtDtwyFpwp8YqlVV1Aczuu5A8Pl17UfNoxTM=","PlayerModelUrlHiRes":"\/stats\/reach\/playermodel.ashx?rpis=WdikVpDB0$5Jq9ulzpUC3w==","PriorSeasonArenaStatistics":[],"StatisticsByMap":null,"StatisticsByPlaylist":[{"HopperId":101,"MedalChestCompletionPercentage":0.203125,"TotalMedals":499,"VariantClass":3,"game_count":26,"high_score":85,"season_id":-1,"total_assists":71,"total_betrayals":0,"total_deaths":353,"total_first_place":2,"total_kills":459,"total_score":547,"total_top_half_place":22,"total_top_third_place":19,"total_wins":22,"DeathsByDamageType":[{"Key":4,"Value":10},{"Key":5,"Value":38},{"Key":6,"Value":60},{"Key":7,"Value":37},{"Key":8,"Value":10},{"Key":9,"Value":13},{"Key":11,"Value":23},{"Key":12,"Value":2},{"Key":14,"Value":4},{"Key":17,"Value":13},{"Key":20,"Value":10},{"Key":21,"Value":19},{"Key":22,"Value":22},{"Key":41,"Value":1},{"Key":43,"Value":88},{"Key":44,"Value":1},{"Key":63,"Value":2}],"KillsByDamageType":[{"Key":4,"Value":7},{"Key":5,"Value":36},{"Key":6,"Value":96},{"Key":7,"Value":63},{"Key":8,"Value":14},{"Key":9,"Value":21},{"Key":11,"Value":31},{"Key":12,"Value":1},{"Key":14,"Value":6},{"Key":17,"Value":3},{"Key":19,"Value":1},{"Key":20,"Value":11},{"Key":21,"Value":19},{"Key":22,"Value":5},{"Key":23,"Value":6},{"Key":43,"Value":139}],"MapId":null,"MedalCountsByType":[{"Key":2,"Value":33},{"Key":3,"Value":4},{"Key":11,"Value":15},{"Key":12,"Value":2},{"Key":23,"Value":2},{"Key":32,"Value":1},{"Key":47,"Value":1},{"Key":67,"Value":17},{"Key":69,"Value":4},{"Key":70,"Value":7},{"Key":71,"Value":23},{"Key":72,"Value":139},{"Key":82,"Value":1},{"Key":85,"Value":77},{"Key":86,"Value":6},{"Key":89,"Value":71},{"Key":91,"Value":43},{"Key":92,"Value":5},{"Key":93,"Value":25},{"Key":94,"Value":8},{"Key":95,"Value":1},{"Key":96,"Value":5},{"Key":99,"Value":1},{"Key":103,"Value":4},{"Key":104,"Value":3},{"Key":124,"Value":1}],"total_playtime":"PT3H27M25S"},{"HopperId":102,"MedalChestCompletionPercentage":0.375,"TotalMedals":24191,"VariantClass":3,"game_count":1497,"high_score":32,"season_id":-1,"total_assists":3452,"total_betrayals":84,"total_deaths":16581,"total_first_place":798,"total_kills":20315,"total_score":20070,"total_top_half_place":798,"total_top_third_place":798,"total_wins":798,"DeathsByDamageType":[{"Key":4,"Value":901},{"Key":5,"Value":2108},{"Key":6,"Value":3329},{"Key":7,"Value":1204},{"Key":8,"Value":1067},{"Key":9,"Value":521},{"Key":11,"Value":1273},{"Key":12,"Value":87},{"Key":13,"Value":15},{"Key":14,"Value":300},{"Key":15,"Value":6},{"Key":16,"Value":36},{"Key":17,"Value":642},{"Key":18,"Value":2},{"Key":19,"Value":41},{"Key":20,"Value":59},{"Key":21,"Value":1002},{"Key":22,"Value":768},{"Key":23,"Value":203},{"Key":41,"Value":126},{"Key":42,"Value":18},{"Key":43,"Value":2813},{"Key":44,"Value":9},{"Key":52,"Value":7},{"Key":54,"Value":28},{"Key":63,"Value":16}],"KillsByDamageType":[{"Key":4,"Value":723},{"Key":5,"Value":1989},{"Key":6,"Value":3083},{"Key":7,"Value":2777},{"Key":8,"Value":1966},{"Key":9,"Value":994},{"Key":11,"Value":1436},{"Key":12,"Value":102},{"Key":14,"Value":336},{"Key":16,"Value":149},{"Key":17,"Value":444},{"Key":18,"Value":1},{"Key":19,"Value":38},{"Key":20,"Value":90},{"Key":21,"Value":991},{"Key":22,"Value":656},{"Key":23,"Value":324},{"Key":32,"Value":1},{"Key":43,"Value":4179},{"Key":44,"Value":16},{"Key":54,"Value":1},{"Key":63,"Value":19}],"MapId":null,"MedalCountsByType":[{"Key":0,"Value":2},{"Key":1,"Value":5},{"Key":2,"Value":1124},{"Key":3,"Value":67},{"Key":4,"Value":5},{"Key":11,"Value":747},{"Key":12,"Value":82},{"Key":13,"Value":19},{"Key":14,"Value":4},{"Key":20,"Value":63},{"Key":21,"Value":3},{"Key":23,"Value":93},{"Key":24,"Value":10},{"Key":29,"Value":31},{"Key":47,"Value":4},{"Key":50,"Value":3},{"Key":59,"Value":13},{"Key":62,"Value":72},{"Key":63,"Value":1},{"Key":66,"Value":137},{"Key":67,"Value":528},{"Key":69,"Value":298},{"Key":70,"Value":964},{"Key":71,"Value":748},{"Key":72,"Value":4334},{"Key":85,"Value":2849},{"Key":86,"Value":410},{"Key":87,"Value":44},{"Key":89,"Value":3452},{"Key":91,"Value":2304},{"Key":92,"Value":223},{"Key":93,"Value":1155},{"Key":94,"Value":294},{"Key":95,"Value":92},{"Key":96,"Value":482},{"Key":97,"Value":5},{"Key":99,"Value":40},{"Key":100,"Value":4},{"Key":101,"Value":1230},{"Key":102,"Value":177},{"Key":103,"Value":815},{"Key":104,"Value":54},{"Key":117,"Value":878},{"Key":118,"Value":102},{"Key":121,"Value":35},{"Key":124,"Value":25},{"Key":126,"Value":157},{"Key":127,"Value":7}],"total_playtime":"P9DT50M13S"},{"HopperId":103,"MedalChestCompletionPercentage":0.2421875,"TotalMedals":424,"VariantClass":1,"game_count":25,"high_score":23,"season_id":-1,"total_assists":100,"total_betrayals":1,"total_deaths":313,"total_first_place":16,"total_kills":334,"total_score":182,"total_top_half_place":16,"total_top_third_place":16,"total_wins":16,"DeathsByDamageType":[{"Key":4,"Value":8},{"Key":5,"Value":24},{"Key":6,"Value":40},{"Key":7,"Value":23},{"Key":8,"Value":15},{"Key":9,"Value":4},{"Key":10,"Value":4},{"Key":11,"Value":5},{"Key":12,"Value":6},{"Key":14,"Value":8},{"Key":16,"Value":9},{"Key":17,"Value":17},{"Key":19,"Value":3},{"Key":20,"Value":2},{"Key":21,"Value":17},{"Key":22,"Value":25},{"Key":23,"Value":3},{"Key":24,"Value":2},{"Key":27,"Value":3},{"Key":29,"Value":3},{"Key":30,"Value":5},{"Key":34,"Value":3},{"Key":37,"Value":7},{"Key":38,"Value":1},{"Key":41,"Value":4},{"Key":42,"Value":7},{"Key":43,"Value":56},{"Key":44,"Value":1},{"Key":55,"Value":4},{"Key":63,"Value":3},{"Key":64,"Value":1}],"KillsByDamageType":[{"Key":4,"Value":17},{"Key":5,"Value":15},{"Key":6,"Value":38},{"Key":7,"Value":16},{"Key":8,"Value":15},{"Key":9,"Value":8},{"Key":11,"Value":14},{"Key":14,"Value":21},{"Key":16,"Value":22},{"Key":17,"Value":17},{"Key":19,"Value":1},{"Key":20,"Value":1},{"Key":21,"Value":21},{"Key":22,"Value":29},{"Key":23,"Value":10},{"Key":24,"Value":7},{"Key":29,"Value":2},{"Key":33,"Value":1},{"Key":34,"Value":10},{"Key":37,"Value":2},{"Key":43,"Value":58},{"Key":44,"Value":3},{"Key":55,"Value":5},{"Key":63,"Value":1}],"MapId":null,"MedalCountsByType":[{"Key":2,"Value":21},{"Key":3,"Value":3},{"Key":11,"Value":7},{"Key":20,"Value":1},{"Key":63,"Value":5},{"Key":66,"Value":3},{"Key":67,"Value":2},{"Key":69,"Value":12},{"Key":70,"Value":4},{"Key":71,"Value":13},{"Key":72,"Value":62},{"Key":74,"Value":1},{"Key":81,"Value":2},{"Key":85,"Value":48},{"Key":86,"Value":23},{"Key":87,"Value":3},{"Key":89,"Value":98},{"Key":91,"Value":27},{"Key":92,"Value":3},{"Key":93,"Value":24},{"Key":94,"Value":4},{"Key":95,"Value":1},{"Key":96,"Value":1},{"Key":100,"Value":2},{"Key":101,"Value":24},{"Key":102,"Value":5},{"Key":103,"Value":4},{"Key":117,"Value":12},{"Key":118,"Value":2},{"Key":121,"Value":1},{"Key":126,"Value":6}],"total_playtime":"PT5H34M55S"},{"HopperId":105,"MedalChestCompletionPercentage":0.1875,"TotalMedals":92,"VariantClass":3,"game_count":7,"high_score":5,"season_id":-1,"total_assists":10,"total_betrayals":1,"total_deaths":41,"total_first_place":4,"total_kills":66,"total_score":7,"total_top_half_place":4,"total_top_third_place":4,"total_wins":4,"DeathsByDamageType":[{"Key":4,"Value":2},{"Key":5,"Value":6},{"Key":7,"Value":1},{"Key":8,"Value":6},{"Key":11,"Value":4},{"Key":14,"Value":1},{"Key":17,"Value":1},{"Key":21,"Value":1},{"Key":22,"Value":3},{"Key":25,"Value":2},{"Key":27,"Value":1},{"Key":43,"Value":7},{"Key":46,"Value":2},{"Key":47,"Value":1},{"Key":49,"Value":3}],"KillsByDamageType":[{"Key":4,"Value":4},{"Key":5,"Value":4},{"Key":6,"Value":4},{"Key":7,"Value":3},{"Key":8,"Value":6},{"Key":11,"Value":7},{"Key":14,"Value":2},{"Key":16,"Value":1},{"Key":17,"Value":2},{"Key":20,"Value":2},{"Key":21,"Value":8},{"Key":22,"Value":2},{"Key":23,"Value":1},{"Key":43,"Value":19},{"Key":46,"Value":1}],"MapId":null,"MedalCountsByType":[{"Key":2,"Value":5},{"Key":11,"Value":4},{"Key":29,"Value":1},{"Key":67,"Value":1},{"Key":69,"Value":2},{"Key":70,"Value":3},{"Key":71,"Value":5},{"Key":72,"Value":21},{"Key":76,"Value":2},{"Key":78,"Value":1},{"Key":79,"Value":4},{"Key":81,"Value":3},{"Key":85,"Value":7},{"Key":86,"Value":2},{"Key":89,"Value":10},{"Key":91,"Value":5},{"Key":92,"Value":2},{"Key":93,"Value":3},{"Key":94,"Value":2},{"Key":101,"Value":3},{"Key":102,"Value":1},{"Key":104,"Value":3},{"Key":117,"Value":1},{"Key":118,"Value":1}],"total_playtime":"PT45M13S"},{"HopperId":109,"MedalChestCompletionPercentage":0.3203125,"TotalMedals":1541,"VariantClass":3,"game_count":102,"high_score":27,"season_id":-1,"total_assists":273,"total_betrayals":9,"total_deaths":1072,"total_first_place":58,"total_kills":1316,"total_score":1076,"total_top_half_place":58,"total_top_third_place":58,"total_wins":58,"DeathsByDamageType":[{"Key":4,"Value":32},{"Key":5,"Value":8},{"Key":6,"Value":374},{"Key":7,"Value":16},{"Key":8,"Value":175},{"Key":9,"Value":10},{"Key":10,"Value":3},{"Key":11,"Value":66},{"Key":12,"Value":1},{"Key":14,"Value":9},{"Key":16,"Value":5},{"Key":17,"Value":22},{"Key":19,"Value":2},{"Key":20,"Value":3},{"Key":21,"Value":7},{"Key":22,"Value":4},{"Key":23,"Value":13},{"Key":24,"Value":33},{"Key":25,"Value":12},{"Key":27,"Value":18},{"Key":29,"Value":7},{"Key":30,"Value":27},{"Key":32,"Value":3},{"Key":33,"Value":4},{"Key":34,"Value":30},{"Key":37,"Value":27},{"Key":38,"Value":1},{"Key":41,"Value":11},{"Key":42,"Value":10},{"Key":43,"Value":110},{"Key":44,"Value":4},{"Key":46,"Value":1},{"Key":52,"Value":9},{"Key":54,"Value":9},{"Key":63,"Value":4},{"Key":64,"Value":2}],"KillsByDamageType":[{"Key":4,"Value":4},{"Key":5,"Value":1},{"Key":6,"Value":478},{"Key":7,"Value":52},{"Key":8,"Value":200},{"Key":9,"Value":65},{"Key":10,"Value":21},{"Key":11,"Value":63},{"Key":12,"Value":4},{"Key":14,"Value":6},{"Key":16,"Value":4},{"Key":17,"Value":23},{"Key":19,"Value":2},{"Key":20,"Value":7},{"Key":21,"Value":23},{"Key":22,"Value":7},{"Key":23,"Value":17},{"Key":24,"Value":50},{"Key":25,"Value":6},{"Key":27,"Value":1},{"Key":28,"Value":3},{"Key":29,"Value":19},{"Key":30,"Value":1},{"Key":32,"Value":1},{"Key":33,"Value":2},{"Key":34,"Value":44},{"Key":37,"Value":8},{"Key":43,"Value":164},{"Key":44,"Value":34},{"Key":46,"Value":1},{"Key":54,"Value":3},{"Key":63,"Value":1},{"Key":64,"Value":1}],"MapId":null,"MedalCountsByType":[{"Key":2,"Value":93},{"Key":3,"Value":8},{"Key":4,"Value":1},{"Key":11,"Value":46},{"Key":12,"Value":3},{"Key":13,"Value":1},{"Key":20,"Value":9},{"Key":23,"Value":3},{"Key":56,"Value":2},{"Key":59,"Value":2},{"Key":63,"Value":36},{"Key":65,"Value":3},{"Key":66,"Value":1},{"Key":67,"Value":30},{"Key":68,"Value":18},{"Key":69,"Value":1},{"Key":70,"Value":104},{"Key":71,"Value":30},{"Key":72,"Value":158},{"Key":74,"Value":34},{"Key":76,"Value":1},{"Key":78,"Value":1},{"Key":81,"Value":8},{"Key":85,"Value":285},{"Key":86,"Value":7},{"Key":89,"Value":235},{"Key":91,"Value":70},{"Key":92,"Value":6},{"Key":93,"Value":70},{"Key":94,"Value":10},{"Key":95,"Value":5},{"Key":96,"Value":30},{"Key":99,"Value":5},{"Key":101,"Value":64},{"Key":102,"Value":8},{"Key":103,"Value":69},{"Key":104,"Value":4},{"Key":117,"Value":54},{"Key":118,"Value":6},{"Key":121,"Value":2},{"Key":126,"Value":18}],"total_playtime":"PT18H9M8S"},{"HopperId":110,"MedalChestCompletionPercentage":0.125,"TotalMedals":382,"VariantClass":3,"game_count":27,"high_score":18,"season_id":-1,"total_assists":15,"total_betrayals":1,"total_deaths":272,"total_first_place":17,"total_kills":251,"total_score":250,"total_top_half_place":17,"total_top_third_place":17,"total_wins":17,"DeathsByDamageType":[{"Key":4,"Value":51},{"Key":6,"Value":205},{"Key":41,"Value":1},{"Key":43,"Value":15}],"KillsByDamageType":[{"Key":4,"Value":36},{"Key":6,"Value":187},{"Key":43,"Value":28}],"MapId":null,"MedalCountsByType":[{"Key":2,"Value":18},{"Key":11,"Value":5},{"Key":67,"Value":6},{"Key":71,"Value":5},{"Key":72,"Value":22},{"Key":85,"Value":207},{"Key":89,"Value":15},{"Key":91,"Value":37},{"Key":92,"Value":4},{"Key":93,"Value":7},{"Key":95,"Value":6},{"Key":99,"Value":1},{"Key":101,"Value":21},{"Key":104,"Value":1},{"Key":117,"Value":24},{"Key":126,"Value":3}],"total_playtime":"PT2H45M10S"},{"HopperId":111,"MedalChestCompletionPercentage":0.1484375,"TotalMedals":147,"VariantClass":3,"game_count":10,"high_score":18,"season_id":-1,"total_assists":21,"total_betrayals":1,"total_deaths":102,"total_first_place":7,"total_kills":125,"total_score":124,"total_top_half_place":7,"total_top_third_place":7,"total_wins":7,"DeathsByDamageType":[{"Key":4,"Value":7},{"Key":8,"Value":72},{"Key":11,"Value":3},{"Key":32,"Value":1},{"Key":43,"Value":19}],"KillsByDamageType":[{"Key":4,"Value":2},{"Key":8,"Value":99},{"Key":11,"Value":2},{"Key":43,"Value":22}],"MapId":null,"MedalCountsByType":[{"Key":2,"Value":2},{"Key":11,"Value":5},{"Key":20,"Value":1},{"Key":67,"Value":1},{"Key":70,"Value":45},{"Key":71,"Value":7},{"Key":72,"Value":13},{"Key":85,"Value":1},{"Key":89,"Value":21},{"Key":91,"Value":17},{"Key":92,"Value":6},{"Key":93,"Value":10},{"Key":95,"Value":1},{"Key":99,"Value":1},{"Key":101,"Value":4},{"Key":104,"Value":1},{"Key":117,"Value":8},{"Key":121,"Value":1},{"Key":126,"Value":2}],"total_playtime":"PT1H46M41S"},{"HopperId":113,"MedalChestCompletionPercentage":0.09375,"TotalMedals":80,"VariantClass":3,"game_count":15,"high_score":11,"season_id":-1,"total_assists":0,"total_betrayals":0,"total_deaths":77,"total_first_place":2,"total_kills":84,"total_score":86,"total_top_half_place":12,"total_top_third_place":10,"total_wins":12,"DeathsByDamageType":[{"Key":4,"Value":16},{"Key":7,"Value":23},{"Key":21,"Value":29},{"Key":41,"Value":6},{"Key":42,"Value":1},{"Key":43,"Value":2}],"KillsByDamageType":[{"Key":4,"Value":10},{"Key":7,"Value":39},{"Key":21,"Value":25},{"Key":43,"Value":10}],"MapId":null,"MedalCountsByType":[{"Key":2,"Value":7},{"Key":11,"Value":1},{"Key":38,"Value":1},{"Key":62,"Value":5},{"Key":67,"Value":4},{"Key":71,"Value":1},{"Key":72,"Value":34},{"Key":84,"Value":10},{"Key":85,"Value":6},{"Key":91,"Value":2},{"Key":92,"Value":8},{"Key":93,"Value":1}],"total_playtime":"PT1H11M21S"},{"HopperId":123,"MedalChestCompletionPercentage":0.2890625,"TotalMedals":899,"VariantClass":3,"game_count":39,"high_score":76,"season_id":-1,"total_assists":160,"total_betrayals":6,"total_deaths":569,"total_first_place":15,"total_kills":751,"total_score":695,"total_top_half_place":30,"total_top_third_place":27,"total_wins":15,"DeathsByDamageType":[{"Key":4,"Value":44},{"Key":5,"Value":114},{"Key":6,"Value":30},{"Key":7,"Value":17},{"Key":8,"Value":12},{"Key":9,"Value":17},{"Key":11,"Value":78},{"Key":12,"Value":2},{"Key":13,"Value":1},{"Key":14,"Value":5},{"Key":16,"Value":4},{"Key":17,"Value":18},{"Key":20,"Value":5},{"Key":21,"Value":29},{"Key":22,"Value":9},{"Key":23,"Value":6},{"Key":32,"Value":1},{"Key":34,"Value":3},{"Key":41,"Value":10},{"Key":42,"Value":1},{"Key":43,"Value":152},{"Key":44,"Value":1},{"Key":49,"Value":8},{"Key":63,"Value":2}],"KillsByDamageType":[{"Key":4,"Value":9},{"Key":5,"Value":148},{"Key":6,"Value":28},{"Key":7,"Value":46},{"Key":8,"Value":9},{"Key":9,"Value":39},{"Key":11,"Value":90},{"Key":14,"Value":5},{"Key":16,"Value":9},{"Key":17,"Value":12},{"Key":19,"Value":1},{"Key":21,"Value":38},{"Key":22,"Value":20},{"Key":23,"Value":11},{"Key":34,"Value":3},{"Key":36,"Value":1},{"Key":43,"Value":273},{"Key":44,"Value":2},{"Key":49,"Value":6},{"Key":63,"Value":1}],"MapId":null,"MedalCountsByType":[{"Key":2,"Value":105},{"Key":3,"Value":9},{"Key":4,"Value":1},{"Key":11,"Value":26},{"Key":12,"Value":2},{"Key":20,"Value":1},{"Key":23,"Value":1},{"Key":29,"Value":2},{"Key":56,"Value":1},{"Key":62,"Value":2},{"Key":66,"Value":3},{"Key":67,"Value":16},{"Key":69,"Value":7},{"Key":70,"Value":5},{"Key":71,"Value":70},{"Key":72,"Value":237},{"Key":74,"Value":8},{"Key":77,"Value":6},{"Key":79,"Value":17},{"Key":85,"Value":33},{"Key":86,"Value":8},{"Key":87,"Value":2},{"Key":89,"Value":150},{"Key":91,"Value":37},{"Key":92,"Value":5},{"Key":93,"Value":56},{"Key":94,"Value":8},{"Key":95,"Value":2},{"Key":96,"Value":13},{"Key":97,"Value":1},{"Key":99,"Value":3},{"Key":101,"Value":20},{"Key":102,"Value":1},{"Key":103,"Value":19},{"Key":104,"Value":1},{"Key":117,"Value":20},{"Key":118,"Value":1}],"total_playtime":"PT5H13M50S"},{"HopperId":124,"MedalChestCompletionPercentage":0.09375,"TotalMedals":48,"VariantClass":1,"game_count":2,"high_score":26,"season_id":-1,"total_assists":10,"total_betrayals":1,"total_deaths":41,"total_first_place":0,"total_kills":40,"total_score":26,"total_top_half_place":0,"total_top_third_place":0,"total_wins":0,"DeathsByDamageType":[{"Key":4,"Value":1},{"Key":5,"Value":3},{"Key":6,"Value":1},{"Key":7,"Value":3},{"Key":11,"Value":2},{"Key":12,"Value":2},{"Key":14,"Value":1},{"Key":16,"Value":2},{"Key":17,"Value":2},{"Key":21,"Value":7},{"Key":22,"Value":5},{"Key":24,"Value":1},{"Key":41,"Value":1},{"Key":43,"Value":9},{"Key":48,"Value":1}],"KillsByDamageType":[{"Key":5,"Value":7},{"Key":6,"Value":2},{"Key":11,"Value":3},{"Key":12,"Value":3},{"Key":16,"Value":4},{"Key":21,"Value":9},{"Key":22,"Value":5},{"Key":23,"Value":1},{"Key":43,"Value":6}],"MapId":null,"MedalCountsByType":[{"Key":2,"Value":7},{"Key":11,"Value":1},{"Key":69,"Value":2},{"Key":71,"Value":3},{"Key":72,"Value":12},{"Key":85,"Value":1},{"Key":89,"Value":10},{"Key":93,"Value":2},{"Key":94,"Value":1},{"Key":101,"Value":4},{"Key":103,"Value":1},{"Key":117,"Value":4}],"total_playtime":"PT25M22S"},{"HopperId":124,"MedalChestCompletionPercentage":0.171875,"TotalMedals":117,"VariantClass":3,"game_count":11,"high_score":58,"season_id":-1,"total_assists":25,"total_betrayals":1,"total_deaths":120,"total_first_place":5,"total_kills":112,"total_score":158,"total_top_half_place":5,"total_top_third_place":5,"total_wins":5,"DeathsByDamageType":[{"Key":4,"Value":3},{"Key":5,"Value":10},{"Key":6,"Value":16},{"Key":7,"Value":5},{"Key":8,"Value":33},{"Key":9,"Value":5},{"Key":11,"Value":8},{"Key":14,"Value":3},{"Key":17,"Value":2},{"Key":22,"Value":1},{"Key":24,"Value":1},{"Key":27,"Value":3},{"Key":30,"Value":1},{"Key":33,"Value":2},{"Key":34,"Value":5},{"Key":43,"Value":14},{"Key":47,"Value":2},{"Key":48,"Value":1},{"Key":52,"Value":1},{"Key":54,"Value":4}],"KillsByDamageType":[{"Key":4,"Value":3},{"Key":5,"Value":9},{"Key":6,"Value":22},{"Key":7,"Value":7},{"Key":8,"Value":35},{"Key":9,"Value":2},{"Key":11,"Value":5},{"Key":17,"Value":2},{"Key":24,"Value":1},{"Key":43,"Value":24},{"Key":44,"Value":2}],"MapId":null,"MedalCountsByType":[{"Key":2,"Value":4},{"Key":63,"Value":1},{"Key":67,"Value":1},{"Key":70,"Value":13},{"Key":71,"Value":3},{"Key":72,"Value":20},{"Key":74,"Value":2},{"Key":79,"Value":3},{"Key":81,"Value":1},{"Key":85,"Value":15},{"Key":86,"Value":1},{"Key":89,"Value":20},{"Key":91,"Value":7},{"Key":92,"Value":2},{"Key":93,"Value":4},{"Key":94,"Value":1},{"Key":95,"Value":1},{"Key":101,"Value":6},{"Key":102,"Value":1},{"Key":103,"Value":1},{"Key":117,"Value":8},{"Key":126,"Value":2}],"total_playtime":"PT1H42M3S"},{"HopperId":126,"MedalChestCompletionPercentage":0.1171875,"TotalMedals":266,"VariantClass":3,"game_count":13,"high_score":1,"season_id":-1,"total_assists":13,"total_betrayals":18,"total_deaths":194,"total_first_place":6,"total_kills":157,"total_score":1,"total_top_half_place":6,"total_top_third_place":6,"total_wins":6,"DeathsByDamageType":[{"Key":20,"Value":157},{"Key":21,"Value":6},{"Key":47,"Value":15},{"Key":48,"Value":16}],"KillsByDamageType":[{"Key":20,"Value":149},{"Key":21,"Value":2},{"Key":47,"Value":6}],"MapId":null,"MedalCountsByType":[{"Key":2,"Value":19},{"Key":3,"Value":7},{"Key":4,"Value":1},{"Key":11,"Value":2},{"Key":47,"Value":2},{"Key":62,"Value":1},{"Key":67,"Value":1},{"Key":72,"Value":151},{"Key":75,"Value":1},{"Key":89,"Value":13},{"Key":91,"Value":18},{"Key":92,"Value":4},{"Key":101,"Value":25},{"Key":117,"Value":20},{"Key":127,"Value":1}],"total_playtime":"PT1H3M50S"},{"HopperId":127,"MedalChestCompletionPercentage":0.1640625,"TotalMedals":199,"VariantClass":3,"game_count":11,"high_score":24,"season_id":-1,"total_assists":36,"total_betrayals":1,"total_deaths":142,"total_first_place":6,"total_kills":164,"total_score":157,"total_top_half_place":6,"total_top_third_place":6,"total_wins":6,"DeathsByDamageType":[{"Key":4,"Value":12},{"Key":5,"Value":13},{"Key":6,"Value":59},{"Key":7,"Value":8},{"Key":8,"Value":3},{"Key":9,"Value":2},{"Key":11,"Value":9},{"Key":17,"Value":5},{"Key":21,"Value":1},{"Key":22,"Value":4},{"Key":23,"Value":1},{"Key":24,"Value":1},{"Key":41,"Value":5},{"Key":43,"Value":17},{"Key":64,"Value":2}],"KillsByDamageType":[{"Key":4,"Value":5},{"Key":5,"Value":19},{"Key":6,"Value":70},{"Key":7,"Value":9},{"Key":8,"Value":3},{"Key":9,"Value":4},{"Key":11,"Value":18},{"Key":21,"Value":1},{"Key":22,"Value":2},{"Key":23,"Value":2},{"Key":24,"Value":1},{"Key":43,"Value":30}],"MapId":null,"MedalCountsByType":[{"Key":2,"Value":8},{"Key":11,"Value":4},{"Key":62,"Value":1},{"Key":63,"Value":1},{"Key":66,"Value":1},{"Key":67,"Value":3},{"Key":69,"Value":1},{"Key":70,"Value":1},{"Key":71,"Value":7},{"Key":72,"Value":23},{"Key":85,"Value":46},{"Key":89,"Value":36},{"Key":91,"Value":12},{"Key":92,"Value":2},{"Key":93,"Value":7},{"Key":94,"Value":1},{"Key":96,"Value":4},{"Key":101,"Value":15},{"Key":103,"Value":23},{"Key":117,"Value":2},{"Key":126,"Value":1}],"total_playtime":"PT1H29M43S"},{"HopperId":129,"MedalChestCompletionPercentage":0.1328125,"TotalMedals":64,"VariantClass":3,"game_count":3,"high_score":18,"season_id":-1,"total_assists":10,"total_betrayals":0,"total_deaths":44,"total_first_place":2,"total_kills":44,"total_score":44,"total_top_half_place":2,"total_top_third_place":2,"total_wins":2,"DeathsByDamageType":[{"Key":4,"Value":1},{"Key":5,"Value":4},{"Key":6,"Value":12},{"Key":7,"Value":1},{"Key":8,"Value":5},{"Key":9,"Value":2},{"Key":11,"Value":3},{"Key":17,"Value":2},{"Key":19,"Value":1},{"Key":21,"Value":1},{"Key":22,"Value":3},{"Key":43,"Value":9}],"KillsByDamageType":[{"Key":4,"Value":3},{"Key":5,"Value":2},{"Key":6,"Value":6},{"Key":7,"Value":1},{"Key":9,"Value":5},{"Key":11,"Value":4},{"Key":17,"Value":3},{"Key":21,"Value":1},{"Key":22,"Value":2},{"Key":24,"Value":2},{"Key":43,"Value":15}],"MapId":null,"MedalCountsByType":[{"Key":2,"Value":6},{"Key":62,"Value":1},{"Key":66,"Value":2},{"Key":67,"Value":1},{"Key":69,"Value":1},{"Key":71,"Value":1},{"Key":72,"Value":15},{"Key":85,"Value":10},{"Key":89,"Value":10},{"Key":91,"Value":3},{"Key":93,"Value":2},{"Key":94,"Value":1},{"Key":99,"Value":1},{"Key":101,"Value":2},{"Key":103,"Value":1},{"Key":117,"Value":6},{"Key":118,"Value":1}],"total_playtime":"PT33M46S"},{"HopperId":131,"MedalChestCompletionPercentage":0.0625,"TotalMedals":16,"VariantClass":2,"game_count":1,"high_score":12,"season_id":7,"total_assists":2,"total_betrayals":0,"total_deaths":20,"total_first_place":0,"total_kills":12,"total_score":12,"total_top_half_place":0,"total_top_third_place":0,"total_wins":0,"DeathsByDamageType":[{"Key":5,"Value":3},{"Key":6,"Value":8},{"Key":11,"Value":1},{"Key":17,"Value":1},{"Key":21,"Value":2},{"Key":22,"Value":1},{"Key":43,"Value":4}],"KillsByDamageType":[{"Key":6,"Value":6},{"Key":11,"Value":2},{"Key":43,"Value":4}],"MapId":null,"MedalCountsByType":[{"Key":2,"Value":1},{"Key":67,"Value":1},{"Key":71,"Value":2},{"Key":72,"Value":2},{"Key":85,"Value":4},{"Key":89,"Value":2},{"Key":91,"Value":3},{"Key":117,"Value":1}],"total_playtime":"PT9M22S"},{"HopperId":133,"MedalChestCompletionPercentage":0.2578125,"TotalMedals":793,"VariantClass":3,"game_count":56,"high_score":110,"season_id":-1,"total_assists":71,"total_betrayals":3,"total_deaths":579,"total_first_place":29,"total_kills":636,"total_score":873,"total_top_half_place":29,"total_top_third_place":29,"total_wins":29,"DeathsByDamageType":[{"Key":4,"Value":26},{"Key":5,"Value":51},{"Key":6,"Value":153},{"Key":7,"Value":47},{"Key":8,"Value":15},{"Key":9,"Value":20},{"Key":11,"Value":27},{"Key":12,"Value":2},{"Key":14,"Value":3},{"Key":16,"Value":1},{"Key":17,"Value":8},{"Key":20,"Value":7},{"Key":21,"Value":88},{"Key":22,"Value":14},{"Key":23,"Value":3},{"Key":41,"Value":5},{"Key":43,"Value":100},{"Key":49,"Value":6},{"Key":54,"Value":2},{"Key":63,"Value":1}],"KillsByDamageType":[{"Key":4,"Value":21},{"Key":5,"Value":36},{"Key":6,"Value":81},{"Key":7,"Value":122},{"Key":8,"Value":34},{"Key":9,"Value":42},{"Key":11,"Value":34},{"Key":12,"Value":1},{"Key":14,"Value":19},{"Key":17,"Value":5},{"Key":20,"Value":2},{"Key":21,"Value":63},{"Key":22,"Value":30},{"Key":23,"Value":8},{"Key":43,"Value":133},{"Key":44,"Value":2},{"Key":49,"Value":3}],"MapId":null,"MedalCountsByType":[{"Key":2,"Value":31},{"Key":11,"Value":21},{"Key":12,"Value":2},{"Key":29,"Value":2},{"Key":30,"Value":1},{"Key":62,"Value":5},{"Key":66,"Value":2},{"Key":67,"Value":22},{"Key":69,"Value":14},{"Key":70,"Value":15},{"Key":71,"Value":17},{"Key":72,"Value":173},{"Key":77,"Value":3},{"Key":79,"Value":12},{"Key":85,"Value":68},{"Key":86,"Value":18},{"Key":87,"Value":1},{"Key":89,"Value":71},{"Key":91,"Value":134},{"Key":92,"Value":19},{"Key":93,"Value":30},{"Key":94,"Value":8},{"Key":95,"Value":4},{"Key":96,"Value":16},{"Key":101,"Value":29},{"Key":102,"Value":5},{"Key":103,"Value":23},{"Key":104,"Value":5},{"Key":117,"Value":28},{"Key":118,"Value":2},{"Key":124,"Value":2},{"Key":126,"Value":1},{"Key":127,"Value":9}],"total_playtime":"PT7H57M44S"},{"HopperId":134,"MedalChestCompletionPercentage":0.2421875,"TotalMedals":528,"VariantClass":3,"game_count":31,"high_score":29,"season_id":-1,"total_assists":54,"total_betrayals":2,"total_deaths":314,"total_first_place":18,"total_kills":379,"total_score":253,"total_top_half_place":18,"total_top_third_place":18,"total_wins":18,"DeathsByDamageType":[{"Key":4,"Value":13},{"Key":5,"Value":36},{"Key":6,"Value":7},{"Key":7,"Value":25},{"Key":8,"Value":30},{"Key":9,"Value":1},{"Key":11,"Value":18},{"Key":14,"Value":2},{"Key":17,"Value":3},{"Key":20,"Value":76},{"Key":21,"Value":16},{"Key":22,"Value":1},{"Key":23,"Value":22},{"Key":24,"Value":1},{"Key":25,"Value":2},{"Key":27,"Value":11},{"Key":34,"Value":1},{"Key":42,"Value":2},{"Key":43,"Value":44},{"Key":44,"Value":2},{"Key":63,"Value":1}],"KillsByDamageType":[{"Key":4,"Value":14},{"Key":5,"Value":38},{"Key":6,"Value":1},{"Key":7,"Value":41},{"Key":8,"Value":21},{"Key":9,"Value":3},{"Key":11,"Value":14},{"Key":12,"Value":1},{"Key":14,"Value":1},{"Key":17,"Value":1},{"Key":20,"Value":128},{"Key":21,"Value":11},{"Key":22,"Value":12},{"Key":23,"Value":36},{"Key":34,"Value":2},{"Key":42,"Value":1},{"Key":43,"Value":52},{"Key":47,"Value":1},{"Key":54,"Value":1}],"MapId":null,"MedalCountsByType":[{"Key":2,"Value":41},{"Key":3,"Value":5},{"Key":4,"Value":1},{"Key":11,"Value":16},{"Key":12,"Value":2},{"Key":20,"Value":1},{"Key":23,"Value":1},{"Key":47,"Value":5},{"Key":63,"Value":1},{"Key":66,"Value":2},{"Key":67,"Value":12},{"Key":69,"Value":2},{"Key":70,"Value":9},{"Key":71,"Value":9},{"Key":72,"Value":182},{"Key":75,"Value":3},{"Key":81,"Value":2},{"Key":85,"Value":12},{"Key":86,"Value":1},{"Key":89,"Value":54},{"Key":91,"Value":36},{"Key":92,"Value":3},{"Key":93,"Value":14},{"Key":94,"Value":9},{"Key":96,"Value":21},{"Key":99,"Value":1},{"Key":101,"Value":38},{"Key":102,"Value":3},{"Key":103,"Value":18},{"Key":117,"Value":22},{"Key":126,"Value":2}],"total_playtime":"PT3H16M6S"},{"HopperId":135,"MedalChestCompletionPercentage":0.1328125,"TotalMedals":92,"VariantClass":3,"game_count":6,"high_score":16,"season_id":-1,"total_assists":17,"total_betrayals":0,"total_deaths":79,"total_first_place":1,"total_kills":70,"total_score":70,"total_top_half_place":1,"total_top_third_place":1,"total_wins":1,"DeathsByDamageType":[{"Key":4,"Value":1},{"Key":5,"Value":4},{"Key":6,"Value":41},{"Key":7,"Value":4},{"Key":8,"Value":1},{"Key":9,"Value":4},{"Key":11,"Value":5},{"Key":14,"Value":3},{"Key":17,"Value":3},{"Key":22,"Value":1},{"Key":23,"Value":2},{"Key":43,"Value":10}],"KillsByDamageType":[{"Key":5,"Value":3},{"Key":6,"Value":25},{"Key":7,"Value":3},{"Key":11,"Value":11},{"Key":14,"Value":3},{"Key":16,"Value":1},{"Key":43,"Value":24}],"MapId":null,"MedalCountsByType":[{"Key":2,"Value":4},{"Key":11,"Value":2},{"Key":66,"Value":1},{"Key":67,"Value":3},{"Key":71,"Value":3},{"Key":72,"Value":20},{"Key":85,"Value":15},{"Key":86,"Value":2},{"Key":89,"Value":17},{"Key":91,"Value":10},{"Key":92,"Value":2},{"Key":93,"Value":2},{"Key":94,"Value":1},{"Key":101,"Value":3},{"Key":102,"Value":1},{"Key":104,"Value":1},{"Key":117,"Value":5}],"total_playtime":"PT40M1S"},{"HopperId":136,"MedalChestCompletionPercentage":0.265625,"TotalMedals":508,"VariantClass":3,"game_count":27,"high_score":33,"season_id":-1,"total_assists":75,"total_betrayals":1,"total_deaths":308,"total_first_place":16,"total_kills":416,"total_score":411,"total_top_half_place":16,"total_top_third_place":16,"total_wins":16,"DeathsByDamageType":[{"Key":4,"Value":3},{"Key":5,"Value":27},{"Key":6,"Value":114},{"Key":7,"Value":21},{"Key":8,"Value":25},{"Key":9,"Value":14},{"Key":11,"Value":28},{"Key":12,"Value":1},{"Key":14,"Value":2},{"Key":17,"Value":2},{"Key":19,"Value":1},{"Key":20,"Value":4},{"Key":21,"Value":17},{"Key":22,"Value":11},{"Key":23,"Value":3},{"Key":41,"Value":2},{"Key":42,"Value":1},{"Key":43,"Value":31},{"Key":63,"Value":1}],"KillsByDamageType":[{"Key":4,"Value":2},{"Key":5,"Value":6},{"Key":6,"Value":103},{"Key":7,"Value":78},{"Key":8,"Value":27},{"Key":9,"Value":30},{"Key":11,"Value":35},{"Key":12,"Value":2},{"Key":14,"Value":10},{"Key":17,"Value":1},{"Key":20,"Value":1},{"Key":21,"Value":23},{"Key":22,"Value":8},{"Key":23,"Value":5},{"Key":43,"Value":83},{"Key":63,"Value":2}],"MapId":null,"MedalCountsByType":[{"Key":2,"Value":38},{"Key":3,"Value":5},{"Key":11,"Value":18},{"Key":12,"Value":4},{"Key":13,"Value":2},{"Key":20,"Value":1},{"Key":23,"Value":3},{"Key":24,"Value":2},{"Key":29,"Value":2},{"Key":62,"Value":2},{"Key":66,"Value":1},{"Key":67,"Value":5},{"Key":69,"Value":5},{"Key":70,"Value":15},{"Key":71,"Value":19},{"Key":72,"Value":83},{"Key":85,"Value":62},{"Key":86,"Value":10},{"Key":89,"Value":75},{"Key":91,"Value":36},{"Key":92,"Value":6},{"Key":93,"Value":23},{"Key":94,"Value":3},{"Key":95,"Value":2},{"Key":96,"Value":5},{"Key":101,"Value":22},{"Key":102,"Value":1},{"Key":103,"Value":19},{"Key":104,"Value":2},{"Key":117,"Value":17},{"Key":118,"Value":3},{"Key":121,"Value":7},{"Key":126,"Value":8},{"Key":127,"Value":2}],"total_playtime":"PT3H52M24S"},{"HopperId":137,"MedalChestCompletionPercentage":0.140625,"TotalMedals":107,"VariantClass":3,"game_count":7,"high_score":1,"season_id":-1,"total_assists":24,"total_betrayals":1,"total_deaths":74,"total_first_place":3,"total_kills":82,"total_score":3,"total_top_half_place":3,"total_top_third_place":3,"total_wins":3,"DeathsByDamageType":[{"Key":4,"Value":3},{"Key":5,"Value":10},{"Key":6,"Value":22},{"Key":7,"Value":2},{"Key":9,"Value":1},{"Key":11,"Value":3},{"Key":12,"Value":1},{"Key":18,"Value":1},{"Key":21,"Value":2},{"Key":22,"Value":5},{"Key":23,"Value":1},{"Key":33,"Value":6},{"Key":34,"Value":7},{"Key":43,"Value":8},{"Key":54,"Value":2}],"KillsByDamageType":[{"Key":4,"Value":1},{"Key":5,"Value":6},{"Key":6,"Value":22},{"Key":9,"Value":4},{"Key":11,"Value":7},{"Key":17,"Value":3},{"Key":21,"Value":1},{"Key":22,"Value":7},{"Key":23,"Value":2},{"Key":34,"Value":3},{"Key":43,"Value":20},{"Key":44,"Value":4},{"Key":54,"Value":2}],"MapId":null,"MedalCountsByType":[{"Key":2,"Value":7},{"Key":11,"Value":2},{"Key":67,"Value":2},{"Key":69,"Value":1},{"Key":71,"Value":3},{"Key":72,"Value":17},{"Key":76,"Value":3},{"Key":81,"Value":5},{"Key":85,"Value":14},{"Key":89,"Value":24},{"Key":91,"Value":7},{"Key":92,"Value":2},{"Key":93,"Value":7},{"Key":94,"Value":3},{"Key":99,"Value":2},{"Key":101,"Value":5},{"Key":117,"Value":1},{"Key":121,"Value":2}],"total_playtime":"PT1H10M57S"}]}
+{
+    "reason": "Okay",
+    "status": 0,
+    "AiStatistics": null,
+    "CurrentRankIndex": "E50B16A8-EAC9-4D98-B012-3B88338C01C3",
+    "CurrentSeasonArenaStatistics": [],
+    "Player": {
+        "CampaignProgressCoop": "PartialNormal",
+        "CampaignProgressSp": "None",
+        "Initialized": true,
+        "IsGuest": false,
+        "LastGameVariantClassPlayed": "Competitive",
+        "ReachEmblem": {
+            "background_index": 51,
+            "change_colors": [
+                0,
+                25,
+                25,
+                15
+            ],
+            "flags": 1,
+            "foreground_index": 13
+        },
+        "appearance_primary_color": 0,
+        "appearance_secondary_color": 25,
+        "armor_completion_percentage": 0.73202616,
+        "credits_lifetime": 2984252,
+        "daily_challenges_completed": 175,
+        "first_active": "/Date(1284569520000-0700)/",
+        "gamertag": "cioj",
+        "games_total": 2089,
+        "last_active": "/Date(1310348640000-0700)/",
+        "service_tag": "BAIT",
+        "weekly_challenges_completed": 2,
+        "CommendationState": [
+            {
+                "Key": 0,
+                "Value": 5145
+            },
+            {
+                "Key": 1,
+                "Value": 1718
+            },
+            {
+                "Key": 2,
+                "Value": 1346
+            },
+            {
+                "Key": 3,
+                "Value": 4479
+            },
+            {
+                "Key": 4,
+                "Value": 7502
+            },
+            {
+                "Key": 5,
+                "Value": 11582
+            },
+            {
+                "Key": 6,
+                "Value": 45
+            },
+            {
+                "Key": 7,
+                "Value": 2924
+            },
+            {
+                "Key": 8,
+                "Value": 863
+            },
+            {
+                "Key": 9,
+                "Value": 1846
+            },
+            {
+                "Key": 10,
+                "Value": 164
+            },
+            {
+                "Key": 11,
+                "Value": 2589
+            },
+            {
+                "Key": 12,
+                "Value": 76
+            },
+            {
+                "Key": 13,
+                "Value": 8587
+            },
+            {
+                "Key": 14,
+                "Value": 183
+            },
+            {
+                "Key": 15,
+                "Value": 165
+            },
+            {
+                "Key": 16,
+                "Value": 380
+            },
+            {
+                "Key": 17,
+                "Value": 376
+            },
+            {
+                "Key": 18,
+                "Value": 81
+            },
+            {
+                "Key": 19,
+                "Value": 440
+            },
+            {
+                "Key": 20,
+                "Value": 21
+            },
+            {
+                "Key": 21,
+                "Value": 50
+            },
+            {
+                "Key": 22,
+                "Value": 78
+            },
+            {
+                "Key": 23,
+                "Value": 200
+            },
+            {
+                "Key": 24,
+                "Value": 98
+            },
+            {
+                "Key": 25,
+                "Value": 28
+            },
+            {
+                "Key": 26,
+                "Value": 11
+            },
+            {
+                "Key": 27,
+                "Value": 5
+            },
+            {
+                "Key": 28,
+                "Value": 2
+            },
+            {
+                "Key": 29,
+                "Value": 119
+            },
+            {
+                "Key": 30,
+                "Value": 6
+            },
+            {
+                "Key": 31,
+                "Value": 182
+            },
+            {
+                "Key": 32,
+                "Value": 81
+            },
+            {
+                "Key": 33,
+                "Value": 56
+            },
+            {
+                "Key": 34,
+                "Value": 33
+            },
+            {
+                "Key": 35,
+                "Value": 115
+            },
+            {
+                "Key": 36,
+                "Value": 29
+            },
+            {
+                "Key": 37,
+                "Value": 88
+            },
+            {
+                "Key": 38,
+                "Value": 41
+            },
+            {
+                "Key": 39,
+                "Value": 13
+            },
+            {
+                "Key": 40,
+                "Value": 9
+            },
+            {
+                "Key": 41,
+                "Value": 11
+            },
+            {
+                "Key": 42,
+                "Value": 18
+            },
+            {
+                "Key": 43,
+                "Value": 8
+            },
+            {
+                "Key": 44,
+                "Value": 4
+            }
+        ],
+        "commendation_completion_percentage": 0.24
+    },
+    "PlayerModelUrl": "/stats/reach/playermodel.ashx?rpis=kcDP9B4xtDtwyFpwp8YqlVV1Aczuu5A8Pl17UfNoxTM=",
+    "PlayerModelUrlHiRes": "/stats/reach/playermodel.ashx?rpis=WdikVpDB0$5Jq9ulzpUC3w==",
+    "PriorSeasonArenaStatistics": [],
+    "StatisticsByMap": null,
+    "StatisticsByPlaylist": [
+        {
+            "HopperId": 101,
+            "MedalChestCompletionPercentage": 0.203125,
+            "TotalMedals": 499,
+            "VariantClass": 3,
+            "game_count": 26,
+            "high_score": 85,
+            "season_id": -1,
+            "total_assists": 71,
+            "total_betrayals": 0,
+            "total_deaths": 353,
+            "total_first_place": 2,
+            "total_kills": 459,
+            "total_score": 547,
+            "total_top_half_place": 22,
+            "total_top_third_place": 19,
+            "total_wins": 22,
+            "DeathsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 10
+                },
+                {
+                    "Key": 5,
+                    "Value": 38
+                },
+                {
+                    "Key": 6,
+                    "Value": 60
+                },
+                {
+                    "Key": 7,
+                    "Value": 37
+                },
+                {
+                    "Key": 8,
+                    "Value": 10
+                },
+                {
+                    "Key": 9,
+                    "Value": 13
+                },
+                {
+                    "Key": 11,
+                    "Value": 23
+                },
+                {
+                    "Key": 12,
+                    "Value": 2
+                },
+                {
+                    "Key": 14,
+                    "Value": 4
+                },
+                {
+                    "Key": 17,
+                    "Value": 13
+                },
+                {
+                    "Key": 20,
+                    "Value": 10
+                },
+                {
+                    "Key": 21,
+                    "Value": 19
+                },
+                {
+                    "Key": 22,
+                    "Value": 22
+                },
+                {
+                    "Key": 41,
+                    "Value": 1
+                },
+                {
+                    "Key": 43,
+                    "Value": 88
+                },
+                {
+                    "Key": 44,
+                    "Value": 1
+                },
+                {
+                    "Key": 63,
+                    "Value": 2
+                }
+            ],
+            "KillsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 7
+                },
+                {
+                    "Key": 5,
+                    "Value": 36
+                },
+                {
+                    "Key": 6,
+                    "Value": 96
+                },
+                {
+                    "Key": 7,
+                    "Value": 63
+                },
+                {
+                    "Key": 8,
+                    "Value": 14
+                },
+                {
+                    "Key": 9,
+                    "Value": 21
+                },
+                {
+                    "Key": 11,
+                    "Value": 31
+                },
+                {
+                    "Key": 12,
+                    "Value": 1
+                },
+                {
+                    "Key": 14,
+                    "Value": 6
+                },
+                {
+                    "Key": 17,
+                    "Value": 3
+                },
+                {
+                    "Key": 19,
+                    "Value": 1
+                },
+                {
+                    "Key": 20,
+                    "Value": 11
+                },
+                {
+                    "Key": 21,
+                    "Value": 19
+                },
+                {
+                    "Key": 22,
+                    "Value": 5
+                },
+                {
+                    "Key": 23,
+                    "Value": 6
+                },
+                {
+                    "Key": 43,
+                    "Value": 139
+                }
+            ],
+            "MapId": null,
+            "MedalCountsByType": [
+                {
+                    "Key": 2,
+                    "Value": 33
+                },
+                {
+                    "Key": 3,
+                    "Value": 4
+                },
+                {
+                    "Key": 11,
+                    "Value": 15
+                },
+                {
+                    "Key": 12,
+                    "Value": 2
+                },
+                {
+                    "Key": 23,
+                    "Value": 2
+                },
+                {
+                    "Key": 32,
+                    "Value": 1
+                },
+                {
+                    "Key": 47,
+                    "Value": 1
+                },
+                {
+                    "Key": 67,
+                    "Value": 17
+                },
+                {
+                    "Key": 69,
+                    "Value": 4
+                },
+                {
+                    "Key": 70,
+                    "Value": 7
+                },
+                {
+                    "Key": 71,
+                    "Value": 23
+                },
+                {
+                    "Key": 72,
+                    "Value": 139
+                },
+                {
+                    "Key": 82,
+                    "Value": 1
+                },
+                {
+                    "Key": 85,
+                    "Value": 77
+                },
+                {
+                    "Key": 86,
+                    "Value": 6
+                },
+                {
+                    "Key": 89,
+                    "Value": 71
+                },
+                {
+                    "Key": 91,
+                    "Value": 43
+                },
+                {
+                    "Key": 92,
+                    "Value": 5
+                },
+                {
+                    "Key": 93,
+                    "Value": 25
+                },
+                {
+                    "Key": 94,
+                    "Value": 8
+                },
+                {
+                    "Key": 95,
+                    "Value": 1
+                },
+                {
+                    "Key": 96,
+                    "Value": 5
+                },
+                {
+                    "Key": 99,
+                    "Value": 1
+                },
+                {
+                    "Key": 103,
+                    "Value": 4
+                },
+                {
+                    "Key": 104,
+                    "Value": 3
+                },
+                {
+                    "Key": 124,
+                    "Value": 1
+                }
+            ],
+            "total_playtime": "PT3H27M25S"
+        },
+        {
+            "HopperId": 102,
+            "MedalChestCompletionPercentage": 0.375,
+            "TotalMedals": 24191,
+            "VariantClass": 3,
+            "game_count": 1497,
+            "high_score": 32,
+            "season_id": -1,
+            "total_assists": 3452,
+            "total_betrayals": 84,
+            "total_deaths": 16581,
+            "total_first_place": 798,
+            "total_kills": 20315,
+            "total_score": 20070,
+            "total_top_half_place": 798,
+            "total_top_third_place": 798,
+            "total_wins": 798,
+            "DeathsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 901
+                },
+                {
+                    "Key": 5,
+                    "Value": 2108
+                },
+                {
+                    "Key": 6,
+                    "Value": 3329
+                },
+                {
+                    "Key": 7,
+                    "Value": 1204
+                },
+                {
+                    "Key": 8,
+                    "Value": 1067
+                },
+                {
+                    "Key": 9,
+                    "Value": 521
+                },
+                {
+                    "Key": 11,
+                    "Value": 1273
+                },
+                {
+                    "Key": 12,
+                    "Value": 87
+                },
+                {
+                    "Key": 13,
+                    "Value": 15
+                },
+                {
+                    "Key": 14,
+                    "Value": 300
+                },
+                {
+                    "Key": 15,
+                    "Value": 6
+                },
+                {
+                    "Key": 16,
+                    "Value": 36
+                },
+                {
+                    "Key": 17,
+                    "Value": 642
+                },
+                {
+                    "Key": 18,
+                    "Value": 2
+                },
+                {
+                    "Key": 19,
+                    "Value": 41
+                },
+                {
+                    "Key": 20,
+                    "Value": 59
+                },
+                {
+                    "Key": 21,
+                    "Value": 1002
+                },
+                {
+                    "Key": 22,
+                    "Value": 768
+                },
+                {
+                    "Key": 23,
+                    "Value": 203
+                },
+                {
+                    "Key": 41,
+                    "Value": 126
+                },
+                {
+                    "Key": 42,
+                    "Value": 18
+                },
+                {
+                    "Key": 43,
+                    "Value": 2813
+                },
+                {
+                    "Key": 44,
+                    "Value": 9
+                },
+                {
+                    "Key": 52,
+                    "Value": 7
+                },
+                {
+                    "Key": 54,
+                    "Value": 28
+                },
+                {
+                    "Key": 63,
+                    "Value": 16
+                }
+            ],
+            "KillsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 723
+                },
+                {
+                    "Key": 5,
+                    "Value": 1989
+                },
+                {
+                    "Key": 6,
+                    "Value": 3083
+                },
+                {
+                    "Key": 7,
+                    "Value": 2777
+                },
+                {
+                    "Key": 8,
+                    "Value": 1966
+                },
+                {
+                    "Key": 9,
+                    "Value": 994
+                },
+                {
+                    "Key": 11,
+                    "Value": 1436
+                },
+                {
+                    "Key": 12,
+                    "Value": 102
+                },
+                {
+                    "Key": 14,
+                    "Value": 336
+                },
+                {
+                    "Key": 16,
+                    "Value": 149
+                },
+                {
+                    "Key": 17,
+                    "Value": 444
+                },
+                {
+                    "Key": 18,
+                    "Value": 1
+                },
+                {
+                    "Key": 19,
+                    "Value": 38
+                },
+                {
+                    "Key": 20,
+                    "Value": 90
+                },
+                {
+                    "Key": 21,
+                    "Value": 991
+                },
+                {
+                    "Key": 22,
+                    "Value": 656
+                },
+                {
+                    "Key": 23,
+                    "Value": 324
+                },
+                {
+                    "Key": 32,
+                    "Value": 1
+                },
+                {
+                    "Key": 43,
+                    "Value": 4179
+                },
+                {
+                    "Key": 44,
+                    "Value": 16
+                },
+                {
+                    "Key": 54,
+                    "Value": 1
+                },
+                {
+                    "Key": 63,
+                    "Value": 19
+                }
+            ],
+            "MapId": null,
+            "MedalCountsByType": [
+                {
+                    "Key": 0,
+                    "Value": 2
+                },
+                {
+                    "Key": 1,
+                    "Value": 5
+                },
+                {
+                    "Key": 2,
+                    "Value": 1124
+                },
+                {
+                    "Key": 3,
+                    "Value": 67
+                },
+                {
+                    "Key": 4,
+                    "Value": 5
+                },
+                {
+                    "Key": 11,
+                    "Value": 747
+                },
+                {
+                    "Key": 12,
+                    "Value": 82
+                },
+                {
+                    "Key": 13,
+                    "Value": 19
+                },
+                {
+                    "Key": 14,
+                    "Value": 4
+                },
+                {
+                    "Key": 20,
+                    "Value": 63
+                },
+                {
+                    "Key": 21,
+                    "Value": 3
+                },
+                {
+                    "Key": 23,
+                    "Value": 93
+                },
+                {
+                    "Key": 24,
+                    "Value": 10
+                },
+                {
+                    "Key": 29,
+                    "Value": 31
+                },
+                {
+                    "Key": 47,
+                    "Value": 4
+                },
+                {
+                    "Key": 50,
+                    "Value": 3
+                },
+                {
+                    "Key": 59,
+                    "Value": 13
+                },
+                {
+                    "Key": 62,
+                    "Value": 72
+                },
+                {
+                    "Key": 63,
+                    "Value": 1
+                },
+                {
+                    "Key": 66,
+                    "Value": 137
+                },
+                {
+                    "Key": 67,
+                    "Value": 528
+                },
+                {
+                    "Key": 69,
+                    "Value": 298
+                },
+                {
+                    "Key": 70,
+                    "Value": 964
+                },
+                {
+                    "Key": 71,
+                    "Value": 748
+                },
+                {
+                    "Key": 72,
+                    "Value": 4334
+                },
+                {
+                    "Key": 85,
+                    "Value": 2849
+                },
+                {
+                    "Key": 86,
+                    "Value": 410
+                },
+                {
+                    "Key": 87,
+                    "Value": 44
+                },
+                {
+                    "Key": 89,
+                    "Value": 3452
+                },
+                {
+                    "Key": 91,
+                    "Value": 2304
+                },
+                {
+                    "Key": 92,
+                    "Value": 223
+                },
+                {
+                    "Key": 93,
+                    "Value": 1155
+                },
+                {
+                    "Key": 94,
+                    "Value": 294
+                },
+                {
+                    "Key": 95,
+                    "Value": 92
+                },
+                {
+                    "Key": 96,
+                    "Value": 482
+                },
+                {
+                    "Key": 97,
+                    "Value": 5
+                },
+                {
+                    "Key": 99,
+                    "Value": 40
+                },
+                {
+                    "Key": 100,
+                    "Value": 4
+                },
+                {
+                    "Key": 101,
+                    "Value": 1230
+                },
+                {
+                    "Key": 102,
+                    "Value": 177
+                },
+                {
+                    "Key": 103,
+                    "Value": 815
+                },
+                {
+                    "Key": 104,
+                    "Value": 54
+                },
+                {
+                    "Key": 117,
+                    "Value": 878
+                },
+                {
+                    "Key": 118,
+                    "Value": 102
+                },
+                {
+                    "Key": 121,
+                    "Value": 35
+                },
+                {
+                    "Key": 124,
+                    "Value": 25
+                },
+                {
+                    "Key": 126,
+                    "Value": 157
+                },
+                {
+                    "Key": 127,
+                    "Value": 7
+                }
+            ],
+            "total_playtime": "P9DT50M13S"
+        },
+        {
+            "HopperId": 103,
+            "MedalChestCompletionPercentage": 0.2421875,
+            "TotalMedals": 424,
+            "VariantClass": 1,
+            "game_count": 25,
+            "high_score": 23,
+            "season_id": -1,
+            "total_assists": 100,
+            "total_betrayals": 1,
+            "total_deaths": 313,
+            "total_first_place": 16,
+            "total_kills": 334,
+            "total_score": 182,
+            "total_top_half_place": 16,
+            "total_top_third_place": 16,
+            "total_wins": 16,
+            "DeathsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 8
+                },
+                {
+                    "Key": 5,
+                    "Value": 24
+                },
+                {
+                    "Key": 6,
+                    "Value": 40
+                },
+                {
+                    "Key": 7,
+                    "Value": 23
+                },
+                {
+                    "Key": 8,
+                    "Value": 15
+                },
+                {
+                    "Key": 9,
+                    "Value": 4
+                },
+                {
+                    "Key": 10,
+                    "Value": 4
+                },
+                {
+                    "Key": 11,
+                    "Value": 5
+                },
+                {
+                    "Key": 12,
+                    "Value": 6
+                },
+                {
+                    "Key": 14,
+                    "Value": 8
+                },
+                {
+                    "Key": 16,
+                    "Value": 9
+                },
+                {
+                    "Key": 17,
+                    "Value": 17
+                },
+                {
+                    "Key": 19,
+                    "Value": 3
+                },
+                {
+                    "Key": 20,
+                    "Value": 2
+                },
+                {
+                    "Key": 21,
+                    "Value": 17
+                },
+                {
+                    "Key": 22,
+                    "Value": 25
+                },
+                {
+                    "Key": 23,
+                    "Value": 3
+                },
+                {
+                    "Key": 24,
+                    "Value": 2
+                },
+                {
+                    "Key": 27,
+                    "Value": 3
+                },
+                {
+                    "Key": 29,
+                    "Value": 3
+                },
+                {
+                    "Key": 30,
+                    "Value": 5
+                },
+                {
+                    "Key": 34,
+                    "Value": 3
+                },
+                {
+                    "Key": 37,
+                    "Value": 7
+                },
+                {
+                    "Key": 38,
+                    "Value": 1
+                },
+                {
+                    "Key": 41,
+                    "Value": 4
+                },
+                {
+                    "Key": 42,
+                    "Value": 7
+                },
+                {
+                    "Key": 43,
+                    "Value": 56
+                },
+                {
+                    "Key": 44,
+                    "Value": 1
+                },
+                {
+                    "Key": 55,
+                    "Value": 4
+                },
+                {
+                    "Key": 63,
+                    "Value": 3
+                },
+                {
+                    "Key": 64,
+                    "Value": 1
+                }
+            ],
+            "KillsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 17
+                },
+                {
+                    "Key": 5,
+                    "Value": 15
+                },
+                {
+                    "Key": 6,
+                    "Value": 38
+                },
+                {
+                    "Key": 7,
+                    "Value": 16
+                },
+                {
+                    "Key": 8,
+                    "Value": 15
+                },
+                {
+                    "Key": 9,
+                    "Value": 8
+                },
+                {
+                    "Key": 11,
+                    "Value": 14
+                },
+                {
+                    "Key": 14,
+                    "Value": 21
+                },
+                {
+                    "Key": 16,
+                    "Value": 22
+                },
+                {
+                    "Key": 17,
+                    "Value": 17
+                },
+                {
+                    "Key": 19,
+                    "Value": 1
+                },
+                {
+                    "Key": 20,
+                    "Value": 1
+                },
+                {
+                    "Key": 21,
+                    "Value": 21
+                },
+                {
+                    "Key": 22,
+                    "Value": 29
+                },
+                {
+                    "Key": 23,
+                    "Value": 10
+                },
+                {
+                    "Key": 24,
+                    "Value": 7
+                },
+                {
+                    "Key": 29,
+                    "Value": 2
+                },
+                {
+                    "Key": 33,
+                    "Value": 1
+                },
+                {
+                    "Key": 34,
+                    "Value": 10
+                },
+                {
+                    "Key": 37,
+                    "Value": 2
+                },
+                {
+                    "Key": 43,
+                    "Value": 58
+                },
+                {
+                    "Key": 44,
+                    "Value": 3
+                },
+                {
+                    "Key": 55,
+                    "Value": 5
+                },
+                {
+                    "Key": 63,
+                    "Value": 1
+                }
+            ],
+            "MapId": null,
+            "MedalCountsByType": [
+                {
+                    "Key": 2,
+                    "Value": 21
+                },
+                {
+                    "Key": 3,
+                    "Value": 3
+                },
+                {
+                    "Key": 11,
+                    "Value": 7
+                },
+                {
+                    "Key": 20,
+                    "Value": 1
+                },
+                {
+                    "Key": 63,
+                    "Value": 5
+                },
+                {
+                    "Key": 66,
+                    "Value": 3
+                },
+                {
+                    "Key": 67,
+                    "Value": 2
+                },
+                {
+                    "Key": 69,
+                    "Value": 12
+                },
+                {
+                    "Key": 70,
+                    "Value": 4
+                },
+                {
+                    "Key": 71,
+                    "Value": 13
+                },
+                {
+                    "Key": 72,
+                    "Value": 62
+                },
+                {
+                    "Key": 74,
+                    "Value": 1
+                },
+                {
+                    "Key": 81,
+                    "Value": 2
+                },
+                {
+                    "Key": 85,
+                    "Value": 48
+                },
+                {
+                    "Key": 86,
+                    "Value": 23
+                },
+                {
+                    "Key": 87,
+                    "Value": 3
+                },
+                {
+                    "Key": 89,
+                    "Value": 98
+                },
+                {
+                    "Key": 91,
+                    "Value": 27
+                },
+                {
+                    "Key": 92,
+                    "Value": 3
+                },
+                {
+                    "Key": 93,
+                    "Value": 24
+                },
+                {
+                    "Key": 94,
+                    "Value": 4
+                },
+                {
+                    "Key": 95,
+                    "Value": 1
+                },
+                {
+                    "Key": 96,
+                    "Value": 1
+                },
+                {
+                    "Key": 100,
+                    "Value": 2
+                },
+                {
+                    "Key": 101,
+                    "Value": 24
+                },
+                {
+                    "Key": 102,
+                    "Value": 5
+                },
+                {
+                    "Key": 103,
+                    "Value": 4
+                },
+                {
+                    "Key": 117,
+                    "Value": 12
+                },
+                {
+                    "Key": 118,
+                    "Value": 2
+                },
+                {
+                    "Key": 121,
+                    "Value": 1
+                },
+                {
+                    "Key": 126,
+                    "Value": 6
+                }
+            ],
+            "total_playtime": "PT5H34M55S"
+        },
+        {
+            "HopperId": 105,
+            "MedalChestCompletionPercentage": 0.1875,
+            "TotalMedals": 92,
+            "VariantClass": 3,
+            "game_count": 7,
+            "high_score": 5,
+            "season_id": -1,
+            "total_assists": 10,
+            "total_betrayals": 1,
+            "total_deaths": 41,
+            "total_first_place": 4,
+            "total_kills": 66,
+            "total_score": 7,
+            "total_top_half_place": 4,
+            "total_top_third_place": 4,
+            "total_wins": 4,
+            "DeathsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 2
+                },
+                {
+                    "Key": 5,
+                    "Value": 6
+                },
+                {
+                    "Key": 7,
+                    "Value": 1
+                },
+                {
+                    "Key": 8,
+                    "Value": 6
+                },
+                {
+                    "Key": 11,
+                    "Value": 4
+                },
+                {
+                    "Key": 14,
+                    "Value": 1
+                },
+                {
+                    "Key": 17,
+                    "Value": 1
+                },
+                {
+                    "Key": 21,
+                    "Value": 1
+                },
+                {
+                    "Key": 22,
+                    "Value": 3
+                },
+                {
+                    "Key": 25,
+                    "Value": 2
+                },
+                {
+                    "Key": 27,
+                    "Value": 1
+                },
+                {
+                    "Key": 43,
+                    "Value": 7
+                },
+                {
+                    "Key": 46,
+                    "Value": 2
+                },
+                {
+                    "Key": 47,
+                    "Value": 1
+                },
+                {
+                    "Key": 49,
+                    "Value": 3
+                }
+            ],
+            "KillsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 4
+                },
+                {
+                    "Key": 5,
+                    "Value": 4
+                },
+                {
+                    "Key": 6,
+                    "Value": 4
+                },
+                {
+                    "Key": 7,
+                    "Value": 3
+                },
+                {
+                    "Key": 8,
+                    "Value": 6
+                },
+                {
+                    "Key": 11,
+                    "Value": 7
+                },
+                {
+                    "Key": 14,
+                    "Value": 2
+                },
+                {
+                    "Key": 16,
+                    "Value": 1
+                },
+                {
+                    "Key": 17,
+                    "Value": 2
+                },
+                {
+                    "Key": 20,
+                    "Value": 2
+                },
+                {
+                    "Key": 21,
+                    "Value": 8
+                },
+                {
+                    "Key": 22,
+                    "Value": 2
+                },
+                {
+                    "Key": 23,
+                    "Value": 1
+                },
+                {
+                    "Key": 43,
+                    "Value": 19
+                },
+                {
+                    "Key": 46,
+                    "Value": 1
+                }
+            ],
+            "MapId": null,
+            "MedalCountsByType": [
+                {
+                    "Key": 2,
+                    "Value": 5
+                },
+                {
+                    "Key": 11,
+                    "Value": 4
+                },
+                {
+                    "Key": 29,
+                    "Value": 1
+                },
+                {
+                    "Key": 67,
+                    "Value": 1
+                },
+                {
+                    "Key": 69,
+                    "Value": 2
+                },
+                {
+                    "Key": 70,
+                    "Value": 3
+                },
+                {
+                    "Key": 71,
+                    "Value": 5
+                },
+                {
+                    "Key": 72,
+                    "Value": 21
+                },
+                {
+                    "Key": 76,
+                    "Value": 2
+                },
+                {
+                    "Key": 78,
+                    "Value": 1
+                },
+                {
+                    "Key": 79,
+                    "Value": 4
+                },
+                {
+                    "Key": 81,
+                    "Value": 3
+                },
+                {
+                    "Key": 85,
+                    "Value": 7
+                },
+                {
+                    "Key": 86,
+                    "Value": 2
+                },
+                {
+                    "Key": 89,
+                    "Value": 10
+                },
+                {
+                    "Key": 91,
+                    "Value": 5
+                },
+                {
+                    "Key": 92,
+                    "Value": 2
+                },
+                {
+                    "Key": 93,
+                    "Value": 3
+                },
+                {
+                    "Key": 94,
+                    "Value": 2
+                },
+                {
+                    "Key": 101,
+                    "Value": 3
+                },
+                {
+                    "Key": 102,
+                    "Value": 1
+                },
+                {
+                    "Key": 104,
+                    "Value": 3
+                },
+                {
+                    "Key": 117,
+                    "Value": 1
+                },
+                {
+                    "Key": 118,
+                    "Value": 1
+                }
+            ],
+            "total_playtime": "PT45M13S"
+        },
+        {
+            "HopperId": 109,
+            "MedalChestCompletionPercentage": 0.3203125,
+            "TotalMedals": 1541,
+            "VariantClass": 3,
+            "game_count": 102,
+            "high_score": 27,
+            "season_id": -1,
+            "total_assists": 273,
+            "total_betrayals": 9,
+            "total_deaths": 1072,
+            "total_first_place": 58,
+            "total_kills": 1316,
+            "total_score": 1076,
+            "total_top_half_place": 58,
+            "total_top_third_place": 58,
+            "total_wins": 58,
+            "DeathsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 32
+                },
+                {
+                    "Key": 5,
+                    "Value": 8
+                },
+                {
+                    "Key": 6,
+                    "Value": 374
+                },
+                {
+                    "Key": 7,
+                    "Value": 16
+                },
+                {
+                    "Key": 8,
+                    "Value": 175
+                },
+                {
+                    "Key": 9,
+                    "Value": 10
+                },
+                {
+                    "Key": 10,
+                    "Value": 3
+                },
+                {
+                    "Key": 11,
+                    "Value": 66
+                },
+                {
+                    "Key": 12,
+                    "Value": 1
+                },
+                {
+                    "Key": 14,
+                    "Value": 9
+                },
+                {
+                    "Key": 16,
+                    "Value": 5
+                },
+                {
+                    "Key": 17,
+                    "Value": 22
+                },
+                {
+                    "Key": 19,
+                    "Value": 2
+                },
+                {
+                    "Key": 20,
+                    "Value": 3
+                },
+                {
+                    "Key": 21,
+                    "Value": 7
+                },
+                {
+                    "Key": 22,
+                    "Value": 4
+                },
+                {
+                    "Key": 23,
+                    "Value": 13
+                },
+                {
+                    "Key": 24,
+                    "Value": 33
+                },
+                {
+                    "Key": 25,
+                    "Value": 12
+                },
+                {
+                    "Key": 27,
+                    "Value": 18
+                },
+                {
+                    "Key": 29,
+                    "Value": 7
+                },
+                {
+                    "Key": 30,
+                    "Value": 27
+                },
+                {
+                    "Key": 32,
+                    "Value": 3
+                },
+                {
+                    "Key": 33,
+                    "Value": 4
+                },
+                {
+                    "Key": 34,
+                    "Value": 30
+                },
+                {
+                    "Key": 37,
+                    "Value": 27
+                },
+                {
+                    "Key": 38,
+                    "Value": 1
+                },
+                {
+                    "Key": 41,
+                    "Value": 11
+                },
+                {
+                    "Key": 42,
+                    "Value": 10
+                },
+                {
+                    "Key": 43,
+                    "Value": 110
+                },
+                {
+                    "Key": 44,
+                    "Value": 4
+                },
+                {
+                    "Key": 46,
+                    "Value": 1
+                },
+                {
+                    "Key": 52,
+                    "Value": 9
+                },
+                {
+                    "Key": 54,
+                    "Value": 9
+                },
+                {
+                    "Key": 63,
+                    "Value": 4
+                },
+                {
+                    "Key": 64,
+                    "Value": 2
+                }
+            ],
+            "KillsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 4
+                },
+                {
+                    "Key": 5,
+                    "Value": 1
+                },
+                {
+                    "Key": 6,
+                    "Value": 478
+                },
+                {
+                    "Key": 7,
+                    "Value": 52
+                },
+                {
+                    "Key": 8,
+                    "Value": 200
+                },
+                {
+                    "Key": 9,
+                    "Value": 65
+                },
+                {
+                    "Key": 10,
+                    "Value": 21
+                },
+                {
+                    "Key": 11,
+                    "Value": 63
+                },
+                {
+                    "Key": 12,
+                    "Value": 4
+                },
+                {
+                    "Key": 14,
+                    "Value": 6
+                },
+                {
+                    "Key": 16,
+                    "Value": 4
+                },
+                {
+                    "Key": 17,
+                    "Value": 23
+                },
+                {
+                    "Key": 19,
+                    "Value": 2
+                },
+                {
+                    "Key": 20,
+                    "Value": 7
+                },
+                {
+                    "Key": 21,
+                    "Value": 23
+                },
+                {
+                    "Key": 22,
+                    "Value": 7
+                },
+                {
+                    "Key": 23,
+                    "Value": 17
+                },
+                {
+                    "Key": 24,
+                    "Value": 50
+                },
+                {
+                    "Key": 25,
+                    "Value": 6
+                },
+                {
+                    "Key": 27,
+                    "Value": 1
+                },
+                {
+                    "Key": 28,
+                    "Value": 3
+                },
+                {
+                    "Key": 29,
+                    "Value": 19
+                },
+                {
+                    "Key": 30,
+                    "Value": 1
+                },
+                {
+                    "Key": 32,
+                    "Value": 1
+                },
+                {
+                    "Key": 33,
+                    "Value": 2
+                },
+                {
+                    "Key": 34,
+                    "Value": 44
+                },
+                {
+                    "Key": 37,
+                    "Value": 8
+                },
+                {
+                    "Key": 43,
+                    "Value": 164
+                },
+                {
+                    "Key": 44,
+                    "Value": 34
+                },
+                {
+                    "Key": 46,
+                    "Value": 1
+                },
+                {
+                    "Key": 54,
+                    "Value": 3
+                },
+                {
+                    "Key": 63,
+                    "Value": 1
+                },
+                {
+                    "Key": 64,
+                    "Value": 1
+                }
+            ],
+            "MapId": null,
+            "MedalCountsByType": [
+                {
+                    "Key": 2,
+                    "Value": 93
+                },
+                {
+                    "Key": 3,
+                    "Value": 8
+                },
+                {
+                    "Key": 4,
+                    "Value": 1
+                },
+                {
+                    "Key": 11,
+                    "Value": 46
+                },
+                {
+                    "Key": 12,
+                    "Value": 3
+                },
+                {
+                    "Key": 13,
+                    "Value": 1
+                },
+                {
+                    "Key": 20,
+                    "Value": 9
+                },
+                {
+                    "Key": 23,
+                    "Value": 3
+                },
+                {
+                    "Key": 56,
+                    "Value": 2
+                },
+                {
+                    "Key": 59,
+                    "Value": 2
+                },
+                {
+                    "Key": 63,
+                    "Value": 36
+                },
+                {
+                    "Key": 65,
+                    "Value": 3
+                },
+                {
+                    "Key": 66,
+                    "Value": 1
+                },
+                {
+                    "Key": 67,
+                    "Value": 30
+                },
+                {
+                    "Key": 68,
+                    "Value": 18
+                },
+                {
+                    "Key": 69,
+                    "Value": 1
+                },
+                {
+                    "Key": 70,
+                    "Value": 104
+                },
+                {
+                    "Key": 71,
+                    "Value": 30
+                },
+                {
+                    "Key": 72,
+                    "Value": 158
+                },
+                {
+                    "Key": 74,
+                    "Value": 34
+                },
+                {
+                    "Key": 76,
+                    "Value": 1
+                },
+                {
+                    "Key": 78,
+                    "Value": 1
+                },
+                {
+                    "Key": 81,
+                    "Value": 8
+                },
+                {
+                    "Key": 85,
+                    "Value": 285
+                },
+                {
+                    "Key": 86,
+                    "Value": 7
+                },
+                {
+                    "Key": 89,
+                    "Value": 235
+                },
+                {
+                    "Key": 91,
+                    "Value": 70
+                },
+                {
+                    "Key": 92,
+                    "Value": 6
+                },
+                {
+                    "Key": 93,
+                    "Value": 70
+                },
+                {
+                    "Key": 94,
+                    "Value": 10
+                },
+                {
+                    "Key": 95,
+                    "Value": 5
+                },
+                {
+                    "Key": 96,
+                    "Value": 30
+                },
+                {
+                    "Key": 99,
+                    "Value": 5
+                },
+                {
+                    "Key": 101,
+                    "Value": 64
+                },
+                {
+                    "Key": 102,
+                    "Value": 8
+                },
+                {
+                    "Key": 103,
+                    "Value": 69
+                },
+                {
+                    "Key": 104,
+                    "Value": 4
+                },
+                {
+                    "Key": 117,
+                    "Value": 54
+                },
+                {
+                    "Key": 118,
+                    "Value": 6
+                },
+                {
+                    "Key": 121,
+                    "Value": 2
+                },
+                {
+                    "Key": 126,
+                    "Value": 18
+                }
+            ],
+            "total_playtime": "PT18H9M8S"
+        },
+        {
+            "HopperId": 110,
+            "MedalChestCompletionPercentage": 0.125,
+            "TotalMedals": 382,
+            "VariantClass": 3,
+            "game_count": 27,
+            "high_score": 18,
+            "season_id": -1,
+            "total_assists": 15,
+            "total_betrayals": 1,
+            "total_deaths": 272,
+            "total_first_place": 17,
+            "total_kills": 251,
+            "total_score": 250,
+            "total_top_half_place": 17,
+            "total_top_third_place": 17,
+            "total_wins": 17,
+            "DeathsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 51
+                },
+                {
+                    "Key": 6,
+                    "Value": 205
+                },
+                {
+                    "Key": 41,
+                    "Value": 1
+                },
+                {
+                    "Key": 43,
+                    "Value": 15
+                }
+            ],
+            "KillsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 36
+                },
+                {
+                    "Key": 6,
+                    "Value": 187
+                },
+                {
+                    "Key": 43,
+                    "Value": 28
+                }
+            ],
+            "MapId": null,
+            "MedalCountsByType": [
+                {
+                    "Key": 2,
+                    "Value": 18
+                },
+                {
+                    "Key": 11,
+                    "Value": 5
+                },
+                {
+                    "Key": 67,
+                    "Value": 6
+                },
+                {
+                    "Key": 71,
+                    "Value": 5
+                },
+                {
+                    "Key": 72,
+                    "Value": 22
+                },
+                {
+                    "Key": 85,
+                    "Value": 207
+                },
+                {
+                    "Key": 89,
+                    "Value": 15
+                },
+                {
+                    "Key": 91,
+                    "Value": 37
+                },
+                {
+                    "Key": 92,
+                    "Value": 4
+                },
+                {
+                    "Key": 93,
+                    "Value": 7
+                },
+                {
+                    "Key": 95,
+                    "Value": 6
+                },
+                {
+                    "Key": 99,
+                    "Value": 1
+                },
+                {
+                    "Key": 101,
+                    "Value": 21
+                },
+                {
+                    "Key": 104,
+                    "Value": 1
+                },
+                {
+                    "Key": 117,
+                    "Value": 24
+                },
+                {
+                    "Key": 126,
+                    "Value": 3
+                }
+            ],
+            "total_playtime": "PT2H45M10S"
+        },
+        {
+            "HopperId": 111,
+            "MedalChestCompletionPercentage": 0.1484375,
+            "TotalMedals": 147,
+            "VariantClass": 3,
+            "game_count": 10,
+            "high_score": 18,
+            "season_id": -1,
+            "total_assists": 21,
+            "total_betrayals": 1,
+            "total_deaths": 102,
+            "total_first_place": 7,
+            "total_kills": 125,
+            "total_score": 124,
+            "total_top_half_place": 7,
+            "total_top_third_place": 7,
+            "total_wins": 7,
+            "DeathsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 7
+                },
+                {
+                    "Key": 8,
+                    "Value": 72
+                },
+                {
+                    "Key": 11,
+                    "Value": 3
+                },
+                {
+                    "Key": 32,
+                    "Value": 1
+                },
+                {
+                    "Key": 43,
+                    "Value": 19
+                }
+            ],
+            "KillsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 2
+                },
+                {
+                    "Key": 8,
+                    "Value": 99
+                },
+                {
+                    "Key": 11,
+                    "Value": 2
+                },
+                {
+                    "Key": 43,
+                    "Value": 22
+                }
+            ],
+            "MapId": null,
+            "MedalCountsByType": [
+                {
+                    "Key": 2,
+                    "Value": 2
+                },
+                {
+                    "Key": 11,
+                    "Value": 5
+                },
+                {
+                    "Key": 20,
+                    "Value": 1
+                },
+                {
+                    "Key": 67,
+                    "Value": 1
+                },
+                {
+                    "Key": 70,
+                    "Value": 45
+                },
+                {
+                    "Key": 71,
+                    "Value": 7
+                },
+                {
+                    "Key": 72,
+                    "Value": 13
+                },
+                {
+                    "Key": 85,
+                    "Value": 1
+                },
+                {
+                    "Key": 89,
+                    "Value": 21
+                },
+                {
+                    "Key": 91,
+                    "Value": 17
+                },
+                {
+                    "Key": 92,
+                    "Value": 6
+                },
+                {
+                    "Key": 93,
+                    "Value": 10
+                },
+                {
+                    "Key": 95,
+                    "Value": 1
+                },
+                {
+                    "Key": 99,
+                    "Value": 1
+                },
+                {
+                    "Key": 101,
+                    "Value": 4
+                },
+                {
+                    "Key": 104,
+                    "Value": 1
+                },
+                {
+                    "Key": 117,
+                    "Value": 8
+                },
+                {
+                    "Key": 121,
+                    "Value": 1
+                },
+                {
+                    "Key": 126,
+                    "Value": 2
+                }
+            ],
+            "total_playtime": "PT1H46M41S"
+        },
+        {
+            "HopperId": 113,
+            "MedalChestCompletionPercentage": 0.09375,
+            "TotalMedals": 80,
+            "VariantClass": 3,
+            "game_count": 15,
+            "high_score": 11,
+            "season_id": -1,
+            "total_assists": 0,
+            "total_betrayals": 0,
+            "total_deaths": 77,
+            "total_first_place": 2,
+            "total_kills": 84,
+            "total_score": 86,
+            "total_top_half_place": 12,
+            "total_top_third_place": 10,
+            "total_wins": 12,
+            "DeathsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 16
+                },
+                {
+                    "Key": 7,
+                    "Value": 23
+                },
+                {
+                    "Key": 21,
+                    "Value": 29
+                },
+                {
+                    "Key": 41,
+                    "Value": 6
+                },
+                {
+                    "Key": 42,
+                    "Value": 1
+                },
+                {
+                    "Key": 43,
+                    "Value": 2
+                }
+            ],
+            "KillsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 10
+                },
+                {
+                    "Key": 7,
+                    "Value": 39
+                },
+                {
+                    "Key": 21,
+                    "Value": 25
+                },
+                {
+                    "Key": 43,
+                    "Value": 10
+                }
+            ],
+            "MapId": null,
+            "MedalCountsByType": [
+                {
+                    "Key": 2,
+                    "Value": 7
+                },
+                {
+                    "Key": 11,
+                    "Value": 1
+                },
+                {
+                    "Key": 38,
+                    "Value": 1
+                },
+                {
+                    "Key": 62,
+                    "Value": 5
+                },
+                {
+                    "Key": 67,
+                    "Value": 4
+                },
+                {
+                    "Key": 71,
+                    "Value": 1
+                },
+                {
+                    "Key": 72,
+                    "Value": 34
+                },
+                {
+                    "Key": 84,
+                    "Value": 10
+                },
+                {
+                    "Key": 85,
+                    "Value": 6
+                },
+                {
+                    "Key": 91,
+                    "Value": 2
+                },
+                {
+                    "Key": 92,
+                    "Value": 8
+                },
+                {
+                    "Key": 93,
+                    "Value": 1
+                }
+            ],
+            "total_playtime": "PT1H11M21S"
+        },
+        {
+            "HopperId": 123,
+            "MedalChestCompletionPercentage": 0.2890625,
+            "TotalMedals": 899,
+            "VariantClass": 3,
+            "game_count": 39,
+            "high_score": 76,
+            "season_id": -1,
+            "total_assists": 160,
+            "total_betrayals": 6,
+            "total_deaths": 569,
+            "total_first_place": 15,
+            "total_kills": 751,
+            "total_score": 695,
+            "total_top_half_place": 30,
+            "total_top_third_place": 27,
+            "total_wins": 15,
+            "DeathsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 44
+                },
+                {
+                    "Key": 5,
+                    "Value": 114
+                },
+                {
+                    "Key": 6,
+                    "Value": 30
+                },
+                {
+                    "Key": 7,
+                    "Value": 17
+                },
+                {
+                    "Key": 8,
+                    "Value": 12
+                },
+                {
+                    "Key": 9,
+                    "Value": 17
+                },
+                {
+                    "Key": 11,
+                    "Value": 78
+                },
+                {
+                    "Key": 12,
+                    "Value": 2
+                },
+                {
+                    "Key": 13,
+                    "Value": 1
+                },
+                {
+                    "Key": 14,
+                    "Value": 5
+                },
+                {
+                    "Key": 16,
+                    "Value": 4
+                },
+                {
+                    "Key": 17,
+                    "Value": 18
+                },
+                {
+                    "Key": 20,
+                    "Value": 5
+                },
+                {
+                    "Key": 21,
+                    "Value": 29
+                },
+                {
+                    "Key": 22,
+                    "Value": 9
+                },
+                {
+                    "Key": 23,
+                    "Value": 6
+                },
+                {
+                    "Key": 32,
+                    "Value": 1
+                },
+                {
+                    "Key": 34,
+                    "Value": 3
+                },
+                {
+                    "Key": 41,
+                    "Value": 10
+                },
+                {
+                    "Key": 42,
+                    "Value": 1
+                },
+                {
+                    "Key": 43,
+                    "Value": 152
+                },
+                {
+                    "Key": 44,
+                    "Value": 1
+                },
+                {
+                    "Key": 49,
+                    "Value": 8
+                },
+                {
+                    "Key": 63,
+                    "Value": 2
+                }
+            ],
+            "KillsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 9
+                },
+                {
+                    "Key": 5,
+                    "Value": 148
+                },
+                {
+                    "Key": 6,
+                    "Value": 28
+                },
+                {
+                    "Key": 7,
+                    "Value": 46
+                },
+                {
+                    "Key": 8,
+                    "Value": 9
+                },
+                {
+                    "Key": 9,
+                    "Value": 39
+                },
+                {
+                    "Key": 11,
+                    "Value": 90
+                },
+                {
+                    "Key": 14,
+                    "Value": 5
+                },
+                {
+                    "Key": 16,
+                    "Value": 9
+                },
+                {
+                    "Key": 17,
+                    "Value": 12
+                },
+                {
+                    "Key": 19,
+                    "Value": 1
+                },
+                {
+                    "Key": 21,
+                    "Value": 38
+                },
+                {
+                    "Key": 22,
+                    "Value": 20
+                },
+                {
+                    "Key": 23,
+                    "Value": 11
+                },
+                {
+                    "Key": 34,
+                    "Value": 3
+                },
+                {
+                    "Key": 36,
+                    "Value": 1
+                },
+                {
+                    "Key": 43,
+                    "Value": 273
+                },
+                {
+                    "Key": 44,
+                    "Value": 2
+                },
+                {
+                    "Key": 49,
+                    "Value": 6
+                },
+                {
+                    "Key": 63,
+                    "Value": 1
+                }
+            ],
+            "MapId": null,
+            "MedalCountsByType": [
+                {
+                    "Key": 2,
+                    "Value": 105
+                },
+                {
+                    "Key": 3,
+                    "Value": 9
+                },
+                {
+                    "Key": 4,
+                    "Value": 1
+                },
+                {
+                    "Key": 11,
+                    "Value": 26
+                },
+                {
+                    "Key": 12,
+                    "Value": 2
+                },
+                {
+                    "Key": 20,
+                    "Value": 1
+                },
+                {
+                    "Key": 23,
+                    "Value": 1
+                },
+                {
+                    "Key": 29,
+                    "Value": 2
+                },
+                {
+                    "Key": 56,
+                    "Value": 1
+                },
+                {
+                    "Key": 62,
+                    "Value": 2
+                },
+                {
+                    "Key": 66,
+                    "Value": 3
+                },
+                {
+                    "Key": 67,
+                    "Value": 16
+                },
+                {
+                    "Key": 69,
+                    "Value": 7
+                },
+                {
+                    "Key": 70,
+                    "Value": 5
+                },
+                {
+                    "Key": 71,
+                    "Value": 70
+                },
+                {
+                    "Key": 72,
+                    "Value": 237
+                },
+                {
+                    "Key": 74,
+                    "Value": 8
+                },
+                {
+                    "Key": 77,
+                    "Value": 6
+                },
+                {
+                    "Key": 79,
+                    "Value": 17
+                },
+                {
+                    "Key": 85,
+                    "Value": 33
+                },
+                {
+                    "Key": 86,
+                    "Value": 8
+                },
+                {
+                    "Key": 87,
+                    "Value": 2
+                },
+                {
+                    "Key": 89,
+                    "Value": 150
+                },
+                {
+                    "Key": 91,
+                    "Value": 37
+                },
+                {
+                    "Key": 92,
+                    "Value": 5
+                },
+                {
+                    "Key": 93,
+                    "Value": 56
+                },
+                {
+                    "Key": 94,
+                    "Value": 8
+                },
+                {
+                    "Key": 95,
+                    "Value": 2
+                },
+                {
+                    "Key": 96,
+                    "Value": 13
+                },
+                {
+                    "Key": 97,
+                    "Value": 1
+                },
+                {
+                    "Key": 99,
+                    "Value": 3
+                },
+                {
+                    "Key": 101,
+                    "Value": 20
+                },
+                {
+                    "Key": 102,
+                    "Value": 1
+                },
+                {
+                    "Key": 103,
+                    "Value": 19
+                },
+                {
+                    "Key": 104,
+                    "Value": 1
+                },
+                {
+                    "Key": 117,
+                    "Value": 20
+                },
+                {
+                    "Key": 118,
+                    "Value": 1
+                }
+            ],
+            "total_playtime": "PT5H13M50S"
+        },
+        {
+            "HopperId": 124,
+            "MedalChestCompletionPercentage": 0.09375,
+            "TotalMedals": 48,
+            "VariantClass": 1,
+            "game_count": 2,
+            "high_score": 26,
+            "season_id": -1,
+            "total_assists": 10,
+            "total_betrayals": 1,
+            "total_deaths": 41,
+            "total_first_place": 0,
+            "total_kills": 40,
+            "total_score": 26,
+            "total_top_half_place": 0,
+            "total_top_third_place": 0,
+            "total_wins": 0,
+            "DeathsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 1
+                },
+                {
+                    "Key": 5,
+                    "Value": 3
+                },
+                {
+                    "Key": 6,
+                    "Value": 1
+                },
+                {
+                    "Key": 7,
+                    "Value": 3
+                },
+                {
+                    "Key": 11,
+                    "Value": 2
+                },
+                {
+                    "Key": 12,
+                    "Value": 2
+                },
+                {
+                    "Key": 14,
+                    "Value": 1
+                },
+                {
+                    "Key": 16,
+                    "Value": 2
+                },
+                {
+                    "Key": 17,
+                    "Value": 2
+                },
+                {
+                    "Key": 21,
+                    "Value": 7
+                },
+                {
+                    "Key": 22,
+                    "Value": 5
+                },
+                {
+                    "Key": 24,
+                    "Value": 1
+                },
+                {
+                    "Key": 41,
+                    "Value": 1
+                },
+                {
+                    "Key": 43,
+                    "Value": 9
+                },
+                {
+                    "Key": 48,
+                    "Value": 1
+                }
+            ],
+            "KillsByDamageType": [
+                {
+                    "Key": 5,
+                    "Value": 7
+                },
+                {
+                    "Key": 6,
+                    "Value": 2
+                },
+                {
+                    "Key": 11,
+                    "Value": 3
+                },
+                {
+                    "Key": 12,
+                    "Value": 3
+                },
+                {
+                    "Key": 16,
+                    "Value": 4
+                },
+                {
+                    "Key": 21,
+                    "Value": 9
+                },
+                {
+                    "Key": 22,
+                    "Value": 5
+                },
+                {
+                    "Key": 23,
+                    "Value": 1
+                },
+                {
+                    "Key": 43,
+                    "Value": 6
+                }
+            ],
+            "MapId": null,
+            "MedalCountsByType": [
+                {
+                    "Key": 2,
+                    "Value": 7
+                },
+                {
+                    "Key": 11,
+                    "Value": 1
+                },
+                {
+                    "Key": 69,
+                    "Value": 2
+                },
+                {
+                    "Key": 71,
+                    "Value": 3
+                },
+                {
+                    "Key": 72,
+                    "Value": 12
+                },
+                {
+                    "Key": 85,
+                    "Value": 1
+                },
+                {
+                    "Key": 89,
+                    "Value": 10
+                },
+                {
+                    "Key": 93,
+                    "Value": 2
+                },
+                {
+                    "Key": 94,
+                    "Value": 1
+                },
+                {
+                    "Key": 101,
+                    "Value": 4
+                },
+                {
+                    "Key": 103,
+                    "Value": 1
+                },
+                {
+                    "Key": 117,
+                    "Value": 4
+                }
+            ],
+            "total_playtime": "PT25M22S"
+        },
+        {
+            "HopperId": 124,
+            "MedalChestCompletionPercentage": 0.171875,
+            "TotalMedals": 117,
+            "VariantClass": 3,
+            "game_count": 11,
+            "high_score": 58,
+            "season_id": -1,
+            "total_assists": 25,
+            "total_betrayals": 1,
+            "total_deaths": 120,
+            "total_first_place": 5,
+            "total_kills": 112,
+            "total_score": 158,
+            "total_top_half_place": 5,
+            "total_top_third_place": 5,
+            "total_wins": 5,
+            "DeathsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 3
+                },
+                {
+                    "Key": 5,
+                    "Value": 10
+                },
+                {
+                    "Key": 6,
+                    "Value": 16
+                },
+                {
+                    "Key": 7,
+                    "Value": 5
+                },
+                {
+                    "Key": 8,
+                    "Value": 33
+                },
+                {
+                    "Key": 9,
+                    "Value": 5
+                },
+                {
+                    "Key": 11,
+                    "Value": 8
+                },
+                {
+                    "Key": 14,
+                    "Value": 3
+                },
+                {
+                    "Key": 17,
+                    "Value": 2
+                },
+                {
+                    "Key": 22,
+                    "Value": 1
+                },
+                {
+                    "Key": 24,
+                    "Value": 1
+                },
+                {
+                    "Key": 27,
+                    "Value": 3
+                },
+                {
+                    "Key": 30,
+                    "Value": 1
+                },
+                {
+                    "Key": 33,
+                    "Value": 2
+                },
+                {
+                    "Key": 34,
+                    "Value": 5
+                },
+                {
+                    "Key": 43,
+                    "Value": 14
+                },
+                {
+                    "Key": 47,
+                    "Value": 2
+                },
+                {
+                    "Key": 48,
+                    "Value": 1
+                },
+                {
+                    "Key": 52,
+                    "Value": 1
+                },
+                {
+                    "Key": 54,
+                    "Value": 4
+                }
+            ],
+            "KillsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 3
+                },
+                {
+                    "Key": 5,
+                    "Value": 9
+                },
+                {
+                    "Key": 6,
+                    "Value": 22
+                },
+                {
+                    "Key": 7,
+                    "Value": 7
+                },
+                {
+                    "Key": 8,
+                    "Value": 35
+                },
+                {
+                    "Key": 9,
+                    "Value": 2
+                },
+                {
+                    "Key": 11,
+                    "Value": 5
+                },
+                {
+                    "Key": 17,
+                    "Value": 2
+                },
+                {
+                    "Key": 24,
+                    "Value": 1
+                },
+                {
+                    "Key": 43,
+                    "Value": 24
+                },
+                {
+                    "Key": 44,
+                    "Value": 2
+                }
+            ],
+            "MapId": null,
+            "MedalCountsByType": [
+                {
+                    "Key": 2,
+                    "Value": 4
+                },
+                {
+                    "Key": 63,
+                    "Value": 1
+                },
+                {
+                    "Key": 67,
+                    "Value": 1
+                },
+                {
+                    "Key": 70,
+                    "Value": 13
+                },
+                {
+                    "Key": 71,
+                    "Value": 3
+                },
+                {
+                    "Key": 72,
+                    "Value": 20
+                },
+                {
+                    "Key": 74,
+                    "Value": 2
+                },
+                {
+                    "Key": 79,
+                    "Value": 3
+                },
+                {
+                    "Key": 81,
+                    "Value": 1
+                },
+                {
+                    "Key": 85,
+                    "Value": 15
+                },
+                {
+                    "Key": 86,
+                    "Value": 1
+                },
+                {
+                    "Key": 89,
+                    "Value": 20
+                },
+                {
+                    "Key": 91,
+                    "Value": 7
+                },
+                {
+                    "Key": 92,
+                    "Value": 2
+                },
+                {
+                    "Key": 93,
+                    "Value": 4
+                },
+                {
+                    "Key": 94,
+                    "Value": 1
+                },
+                {
+                    "Key": 95,
+                    "Value": 1
+                },
+                {
+                    "Key": 101,
+                    "Value": 6
+                },
+                {
+                    "Key": 102,
+                    "Value": 1
+                },
+                {
+                    "Key": 103,
+                    "Value": 1
+                },
+                {
+                    "Key": 117,
+                    "Value": 8
+                },
+                {
+                    "Key": 126,
+                    "Value": 2
+                }
+            ],
+            "total_playtime": "PT1H42M3S"
+        },
+        {
+            "HopperId": 126,
+            "MedalChestCompletionPercentage": 0.1171875,
+            "TotalMedals": 266,
+            "VariantClass": 3,
+            "game_count": 13,
+            "high_score": 1,
+            "season_id": -1,
+            "total_assists": 13,
+            "total_betrayals": 18,
+            "total_deaths": 194,
+            "total_first_place": 6,
+            "total_kills": 157,
+            "total_score": 1,
+            "total_top_half_place": 6,
+            "total_top_third_place": 6,
+            "total_wins": 6,
+            "DeathsByDamageType": [
+                {
+                    "Key": 20,
+                    "Value": 157
+                },
+                {
+                    "Key": 21,
+                    "Value": 6
+                },
+                {
+                    "Key": 47,
+                    "Value": 15
+                },
+                {
+                    "Key": 48,
+                    "Value": 16
+                }
+            ],
+            "KillsByDamageType": [
+                {
+                    "Key": 20,
+                    "Value": 149
+                },
+                {
+                    "Key": 21,
+                    "Value": 2
+                },
+                {
+                    "Key": 47,
+                    "Value": 6
+                }
+            ],
+            "MapId": null,
+            "MedalCountsByType": [
+                {
+                    "Key": 2,
+                    "Value": 19
+                },
+                {
+                    "Key": 3,
+                    "Value": 7
+                },
+                {
+                    "Key": 4,
+                    "Value": 1
+                },
+                {
+                    "Key": 11,
+                    "Value": 2
+                },
+                {
+                    "Key": 47,
+                    "Value": 2
+                },
+                {
+                    "Key": 62,
+                    "Value": 1
+                },
+                {
+                    "Key": 67,
+                    "Value": 1
+                },
+                {
+                    "Key": 72,
+                    "Value": 151
+                },
+                {
+                    "Key": 75,
+                    "Value": 1
+                },
+                {
+                    "Key": 89,
+                    "Value": 13
+                },
+                {
+                    "Key": 91,
+                    "Value": 18
+                },
+                {
+                    "Key": 92,
+                    "Value": 4
+                },
+                {
+                    "Key": 101,
+                    "Value": 25
+                },
+                {
+                    "Key": 117,
+                    "Value": 20
+                },
+                {
+                    "Key": 127,
+                    "Value": 1
+                }
+            ],
+            "total_playtime": "PT1H3M50S"
+        },
+        {
+            "HopperId": 127,
+            "MedalChestCompletionPercentage": 0.1640625,
+            "TotalMedals": 199,
+            "VariantClass": 3,
+            "game_count": 11,
+            "high_score": 24,
+            "season_id": -1,
+            "total_assists": 36,
+            "total_betrayals": 1,
+            "total_deaths": 142,
+            "total_first_place": 6,
+            "total_kills": 164,
+            "total_score": 157,
+            "total_top_half_place": 6,
+            "total_top_third_place": 6,
+            "total_wins": 6,
+            "DeathsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 12
+                },
+                {
+                    "Key": 5,
+                    "Value": 13
+                },
+                {
+                    "Key": 6,
+                    "Value": 59
+                },
+                {
+                    "Key": 7,
+                    "Value": 8
+                },
+                {
+                    "Key": 8,
+                    "Value": 3
+                },
+                {
+                    "Key": 9,
+                    "Value": 2
+                },
+                {
+                    "Key": 11,
+                    "Value": 9
+                },
+                {
+                    "Key": 17,
+                    "Value": 5
+                },
+                {
+                    "Key": 21,
+                    "Value": 1
+                },
+                {
+                    "Key": 22,
+                    "Value": 4
+                },
+                {
+                    "Key": 23,
+                    "Value": 1
+                },
+                {
+                    "Key": 24,
+                    "Value": 1
+                },
+                {
+                    "Key": 41,
+                    "Value": 5
+                },
+                {
+                    "Key": 43,
+                    "Value": 17
+                },
+                {
+                    "Key": 64,
+                    "Value": 2
+                }
+            ],
+            "KillsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 5
+                },
+                {
+                    "Key": 5,
+                    "Value": 19
+                },
+                {
+                    "Key": 6,
+                    "Value": 70
+                },
+                {
+                    "Key": 7,
+                    "Value": 9
+                },
+                {
+                    "Key": 8,
+                    "Value": 3
+                },
+                {
+                    "Key": 9,
+                    "Value": 4
+                },
+                {
+                    "Key": 11,
+                    "Value": 18
+                },
+                {
+                    "Key": 21,
+                    "Value": 1
+                },
+                {
+                    "Key": 22,
+                    "Value": 2
+                },
+                {
+                    "Key": 23,
+                    "Value": 2
+                },
+                {
+                    "Key": 24,
+                    "Value": 1
+                },
+                {
+                    "Key": 43,
+                    "Value": 30
+                }
+            ],
+            "MapId": null,
+            "MedalCountsByType": [
+                {
+                    "Key": 2,
+                    "Value": 8
+                },
+                {
+                    "Key": 11,
+                    "Value": 4
+                },
+                {
+                    "Key": 62,
+                    "Value": 1
+                },
+                {
+                    "Key": 63,
+                    "Value": 1
+                },
+                {
+                    "Key": 66,
+                    "Value": 1
+                },
+                {
+                    "Key": 67,
+                    "Value": 3
+                },
+                {
+                    "Key": 69,
+                    "Value": 1
+                },
+                {
+                    "Key": 70,
+                    "Value": 1
+                },
+                {
+                    "Key": 71,
+                    "Value": 7
+                },
+                {
+                    "Key": 72,
+                    "Value": 23
+                },
+                {
+                    "Key": 85,
+                    "Value": 46
+                },
+                {
+                    "Key": 89,
+                    "Value": 36
+                },
+                {
+                    "Key": 91,
+                    "Value": 12
+                },
+                {
+                    "Key": 92,
+                    "Value": 2
+                },
+                {
+                    "Key": 93,
+                    "Value": 7
+                },
+                {
+                    "Key": 94,
+                    "Value": 1
+                },
+                {
+                    "Key": 96,
+                    "Value": 4
+                },
+                {
+                    "Key": 101,
+                    "Value": 15
+                },
+                {
+                    "Key": 103,
+                    "Value": 23
+                },
+                {
+                    "Key": 117,
+                    "Value": 2
+                },
+                {
+                    "Key": 126,
+                    "Value": 1
+                }
+            ],
+            "total_playtime": "PT1H29M43S"
+        },
+        {
+            "HopperId": 129,
+            "MedalChestCompletionPercentage": 0.1328125,
+            "TotalMedals": 64,
+            "VariantClass": 3,
+            "game_count": 3,
+            "high_score": 18,
+            "season_id": -1,
+            "total_assists": 10,
+            "total_betrayals": 0,
+            "total_deaths": 44,
+            "total_first_place": 2,
+            "total_kills": 44,
+            "total_score": 44,
+            "total_top_half_place": 2,
+            "total_top_third_place": 2,
+            "total_wins": 2,
+            "DeathsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 1
+                },
+                {
+                    "Key": 5,
+                    "Value": 4
+                },
+                {
+                    "Key": 6,
+                    "Value": 12
+                },
+                {
+                    "Key": 7,
+                    "Value": 1
+                },
+                {
+                    "Key": 8,
+                    "Value": 5
+                },
+                {
+                    "Key": 9,
+                    "Value": 2
+                },
+                {
+                    "Key": 11,
+                    "Value": 3
+                },
+                {
+                    "Key": 17,
+                    "Value": 2
+                },
+                {
+                    "Key": 19,
+                    "Value": 1
+                },
+                {
+                    "Key": 21,
+                    "Value": 1
+                },
+                {
+                    "Key": 22,
+                    "Value": 3
+                },
+                {
+                    "Key": 43,
+                    "Value": 9
+                }
+            ],
+            "KillsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 3
+                },
+                {
+                    "Key": 5,
+                    "Value": 2
+                },
+                {
+                    "Key": 6,
+                    "Value": 6
+                },
+                {
+                    "Key": 7,
+                    "Value": 1
+                },
+                {
+                    "Key": 9,
+                    "Value": 5
+                },
+                {
+                    "Key": 11,
+                    "Value": 4
+                },
+                {
+                    "Key": 17,
+                    "Value": 3
+                },
+                {
+                    "Key": 21,
+                    "Value": 1
+                },
+                {
+                    "Key": 22,
+                    "Value": 2
+                },
+                {
+                    "Key": 24,
+                    "Value": 2
+                },
+                {
+                    "Key": 43,
+                    "Value": 15
+                }
+            ],
+            "MapId": null,
+            "MedalCountsByType": [
+                {
+                    "Key": 2,
+                    "Value": 6
+                },
+                {
+                    "Key": 62,
+                    "Value": 1
+                },
+                {
+                    "Key": 66,
+                    "Value": 2
+                },
+                {
+                    "Key": 67,
+                    "Value": 1
+                },
+                {
+                    "Key": 69,
+                    "Value": 1
+                },
+                {
+                    "Key": 71,
+                    "Value": 1
+                },
+                {
+                    "Key": 72,
+                    "Value": 15
+                },
+                {
+                    "Key": 85,
+                    "Value": 10
+                },
+                {
+                    "Key": 89,
+                    "Value": 10
+                },
+                {
+                    "Key": 91,
+                    "Value": 3
+                },
+                {
+                    "Key": 93,
+                    "Value": 2
+                },
+                {
+                    "Key": 94,
+                    "Value": 1
+                },
+                {
+                    "Key": 99,
+                    "Value": 1
+                },
+                {
+                    "Key": 101,
+                    "Value": 2
+                },
+                {
+                    "Key": 103,
+                    "Value": 1
+                },
+                {
+                    "Key": 117,
+                    "Value": 6
+                },
+                {
+                    "Key": 118,
+                    "Value": 1
+                }
+            ],
+            "total_playtime": "PT33M46S"
+        },
+        {
+            "HopperId": 131,
+            "MedalChestCompletionPercentage": 0.0625,
+            "TotalMedals": 16,
+            "VariantClass": 2,
+            "game_count": 1,
+            "high_score": 12,
+            "season_id": 7,
+            "total_assists": 2,
+            "total_betrayals": 0,
+            "total_deaths": 20,
+            "total_first_place": 0,
+            "total_kills": 12,
+            "total_score": 12,
+            "total_top_half_place": 0,
+            "total_top_third_place": 0,
+            "total_wins": 0,
+            "DeathsByDamageType": [
+                {
+                    "Key": 5,
+                    "Value": 3
+                },
+                {
+                    "Key": 6,
+                    "Value": 8
+                },
+                {
+                    "Key": 11,
+                    "Value": 1
+                },
+                {
+                    "Key": 17,
+                    "Value": 1
+                },
+                {
+                    "Key": 21,
+                    "Value": 2
+                },
+                {
+                    "Key": 22,
+                    "Value": 1
+                },
+                {
+                    "Key": 43,
+                    "Value": 4
+                }
+            ],
+            "KillsByDamageType": [
+                {
+                    "Key": 6,
+                    "Value": 6
+                },
+                {
+                    "Key": 11,
+                    "Value": 2
+                },
+                {
+                    "Key": 43,
+                    "Value": 4
+                }
+            ],
+            "MapId": null,
+            "MedalCountsByType": [
+                {
+                    "Key": 2,
+                    "Value": 1
+                },
+                {
+                    "Key": 67,
+                    "Value": 1
+                },
+                {
+                    "Key": 71,
+                    "Value": 2
+                },
+                {
+                    "Key": 72,
+                    "Value": 2
+                },
+                {
+                    "Key": 85,
+                    "Value": 4
+                },
+                {
+                    "Key": 89,
+                    "Value": 2
+                },
+                {
+                    "Key": 91,
+                    "Value": 3
+                },
+                {
+                    "Key": 117,
+                    "Value": 1
+                }
+            ],
+            "total_playtime": "PT9M22S"
+        },
+        {
+            "HopperId": 133,
+            "MedalChestCompletionPercentage": 0.2578125,
+            "TotalMedals": 793,
+            "VariantClass": 3,
+            "game_count": 56,
+            "high_score": 110,
+            "season_id": -1,
+            "total_assists": 71,
+            "total_betrayals": 3,
+            "total_deaths": 579,
+            "total_first_place": 29,
+            "total_kills": 636,
+            "total_score": 873,
+            "total_top_half_place": 29,
+            "total_top_third_place": 29,
+            "total_wins": 29,
+            "DeathsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 26
+                },
+                {
+                    "Key": 5,
+                    "Value": 51
+                },
+                {
+                    "Key": 6,
+                    "Value": 153
+                },
+                {
+                    "Key": 7,
+                    "Value": 47
+                },
+                {
+                    "Key": 8,
+                    "Value": 15
+                },
+                {
+                    "Key": 9,
+                    "Value": 20
+                },
+                {
+                    "Key": 11,
+                    "Value": 27
+                },
+                {
+                    "Key": 12,
+                    "Value": 2
+                },
+                {
+                    "Key": 14,
+                    "Value": 3
+                },
+                {
+                    "Key": 16,
+                    "Value": 1
+                },
+                {
+                    "Key": 17,
+                    "Value": 8
+                },
+                {
+                    "Key": 20,
+                    "Value": 7
+                },
+                {
+                    "Key": 21,
+                    "Value": 88
+                },
+                {
+                    "Key": 22,
+                    "Value": 14
+                },
+                {
+                    "Key": 23,
+                    "Value": 3
+                },
+                {
+                    "Key": 41,
+                    "Value": 5
+                },
+                {
+                    "Key": 43,
+                    "Value": 100
+                },
+                {
+                    "Key": 49,
+                    "Value": 6
+                },
+                {
+                    "Key": 54,
+                    "Value": 2
+                },
+                {
+                    "Key": 63,
+                    "Value": 1
+                }
+            ],
+            "KillsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 21
+                },
+                {
+                    "Key": 5,
+                    "Value": 36
+                },
+                {
+                    "Key": 6,
+                    "Value": 81
+                },
+                {
+                    "Key": 7,
+                    "Value": 122
+                },
+                {
+                    "Key": 8,
+                    "Value": 34
+                },
+                {
+                    "Key": 9,
+                    "Value": 42
+                },
+                {
+                    "Key": 11,
+                    "Value": 34
+                },
+                {
+                    "Key": 12,
+                    "Value": 1
+                },
+                {
+                    "Key": 14,
+                    "Value": 19
+                },
+                {
+                    "Key": 17,
+                    "Value": 5
+                },
+                {
+                    "Key": 20,
+                    "Value": 2
+                },
+                {
+                    "Key": 21,
+                    "Value": 63
+                },
+                {
+                    "Key": 22,
+                    "Value": 30
+                },
+                {
+                    "Key": 23,
+                    "Value": 8
+                },
+                {
+                    "Key": 43,
+                    "Value": 133
+                },
+                {
+                    "Key": 44,
+                    "Value": 2
+                },
+                {
+                    "Key": 49,
+                    "Value": 3
+                }
+            ],
+            "MapId": null,
+            "MedalCountsByType": [
+                {
+                    "Key": 2,
+                    "Value": 31
+                },
+                {
+                    "Key": 11,
+                    "Value": 21
+                },
+                {
+                    "Key": 12,
+                    "Value": 2
+                },
+                {
+                    "Key": 29,
+                    "Value": 2
+                },
+                {
+                    "Key": 30,
+                    "Value": 1
+                },
+                {
+                    "Key": 62,
+                    "Value": 5
+                },
+                {
+                    "Key": 66,
+                    "Value": 2
+                },
+                {
+                    "Key": 67,
+                    "Value": 22
+                },
+                {
+                    "Key": 69,
+                    "Value": 14
+                },
+                {
+                    "Key": 70,
+                    "Value": 15
+                },
+                {
+                    "Key": 71,
+                    "Value": 17
+                },
+                {
+                    "Key": 72,
+                    "Value": 173
+                },
+                {
+                    "Key": 77,
+                    "Value": 3
+                },
+                {
+                    "Key": 79,
+                    "Value": 12
+                },
+                {
+                    "Key": 85,
+                    "Value": 68
+                },
+                {
+                    "Key": 86,
+                    "Value": 18
+                },
+                {
+                    "Key": 87,
+                    "Value": 1
+                },
+                {
+                    "Key": 89,
+                    "Value": 71
+                },
+                {
+                    "Key": 91,
+                    "Value": 134
+                },
+                {
+                    "Key": 92,
+                    "Value": 19
+                },
+                {
+                    "Key": 93,
+                    "Value": 30
+                },
+                {
+                    "Key": 94,
+                    "Value": 8
+                },
+                {
+                    "Key": 95,
+                    "Value": 4
+                },
+                {
+                    "Key": 96,
+                    "Value": 16
+                },
+                {
+                    "Key": 101,
+                    "Value": 29
+                },
+                {
+                    "Key": 102,
+                    "Value": 5
+                },
+                {
+                    "Key": 103,
+                    "Value": 23
+                },
+                {
+                    "Key": 104,
+                    "Value": 5
+                },
+                {
+                    "Key": 117,
+                    "Value": 28
+                },
+                {
+                    "Key": 118,
+                    "Value": 2
+                },
+                {
+                    "Key": 124,
+                    "Value": 2
+                },
+                {
+                    "Key": 126,
+                    "Value": 1
+                },
+                {
+                    "Key": 127,
+                    "Value": 9
+                }
+            ],
+            "total_playtime": "PT7H57M44S"
+        },
+        {
+            "HopperId": 134,
+            "MedalChestCompletionPercentage": 0.2421875,
+            "TotalMedals": 528,
+            "VariantClass": 3,
+            "game_count": 31,
+            "high_score": 29,
+            "season_id": -1,
+            "total_assists": 54,
+            "total_betrayals": 2,
+            "total_deaths": 314,
+            "total_first_place": 18,
+            "total_kills": 379,
+            "total_score": 253,
+            "total_top_half_place": 18,
+            "total_top_third_place": 18,
+            "total_wins": 18,
+            "DeathsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 13
+                },
+                {
+                    "Key": 5,
+                    "Value": 36
+                },
+                {
+                    "Key": 6,
+                    "Value": 7
+                },
+                {
+                    "Key": 7,
+                    "Value": 25
+                },
+                {
+                    "Key": 8,
+                    "Value": 30
+                },
+                {
+                    "Key": 9,
+                    "Value": 1
+                },
+                {
+                    "Key": 11,
+                    "Value": 18
+                },
+                {
+                    "Key": 14,
+                    "Value": 2
+                },
+                {
+                    "Key": 17,
+                    "Value": 3
+                },
+                {
+                    "Key": 20,
+                    "Value": 76
+                },
+                {
+                    "Key": 21,
+                    "Value": 16
+                },
+                {
+                    "Key": 22,
+                    "Value": 1
+                },
+                {
+                    "Key": 23,
+                    "Value": 22
+                },
+                {
+                    "Key": 24,
+                    "Value": 1
+                },
+                {
+                    "Key": 25,
+                    "Value": 2
+                },
+                {
+                    "Key": 27,
+                    "Value": 11
+                },
+                {
+                    "Key": 34,
+                    "Value": 1
+                },
+                {
+                    "Key": 42,
+                    "Value": 2
+                },
+                {
+                    "Key": 43,
+                    "Value": 44
+                },
+                {
+                    "Key": 44,
+                    "Value": 2
+                },
+                {
+                    "Key": 63,
+                    "Value": 1
+                }
+            ],
+            "KillsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 14
+                },
+                {
+                    "Key": 5,
+                    "Value": 38
+                },
+                {
+                    "Key": 6,
+                    "Value": 1
+                },
+                {
+                    "Key": 7,
+                    "Value": 41
+                },
+                {
+                    "Key": 8,
+                    "Value": 21
+                },
+                {
+                    "Key": 9,
+                    "Value": 3
+                },
+                {
+                    "Key": 11,
+                    "Value": 14
+                },
+                {
+                    "Key": 12,
+                    "Value": 1
+                },
+                {
+                    "Key": 14,
+                    "Value": 1
+                },
+                {
+                    "Key": 17,
+                    "Value": 1
+                },
+                {
+                    "Key": 20,
+                    "Value": 128
+                },
+                {
+                    "Key": 21,
+                    "Value": 11
+                },
+                {
+                    "Key": 22,
+                    "Value": 12
+                },
+                {
+                    "Key": 23,
+                    "Value": 36
+                },
+                {
+                    "Key": 34,
+                    "Value": 2
+                },
+                {
+                    "Key": 42,
+                    "Value": 1
+                },
+                {
+                    "Key": 43,
+                    "Value": 52
+                },
+                {
+                    "Key": 47,
+                    "Value": 1
+                },
+                {
+                    "Key": 54,
+                    "Value": 1
+                }
+            ],
+            "MapId": null,
+            "MedalCountsByType": [
+                {
+                    "Key": 2,
+                    "Value": 41
+                },
+                {
+                    "Key": 3,
+                    "Value": 5
+                },
+                {
+                    "Key": 4,
+                    "Value": 1
+                },
+                {
+                    "Key": 11,
+                    "Value": 16
+                },
+                {
+                    "Key": 12,
+                    "Value": 2
+                },
+                {
+                    "Key": 20,
+                    "Value": 1
+                },
+                {
+                    "Key": 23,
+                    "Value": 1
+                },
+                {
+                    "Key": 47,
+                    "Value": 5
+                },
+                {
+                    "Key": 63,
+                    "Value": 1
+                },
+                {
+                    "Key": 66,
+                    "Value": 2
+                },
+                {
+                    "Key": 67,
+                    "Value": 12
+                },
+                {
+                    "Key": 69,
+                    "Value": 2
+                },
+                {
+                    "Key": 70,
+                    "Value": 9
+                },
+                {
+                    "Key": 71,
+                    "Value": 9
+                },
+                {
+                    "Key": 72,
+                    "Value": 182
+                },
+                {
+                    "Key": 75,
+                    "Value": 3
+                },
+                {
+                    "Key": 81,
+                    "Value": 2
+                },
+                {
+                    "Key": 85,
+                    "Value": 12
+                },
+                {
+                    "Key": 86,
+                    "Value": 1
+                },
+                {
+                    "Key": 89,
+                    "Value": 54
+                },
+                {
+                    "Key": 91,
+                    "Value": 36
+                },
+                {
+                    "Key": 92,
+                    "Value": 3
+                },
+                {
+                    "Key": 93,
+                    "Value": 14
+                },
+                {
+                    "Key": 94,
+                    "Value": 9
+                },
+                {
+                    "Key": 96,
+                    "Value": 21
+                },
+                {
+                    "Key": 99,
+                    "Value": 1
+                },
+                {
+                    "Key": 101,
+                    "Value": 38
+                },
+                {
+                    "Key": 102,
+                    "Value": 3
+                },
+                {
+                    "Key": 103,
+                    "Value": 18
+                },
+                {
+                    "Key": 117,
+                    "Value": 22
+                },
+                {
+                    "Key": 126,
+                    "Value": 2
+                }
+            ],
+            "total_playtime": "PT3H16M6S"
+        },
+        {
+            "HopperId": 135,
+            "MedalChestCompletionPercentage": 0.1328125,
+            "TotalMedals": 92,
+            "VariantClass": 3,
+            "game_count": 6,
+            "high_score": 16,
+            "season_id": -1,
+            "total_assists": 17,
+            "total_betrayals": 0,
+            "total_deaths": 79,
+            "total_first_place": 1,
+            "total_kills": 70,
+            "total_score": 70,
+            "total_top_half_place": 1,
+            "total_top_third_place": 1,
+            "total_wins": 1,
+            "DeathsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 1
+                },
+                {
+                    "Key": 5,
+                    "Value": 4
+                },
+                {
+                    "Key": 6,
+                    "Value": 41
+                },
+                {
+                    "Key": 7,
+                    "Value": 4
+                },
+                {
+                    "Key": 8,
+                    "Value": 1
+                },
+                {
+                    "Key": 9,
+                    "Value": 4
+                },
+                {
+                    "Key": 11,
+                    "Value": 5
+                },
+                {
+                    "Key": 14,
+                    "Value": 3
+                },
+                {
+                    "Key": 17,
+                    "Value": 3
+                },
+                {
+                    "Key": 22,
+                    "Value": 1
+                },
+                {
+                    "Key": 23,
+                    "Value": 2
+                },
+                {
+                    "Key": 43,
+                    "Value": 10
+                }
+            ],
+            "KillsByDamageType": [
+                {
+                    "Key": 5,
+                    "Value": 3
+                },
+                {
+                    "Key": 6,
+                    "Value": 25
+                },
+                {
+                    "Key": 7,
+                    "Value": 3
+                },
+                {
+                    "Key": 11,
+                    "Value": 11
+                },
+                {
+                    "Key": 14,
+                    "Value": 3
+                },
+                {
+                    "Key": 16,
+                    "Value": 1
+                },
+                {
+                    "Key": 43,
+                    "Value": 24
+                }
+            ],
+            "MapId": null,
+            "MedalCountsByType": [
+                {
+                    "Key": 2,
+                    "Value": 4
+                },
+                {
+                    "Key": 11,
+                    "Value": 2
+                },
+                {
+                    "Key": 66,
+                    "Value": 1
+                },
+                {
+                    "Key": 67,
+                    "Value": 3
+                },
+                {
+                    "Key": 71,
+                    "Value": 3
+                },
+                {
+                    "Key": 72,
+                    "Value": 20
+                },
+                {
+                    "Key": 85,
+                    "Value": 15
+                },
+                {
+                    "Key": 86,
+                    "Value": 2
+                },
+                {
+                    "Key": 89,
+                    "Value": 17
+                },
+                {
+                    "Key": 91,
+                    "Value": 10
+                },
+                {
+                    "Key": 92,
+                    "Value": 2
+                },
+                {
+                    "Key": 93,
+                    "Value": 2
+                },
+                {
+                    "Key": 94,
+                    "Value": 1
+                },
+                {
+                    "Key": 101,
+                    "Value": 3
+                },
+                {
+                    "Key": 102,
+                    "Value": 1
+                },
+                {
+                    "Key": 104,
+                    "Value": 1
+                },
+                {
+                    "Key": 117,
+                    "Value": 5
+                }
+            ],
+            "total_playtime": "PT40M1S"
+        },
+        {
+            "HopperId": 136,
+            "MedalChestCompletionPercentage": 0.265625,
+            "TotalMedals": 508,
+            "VariantClass": 3,
+            "game_count": 27,
+            "high_score": 33,
+            "season_id": -1,
+            "total_assists": 75,
+            "total_betrayals": 1,
+            "total_deaths": 308,
+            "total_first_place": 16,
+            "total_kills": 416,
+            "total_score": 411,
+            "total_top_half_place": 16,
+            "total_top_third_place": 16,
+            "total_wins": 16,
+            "DeathsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 3
+                },
+                {
+                    "Key": 5,
+                    "Value": 27
+                },
+                {
+                    "Key": 6,
+                    "Value": 114
+                },
+                {
+                    "Key": 7,
+                    "Value": 21
+                },
+                {
+                    "Key": 8,
+                    "Value": 25
+                },
+                {
+                    "Key": 9,
+                    "Value": 14
+                },
+                {
+                    "Key": 11,
+                    "Value": 28
+                },
+                {
+                    "Key": 12,
+                    "Value": 1
+                },
+                {
+                    "Key": 14,
+                    "Value": 2
+                },
+                {
+                    "Key": 17,
+                    "Value": 2
+                },
+                {
+                    "Key": 19,
+                    "Value": 1
+                },
+                {
+                    "Key": 20,
+                    "Value": 4
+                },
+                {
+                    "Key": 21,
+                    "Value": 17
+                },
+                {
+                    "Key": 22,
+                    "Value": 11
+                },
+                {
+                    "Key": 23,
+                    "Value": 3
+                },
+                {
+                    "Key": 41,
+                    "Value": 2
+                },
+                {
+                    "Key": 42,
+                    "Value": 1
+                },
+                {
+                    "Key": 43,
+                    "Value": 31
+                },
+                {
+                    "Key": 63,
+                    "Value": 1
+                }
+            ],
+            "KillsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 2
+                },
+                {
+                    "Key": 5,
+                    "Value": 6
+                },
+                {
+                    "Key": 6,
+                    "Value": 103
+                },
+                {
+                    "Key": 7,
+                    "Value": 78
+                },
+                {
+                    "Key": 8,
+                    "Value": 27
+                },
+                {
+                    "Key": 9,
+                    "Value": 30
+                },
+                {
+                    "Key": 11,
+                    "Value": 35
+                },
+                {
+                    "Key": 12,
+                    "Value": 2
+                },
+                {
+                    "Key": 14,
+                    "Value": 10
+                },
+                {
+                    "Key": 17,
+                    "Value": 1
+                },
+                {
+                    "Key": 20,
+                    "Value": 1
+                },
+                {
+                    "Key": 21,
+                    "Value": 23
+                },
+                {
+                    "Key": 22,
+                    "Value": 8
+                },
+                {
+                    "Key": 23,
+                    "Value": 5
+                },
+                {
+                    "Key": 43,
+                    "Value": 83
+                },
+                {
+                    "Key": 63,
+                    "Value": 2
+                }
+            ],
+            "MapId": null,
+            "MedalCountsByType": [
+                {
+                    "Key": 2,
+                    "Value": 38
+                },
+                {
+                    "Key": 3,
+                    "Value": 5
+                },
+                {
+                    "Key": 11,
+                    "Value": 18
+                },
+                {
+                    "Key": 12,
+                    "Value": 4
+                },
+                {
+                    "Key": 13,
+                    "Value": 2
+                },
+                {
+                    "Key": 20,
+                    "Value": 1
+                },
+                {
+                    "Key": 23,
+                    "Value": 3
+                },
+                {
+                    "Key": 24,
+                    "Value": 2
+                },
+                {
+                    "Key": 29,
+                    "Value": 2
+                },
+                {
+                    "Key": 62,
+                    "Value": 2
+                },
+                {
+                    "Key": 66,
+                    "Value": 1
+                },
+                {
+                    "Key": 67,
+                    "Value": 5
+                },
+                {
+                    "Key": 69,
+                    "Value": 5
+                },
+                {
+                    "Key": 70,
+                    "Value": 15
+                },
+                {
+                    "Key": 71,
+                    "Value": 19
+                },
+                {
+                    "Key": 72,
+                    "Value": 83
+                },
+                {
+                    "Key": 85,
+                    "Value": 62
+                },
+                {
+                    "Key": 86,
+                    "Value": 10
+                },
+                {
+                    "Key": 89,
+                    "Value": 75
+                },
+                {
+                    "Key": 91,
+                    "Value": 36
+                },
+                {
+                    "Key": 92,
+                    "Value": 6
+                },
+                {
+                    "Key": 93,
+                    "Value": 23
+                },
+                {
+                    "Key": 94,
+                    "Value": 3
+                },
+                {
+                    "Key": 95,
+                    "Value": 2
+                },
+                {
+                    "Key": 96,
+                    "Value": 5
+                },
+                {
+                    "Key": 101,
+                    "Value": 22
+                },
+                {
+                    "Key": 102,
+                    "Value": 1
+                },
+                {
+                    "Key": 103,
+                    "Value": 19
+                },
+                {
+                    "Key": 104,
+                    "Value": 2
+                },
+                {
+                    "Key": 117,
+                    "Value": 17
+                },
+                {
+                    "Key": 118,
+                    "Value": 3
+                },
+                {
+                    "Key": 121,
+                    "Value": 7
+                },
+                {
+                    "Key": 126,
+                    "Value": 8
+                },
+                {
+                    "Key": 127,
+                    "Value": 2
+                }
+            ],
+            "total_playtime": "PT3H52M24S"
+        },
+        {
+            "HopperId": 137,
+            "MedalChestCompletionPercentage": 0.140625,
+            "TotalMedals": 107,
+            "VariantClass": 3,
+            "game_count": 7,
+            "high_score": 1,
+            "season_id": -1,
+            "total_assists": 24,
+            "total_betrayals": 1,
+            "total_deaths": 74,
+            "total_first_place": 3,
+            "total_kills": 82,
+            "total_score": 3,
+            "total_top_half_place": 3,
+            "total_top_third_place": 3,
+            "total_wins": 3,
+            "DeathsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 3
+                },
+                {
+                    "Key": 5,
+                    "Value": 10
+                },
+                {
+                    "Key": 6,
+                    "Value": 22
+                },
+                {
+                    "Key": 7,
+                    "Value": 2
+                },
+                {
+                    "Key": 9,
+                    "Value": 1
+                },
+                {
+                    "Key": 11,
+                    "Value": 3
+                },
+                {
+                    "Key": 12,
+                    "Value": 1
+                },
+                {
+                    "Key": 18,
+                    "Value": 1
+                },
+                {
+                    "Key": 21,
+                    "Value": 2
+                },
+                {
+                    "Key": 22,
+                    "Value": 5
+                },
+                {
+                    "Key": 23,
+                    "Value": 1
+                },
+                {
+                    "Key": 33,
+                    "Value": 6
+                },
+                {
+                    "Key": 34,
+                    "Value": 7
+                },
+                {
+                    "Key": 43,
+                    "Value": 8
+                },
+                {
+                    "Key": 54,
+                    "Value": 2
+                }
+            ],
+            "KillsByDamageType": [
+                {
+                    "Key": 4,
+                    "Value": 1
+                },
+                {
+                    "Key": 5,
+                    "Value": 6
+                },
+                {
+                    "Key": 6,
+                    "Value": 22
+                },
+                {
+                    "Key": 9,
+                    "Value": 4
+                },
+                {
+                    "Key": 11,
+                    "Value": 7
+                },
+                {
+                    "Key": 17,
+                    "Value": 3
+                },
+                {
+                    "Key": 21,
+                    "Value": 1
+                },
+                {
+                    "Key": 22,
+                    "Value": 7
+                },
+                {
+                    "Key": 23,
+                    "Value": 2
+                },
+                {
+                    "Key": 34,
+                    "Value": 3
+                },
+                {
+                    "Key": 43,
+                    "Value": 20
+                },
+                {
+                    "Key": 44,
+                    "Value": 4
+                },
+                {
+                    "Key": 54,
+                    "Value": 2
+                }
+            ],
+            "MapId": null,
+            "MedalCountsByType": [
+                {
+                    "Key": 2,
+                    "Value": 7
+                },
+                {
+                    "Key": 11,
+                    "Value": 2
+                },
+                {
+                    "Key": 67,
+                    "Value": 2
+                },
+                {
+                    "Key": 69,
+                    "Value": 1
+                },
+                {
+                    "Key": 71,
+                    "Value": 3
+                },
+                {
+                    "Key": 72,
+                    "Value": 17
+                },
+                {
+                    "Key": 76,
+                    "Value": 3
+                },
+                {
+                    "Key": 81,
+                    "Value": 5
+                },
+                {
+                    "Key": 85,
+                    "Value": 14
+                },
+                {
+                    "Key": 89,
+                    "Value": 24
+                },
+                {
+                    "Key": 91,
+                    "Value": 7
+                },
+                {
+                    "Key": 92,
+                    "Value": 2
+                },
+                {
+                    "Key": 93,
+                    "Value": 7
+                },
+                {
+                    "Key": 94,
+                    "Value": 3
+                },
+                {
+                    "Key": 99,
+                    "Value": 2
+                },
+                {
+                    "Key": 101,
+                    "Value": 5
+                },
+                {
+                    "Key": 117,
+                    "Value": 1
+                },
+                {
+                    "Key": 121,
+                    "Value": 2
+                }
+            ],
+            "total_playtime": "PT1H10M57S"
+        }
+    ]
+}

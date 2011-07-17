@@ -1,1 +1,3179 @@
-{"reason":"Okay","status":0,"GameDetails":{"BaseMapName":"Forge World","CampaignDifficulty":"Easy","CampaignGlobalScore":0,"CampaignMetagameEnabled":false,"GameDuration":325,"GameId":689591721,"GameTimestamp":"\/Date(1310051864000-0700)\/","GameVariantClass":3,"GameVariantHash":2884017618796358126,"GameVariantIconIndex":1,"GameVariantName":"Slayer","HasDetails":true,"IsTeamGame":true,"MapName":"Pinnacle (Forge World)","MapVariantHash":7330330871734990460,"PlayerCount":8,"Players":[{"AiEventAggregates":[],"Assists":4,"AvgDeathDistanceMeters":8.832058,"AvgKillDistanceMeters":34.41523,"Betrayals":0,"DNF":false,"Deaths":2,"DeathsOverTime":[[0,0],[214,1],[267,2],[325,2]],"Headshots":2,"IndividualStandingWithNoRegardForTeams":1,"IsGuest":false,"KilledMostByCount":1,"KilledMostCount":5,"Kills":16,"KillsOverTime":[[0,0],[29,1],[32,2],[66,3],[90,4],[111,5],[113,6],[139,7],[139,8],[146,9],[169,10],[169,11],[171,12],[185,13],[197,14],[235,15],[304,16],[325,16]],"MedalsOverTime":[[0,0],[33,1],[55,2],[66,3],[67,4],[84,5],[90,6],[90,7],[111,8],[113,9],[139,10],[169,11],[169,12],[169,13],[171,14],[171,15],[179,16],[304,17],[325,17]],"MultiMedalCount":5,"OtherMedalCount":4,"PlayerDataIndex":6,"PlayerDetail":{"CampaignProgressCoop":"CompletedLegendary","CampaignProgressSp":"CompletedHeroic","Initialized":true,"IsGuest":false,"LastGameVariantClassPlayed":"Competitive","ReachEmblem":{"background_index":35,"change_colors":[2,0,22,2],"flags":0,"foreground_index":58},"appearance_primary_color":2,"appearance_secondary_color":22,"armor_completion_percentage":0.5163399,"credits_lifetime":1270575,"daily_challenges_completed":191,"first_active":"\/Date(1284500280000-0700)\/","gamertag":"DimSonic","games_total":1096,"last_active":"\/Date(1310237940000-0700)\/","service_tag":"S226","weekly_challenges_completed":6},"PlayerKilledByMost":"AttestedMovie5","PlayerKilledMost":"FracturedHen","PointsOverTime":[[0,0],[325,0]],"Rating":0,"Score":16,"SpecificMedalCounts":[{"Key":126,"Value":1},{"Key":11,"Value":1},{"Key":12,"Value":1},{"Key":2,"Value":4},{"Key":3,"Value":1},{"Key":70,"Value":2},{"Key":93,"Value":2},{"Key":89,"Value":4},{"Key":91,"Value":1},{"Key":95,"Value":1}],"SpreeMedalCount":2,"Standing":0,"StyleMedalCount":7,"Suicides":0,"Team":0,"TeamScore":50,"TotalMedalCount":18,"UniqueMultiMedalCount":2,"UniqueOtherMedalCount":2,"UniqueSpreeMedalCount":2,"UniqueStyleMedalCount":4,"UniqueTotalMedalCount":10,"WeaponCarnageReport":[{"Deaths":0,"Headshots":0,"Kills":5,"Penalties":0,"WeaponId":9},{"Deaths":0,"Headshots":2,"Kills":4,"Penalties":0,"WeaponId":8},{"Deaths":0,"Headshots":0,"Kills":3,"Penalties":0,"WeaponId":5},{"Deaths":0,"Headshots":0,"Kills":3,"Penalties":0,"WeaponId":7},{"Deaths":1,"Headshots":0,"Kills":1,"Penalties":0,"WeaponId":11},{"Deaths":1,"Headshots":0,"Kills":0,"Penalties":0,"WeaponId":43}]},{"AiEventAggregates":[],"Assists":1,"AvgDeathDistanceMeters":1.11092007,"AvgKillDistanceMeters":42.770607,"Betrayals":0,"DNF":false,"Deaths":2,"DeathsOverTime":[[0,0],[110,1],[135,2],[325,2]],"Headshots":2,"IndividualStandingWithNoRegardForTeams":0,"IsGuest":false,"KilledMostByCount":1,"KilledMostCount":7,"Kills":18,"KillsOverTime":[[0,0],[50,1],[56,2],[67,3],[84,4],[91,5],[130,6],[145,7],[154,8],[155,9],[179,10],[230,11],[240,12],[246,13],[260,14],[284,15],[294,16],[300,17],[325,18],[325,18]],"MedalsOverTime":[[0,0],[50,1],[91,2],[130,3],[130,4],[139,5],[154,6],[155,7],[231,8],[260,9],[260,10],[295,11],[295,12],[295,13],[300,14],[325,15],[325,15]],"MultiMedalCount":1,"OtherMedalCount":5,"PlayerDataIndex":3,"PlayerDetail":{"CampaignProgressCoop":"PartialNormal","CampaignProgressSp":"None","Initialized":true,"IsGuest":false,"LastGameVariantClassPlayed":"Competitive","ReachEmblem":{"background_index":51,"change_colors":[0,25,25,15],"flags":1,"foreground_index":13},"appearance_primary_color":0,"appearance_secondary_color":25,"armor_completion_percentage":0.73202616,"credits_lifetime":2984252,"daily_challenges_completed":175,"first_active":"\/Date(1284569520000-0700)\/","gamertag":"cioj","games_total":2089,"last_active":"\/Date(1310348640000-0700)\/","service_tag":"BAIT","weekly_challenges_completed":2},"PlayerKilledByMost":"AttestedMovie5","PlayerKilledMost":"AttestedMovie5","PointsOverTime":[[0,0],[325,0]],"Rating":0,"Score":18,"SpecificMedalCounts":[{"Key":126,"Value":1},{"Key":11,"Value":2},{"Key":12,"Value":1},{"Key":20,"Value":1},{"Key":2,"Value":1},{"Key":69,"Value":1},{"Key":70,"Value":2},{"Key":72,"Value":1},{"Key":93,"Value":1},{"Key":86,"Value":1},{"Key":89,"Value":1},{"Key":91,"Value":1},{"Key":103,"Value":2}],"SpreeMedalCount":4,"Standing":0,"StyleMedalCount":6,"Suicides":0,"Team":0,"TeamScore":50,"TotalMedalCount":16,"UniqueMultiMedalCount":1,"UniqueOtherMedalCount":4,"UniqueSpreeMedalCount":3,"UniqueStyleMedalCount":5,"UniqueTotalMedalCount":13,"WeaponCarnageReport":[{"Deaths":0,"Headshots":2,"Kills":10,"Penalties":0,"WeaponId":8},{"Deaths":0,"Headshots":0,"Kills":2,"Penalties":0,"WeaponId":4},{"Deaths":1,"Headshots":0,"Kills":2,"Penalties":0,"WeaponId":5},{"Deaths":0,"Headshots":0,"Kills":1,"Penalties":0,"WeaponId":11},{"Deaths":0,"Headshots":0,"Kills":1,"Penalties":0,"WeaponId":14},{"Deaths":0,"Headshots":0,"Kills":1,"Penalties":0,"WeaponId":22},{"Deaths":1,"Headshots":0,"Kills":1,"Penalties":0,"WeaponId":43}]},{"AiEventAggregates":[],"Assists":4,"AvgDeathDistanceMeters":8.154742,"AvgKillDistanceMeters":9.254769,"Betrayals":0,"DNF":false,"Deaths":6,"DeathsOverTime":[[0,0],[125,1],[144,2],[162,3],[207,4],[240,5],[316,6],[325,6]],"Headshots":1,"IndividualStandingWithNoRegardForTeams":2,"IsGuest":false,"KilledMostByCount":3,"KilledMostCount":4,"Kills":10,"KillsOverTime":[[0,0],[26,1],[61,2],[162,3],[191,4],[196,5],[233,6],[261,7],[270,8],[282,9],[305,10],[325,10]],"MedalsOverTime":[[0,0],[26,1],[61,2],[74,3],[145,4],[162,5],[185,6],[191,7],[196,8],[198,9],[270,10],[282,11],[282,12],[305,13],[305,14],[325,14]],"MultiMedalCount":0,"OtherMedalCount":5,"PlayerDataIndex":2,"PlayerDetail":{"CampaignProgressCoop":"CompletedNormal","CampaignProgressSp":"CompletedHeroic","Initialized":true,"IsGuest":false,"LastGameVariantClassPlayed":"Invasion","ReachEmblem":{"background_index":40,"change_colors":[23,19,12,11],"flags":0,"foreground_index":48},"appearance_primary_color":23,"appearance_secondary_color":23,"armor_completion_percentage":0.379084975,"credits_lifetime":378344,"daily_challenges_completed":46,"first_active":"\/Date(1284495240000-0700)\/","gamertag":"vikinlore","games_total":449,"last_active":"\/Date(1310362260000-0700)\/","service_tag":"QTPI","weekly_challenges_completed":0},"PlayerKilledByMost":"FracturedHen","PlayerKilledMost":"xxxKIDDFISTOxxx","PointsOverTime":[[0,0],[325,0]],"Rating":0,"Score":10,"SpecificMedalCounts":[{"Key":126,"Value":1},{"Key":71,"Value":1},{"Key":72,"Value":1},{"Key":93,"Value":3},{"Key":85,"Value":1},{"Key":86,"Value":1},{"Key":89,"Value":4},{"Key":92,"Value":1},{"Key":96,"Value":1},{"Key":103,"Value":1}],"SpreeMedalCount":0,"Standing":0,"StyleMedalCount":10,"Suicides":0,"Team":0,"TeamScore":50,"TotalMedalCount":15,"UniqueMultiMedalCount":0,"UniqueOtherMedalCount":3,"UniqueSpreeMedalCount":0,"UniqueStyleMedalCount":7,"UniqueTotalMedalCount":10,"WeaponCarnageReport":[{"Deaths":3,"Headshots":0,"Kills":5,"Penalties":0,"WeaponId":5},{"Deaths":0,"Headshots":1,"Kills":2,"Penalties":0,"WeaponId":4},{"Deaths":2,"Headshots":0,"Kills":2,"Penalties":0,"WeaponId":43},{"Deaths":0,"Headshots":0,"Kills":1,"Penalties":0,"WeaponId":14},{"Deaths":1,"Headshots":0,"Kills":0,"Penalties":0,"WeaponId":7}]},{"AiEventAggregates":[],"Assists":4,"AvgDeathDistanceMeters":3.048783,"AvgKillDistanceMeters":6.246538,"Betrayals":0,"DNF":false,"Deaths":7,"DeathsOverTime":[[0,0],[55,1],[193,2],[214,3],[279,4],[318,5],[325,5]],"Headshots":0,"IndividualStandingWithNoRegardForTeams":3,"IsGuest":false,"KilledMostByCount":3,"KilledMostCount":4,"Kills":8,"KillsOverTime":[[0,0],[55,1],[68,2],[74,3],[87,4],[108,5],[132,6],[211,7],[316,8],[325,8]],"MedalsOverTime":[[0,0],[55,1],[56,2],[91,3],[108,4],[132,5],[132,6],[246,7],[282,8],[325,8]],"MultiMedalCount":0,"OtherMedalCount":3,"PlayerDataIndex":7,"PlayerDetail":{"CampaignProgressCoop":"None","CampaignProgressSp":"None","Initialized":true,"IsGuest":false,"LastGameVariantClassPlayed":"Competitive","ReachEmblem":{"background_index":49,"change_colors":[10,19,12,21],"flags":0,"foreground_index":27},"appearance_primary_color":10,"appearance_secondary_color":22,"armor_completion_percentage":0.26797387,"credits_lifetime":431042,"daily_challenges_completed":9,"first_active":"\/Date(1306087320000-0700)\/","gamertag":"RAGERUNNER69","games_total":289,"last_active":"\/Date(1310347440000-0700)\/","service_tag":"0000","weekly_challenges_completed":0},"PlayerKilledByMost":"FracturedHen","PlayerKilledMost":"xxxKIDDFISTO(1)","PointsOverTime":[[0,0],[325,0]],"Rating":0,"Score":6,"SpecificMedalCounts":[{"Key":126,"Value":1},{"Key":11,"Value":1},{"Key":72,"Value":3},{"Key":89,"Value":4}],"SpreeMedalCount":1,"Standing":0,"StyleMedalCount":5,"Suicides":2,"Team":0,"TeamScore":50,"TotalMedalCount":9,"UniqueMultiMedalCount":0,"UniqueOtherMedalCount":1,"UniqueSpreeMedalCount":1,"UniqueStyleMedalCount":2,"UniqueTotalMedalCount":4,"WeaponCarnageReport":[{"Deaths":1,"Headshots":0,"Kills":4,"Penalties":0,"WeaponId":5},{"Deaths":4,"Headshots":0,"Kills":3,"Penalties":0,"WeaponId":43},{"Deaths":0,"Headshots":0,"Kills":1,"Penalties":0,"WeaponId":11},{"Deaths":2,"Headshots":0,"Kills":0,"Penalties":2,"WeaponId":41}]},{"AiEventAggregates":[],"Assists":1,"AvgDeathDistanceMeters":26.9681511,"AvgKillDistanceMeters":6.033523,"Betrayals":0,"DNF":false,"Deaths":15,"DeathsOverTime":[[0,0],[29,1],[56,2],[68,3],[84,4],[108,5],[139,6],[154,7],[171,8],[196,9],[230,10],[246,11],[270,12],[284,13],[305,14],[325,15],[325,15]],"Headshots":0,"IndividualStandingWithNoRegardForTeams":6,"IsGuest":false,"KilledMostByCount":7,"KilledMostCount":1,"Kills":3,"KillsOverTime":[[0,0],[135,1],[193,2],[214,3],[325,3]],"MedalsOverTime":[[0,0],[55,1],[135,2],[193,3],[193,4],[214,5],[325,5]],"MultiMedalCount":0,"OtherMedalCount":4,"PlayerDataIndex":0,"PlayerDetail":{"CampaignProgressCoop":"None","CampaignProgressSp":"PartialNormal","Initialized":true,"IsGuest":false,"LastGameVariantClassPlayed":"Competitive","ReachEmblem":{"background_index":44,"change_colors":[3,19,12,21],"flags":0,"foreground_index":16},"appearance_primary_color":3,"appearance_secondary_color":0,"armor_completion_percentage":0.09150327,"credits_lifetime":45197,"daily_challenges_completed":0,"first_active":"\/Date(1309997460000-0700)\/","gamertag":"AttestedMovie5","games_total":13,"last_active":"\/Date(1310052420000-0700)\/","service_tag":"F989","weekly_challenges_completed":0},"PlayerKilledByMost":"cioj","PlayerKilledMost":"cioj","PointsOverTime":[[0,0],[325,0]],"Rating":0,"Score":3,"SpecificMedalCounts":[{"Key":72,"Value":2},{"Key":67,"Value":2},{"Key":89,"Value":1}],"SpreeMedalCount":0,"Standing":1,"StyleMedalCount":1,"Suicides":0,"Team":1,"TeamScore":14,"TotalMedalCount":5,"UniqueMultiMedalCount":0,"UniqueOtherMedalCount":2,"UniqueSpreeMedalCount":0,"UniqueStyleMedalCount":1,"UniqueTotalMedalCount":3,"WeaponCarnageReport":[{"Deaths":2,"Headshots":0,"Kills":2,"Penalties":0,"WeaponId":43},{"Deaths":2,"Headshots":0,"Kills":1,"Penalties":0,"WeaponId":11},{"Deaths":1,"Headshots":0,"Kills":0,"Penalties":0,"WeaponId":4},{"Deaths":2,"Headshots":0,"Kills":0,"Penalties":0,"WeaponId":5},{"Deaths":1,"Headshots":0,"Kills":0,"Penalties":0,"WeaponId":7},{"Deaths":5,"Headshots":0,"Kills":0,"Penalties":0,"WeaponId":8},{"Deaths":1,"Headshots":0,"Kills":0,"Penalties":0,"WeaponId":9},{"Deaths":1,"Headshots":0,"Kills":0,"Penalties":0,"WeaponId":14}]},{"AiEventAggregates":[],"Assists":1,"AvgDeathDistanceMeters":42.4576263,"AvgKillDistanceMeters":8.170439,"Betrayals":0,"DNF":false,"Deaths":12,"DeathsOverTime":[[0,0],[50,1],[66,2],[90,3],[113,4],[130,5],[146,6],[169,7],[191,8],[240,9],[260,10],[282,11],[294,12],[325,12]],"Headshots":0,"IndividualStandingWithNoRegardForTeams":4,"IsGuest":false,"KilledMostByCount":5,"KilledMostCount":3,"Kills":7,"KillsOverTime":[[0,0],[110,1],[144,2],[207,3],[214,4],[240,5],[279,6],[318,7],[325,7]],"MedalsOverTime":[[0,0],[110,1],[207,2],[207,3],[214,4],[279,5],[279,6],[316,7],[318,8],[325,8]],"MultiMedalCount":0,"OtherMedalCount":6,"PlayerDataIndex":1,"PlayerDetail":{"CampaignProgressCoop":"None","CampaignProgressSp":"None","Initialized":true,"IsGuest":false,"LastGameVariantClassPlayed":"Competitive","ReachEmblem":{"background_index":13,"change_colors":[6,23,25,18],"flags":0,"foreground_index":25},"appearance_primary_color":6,"appearance_secondary_color":0,"armor_completion_percentage":0,"credits_lifetime":12624,"daily_challenges_completed":0,"first_active":"\/Date(1309997460000-0700)\/","gamertag":"FracturedHen","games_total":9,"last_active":"\/Date(1310052420000-0700)\/","service_tag":"F989","weekly_challenges_completed":0},"PlayerKilledByMost":"cioj","PlayerKilledMost":"vikinlore","PointsOverTime":[[0,0],[325,0]],"Rating":0,"Score":7,"SpecificMedalCounts":[{"Key":72,"Value":2},{"Key":67,"Value":1},{"Key":93,"Value":3},{"Key":89,"Value":1},{"Key":91,"Value":1}],"SpreeMedalCount":0,"Standing":1,"StyleMedalCount":2,"Suicides":0,"Team":1,"TeamScore":14,"TotalMedalCount":8,"UniqueMultiMedalCount":0,"UniqueOtherMedalCount":3,"UniqueSpreeMedalCount":0,"UniqueStyleMedalCount":2,"UniqueTotalMedalCount":5,"WeaponCarnageReport":[{"Deaths":1,"Headshots":0,"Kills":4,"Penalties":0,"WeaponId":5},{"Deaths":1,"Headshots":0,"Kills":2,"Penalties":0,"WeaponId":43},{"Deaths":0,"Headshots":0,"Kills":1,"Penalties":0,"WeaponId":7},{"Deaths":1,"Headshots":0,"Kills":0,"Penalties":0,"WeaponId":4},{"Deaths":5,"Headshots":0,"Kills":0,"Penalties":0,"WeaponId":8},{"Deaths":2,"Headshots":0,"Kills":0,"Penalties":0,"WeaponId":9},{"Deaths":1,"Headshots":0,"Kills":0,"Penalties":0,"WeaponId":14},{"Deaths":1,"Headshots":0,"Kills":0,"Penalties":0,"WeaponId":22}]},{"AiEventAggregates":[],"Assists":0,"AvgDeathDistanceMeters":21.3734722,"AvgKillDistanceMeters":1.42793572,"Betrayals":0,"DNF":false,"Deaths":12,"DeathsOverTime":[[0,0],[26,1],[61,2],[74,3],[91,4],[111,5],[132,6],[145,7],[162,8],[179,9],[197,10],[233,11],[304,12],[325,12]],"Headshots":0,"IndividualStandingWithNoRegardForTeams":5,"IsGuest":false,"KilledMostByCount":4,"KilledMostCount":2,"Kills":4,"KillsOverTime":[[0,0],[55,1],[125,2],[162,3],[267,4],[325,4]],"MedalsOverTime":[[0,0],[55,1],[55,2],[125,3],[162,4],[267,5],[325,5]],"MultiMedalCount":0,"OtherMedalCount":4,"PlayerDataIndex":4,"PlayerDetail":{"CampaignProgressCoop":"None","CampaignProgressSp":"None","Initialized":true,"IsGuest":false,"LastGameVariantClassPlayed":"Arena","ReachEmblem":{"background_index":44,"change_colors":[3,19,12,21],"flags":0,"foreground_index":25},"appearance_primary_color":3,"appearance_secondary_color":0,"armor_completion_percentage":0.124183007,"credits_lifetime":40813,"daily_challenges_completed":0,"first_active":"\/Date(1310008860000-0700)\/","gamertag":"xxxKIDDFISTOxxx","games_total":12,"last_active":"\/Date(1310094240000-0700)\/","service_tag":"0000","weekly_challenges_completed":0},"PlayerKilledByMost":"vikinlore","PlayerKilledMost":"vikinlore","PointsOverTime":[[0,0],[325,0]],"Rating":0,"Score":4,"SpecificMedalCounts":[{"Key":71,"Value":1},{"Key":72,"Value":3},{"Key":101,"Value":1}],"SpreeMedalCount":0,"Standing":1,"StyleMedalCount":1,"Suicides":0,"Team":1,"TeamScore":14,"TotalMedalCount":5,"UniqueMultiMedalCount":0,"UniqueOtherMedalCount":2,"UniqueSpreeMedalCount":0,"UniqueStyleMedalCount":1,"UniqueTotalMedalCount":3,"WeaponCarnageReport":[{"Deaths":2,"Headshots":0,"Kills":4,"Penalties":0,"WeaponId":43},{"Deaths":2,"Headshots":0,"Kills":0,"Penalties":0,"WeaponId":4},{"Deaths":5,"Headshots":0,"Kills":0,"Penalties":0,"WeaponId":5},{"Deaths":1,"Headshots":0,"Kills":0,"Penalties":0,"WeaponId":7},{"Deaths":2,"Headshots":0,"Kills":0,"Penalties":0,"WeaponId":8}]},{"AiEventAggregates":[],"Assists":1,"AvgDeathDistanceMeters":22.50301,"AvgKillDistanceMeters":3.05294132,"Betrayals":0,"DNF":false,"Deaths":14,"DeathsOverTime":[[0,0],[32,1],[55,2],[67,3],[87,4],[139,5],[155,6],[169,7],[185,8],[211,9],[235,10],[261,11],[300,12],[316,13],[325,13]],"Headshots":0,"IndividualStandingWithNoRegardForTeams":7,"IsGuest":true,"KilledMostByCount":5,"KilledMostCount":1,"Kills":1,"KillsOverTime":[[0,0],[316,1],[325,1]],"MedalsOverTime":[[0,0],[110,1],[325,1]],"MultiMedalCount":0,"OtherMedalCount":0,"PlayerDataIndex":5,"PlayerDetail":{"CampaignProgressCoop":"None","CampaignProgressSp":"None","Initialized":true,"IsGuest":true,"LastGameVariantClassPlayed":"Arena","ReachEmblem":{"background_index":13,"change_colors":[6,23,25,18],"flags":0,"foreground_index":25},"appearance_primary_color":6,"appearance_secondary_color":0,"armor_completion_percentage":0,"credits_lifetime":0,"daily_challenges_completed":0,"first_active":"\/Date(1310008860000-0700)\/","gamertag":"xxxKIDDFISTOxxx (G)","games_total":0,"last_active":"\/Date(1310094240000-0700)\/","service_tag":"U393","weekly_challenges_completed":0},"PlayerKilledByMost":"DimSonic","PlayerKilledMost":"vikinlore","PointsOverTime":[[0,0],[325,0]],"Rating":0,"Score":0,"SpecificMedalCounts":[{"Key":89,"Value":1}],"SpreeMedalCount":0,"Standing":1,"StyleMedalCount":1,"Suicides":1,"Team":1,"TeamScore":14,"TotalMedalCount":1,"UniqueMultiMedalCount":0,"UniqueOtherMedalCount":0,"UniqueSpreeMedalCount":0,"UniqueStyleMedalCount":1,"UniqueTotalMedalCount":1,"WeaponCarnageReport":[{"Deaths":6,"Headshots":0,"Kills":1,"Penalties":0,"WeaponId":5},{"Deaths":1,"Headshots":0,"Kills":0,"Penalties":0,"WeaponId":7},{"Deaths":2,"Headshots":0,"Kills":0,"Penalties":0,"WeaponId":8},{"Deaths":2,"Headshots":0,"Kills":0,"Penalties":0,"WeaponId":9},{"Deaths":1,"Headshots":0,"Kills":0,"Penalties":0,"WeaponId":11},{"Deaths":1,"Headshots":0,"Kills":0,"Penalties":1,"WeaponId":41},{"Deaths":1,"Headshots":0,"Kills":0,"Penalties":0,"WeaponId":43}]}],"PlaylistName":"Team Slayer","Teams":[{"DeathsOverTime":[[0,0],[55,1],[110,2],[125,3],[135,4],[144,5],[162,6],[193,7],[207,8],[214,9],[214,10],[240,11],[267,12],[279,13],[316,14],[318,15],[325,17]],"Exists":true,"Index":0,"KillsOverTime":[[0,0],[26,1],[29,2],[32,3],[50,4],[55,5],[56,6],[61,7],[66,8],[67,9],[68,10],[74,11],[84,12],[87,13],[90,14],[91,15],[108,16],[111,17],[113,18],[130,19],[132,20],[139,21],[139,22],[145,23],[146,24],[154,25],[155,26],[162,27],[169,28],[169,29],[171,30],[179,31],[185,32],[191,33],[196,34],[197,35],[211,36],[230,37],[233,38],[235,39],[240,40],[246,41],[260,42],[261,43],[270,44],[282,45],[284,46],[294,47],[300,48],[304,49],[305,50],[316,51],[325,52],[325,52]],"MedalsOverTime":[[0,0],[26,1],[33,2],[50,3],[55,4],[55,5],[56,6],[61,7],[66,8],[67,9],[74,10],[84,11],[90,12],[90,13],[91,14],[91,15],[108,16],[111,17],[113,18],[130,19],[130,20],[132,21],[132,22],[139,23],[139,24],[145,25],[154,26],[155,27],[162,28],[169,29],[169,30],[169,31],[171,32],[171,33],[179,34],[185,35],[191,36],[196,37],[198,38],[231,39],[246,40],[260,41],[260,42],[270,43],[282,44],[282,45],[282,46],[295,47],[295,48],[295,49],[300,50],[304,51],[305,52],[305,53],[325,54],[325,54]],"MetagameScore":50,"Score":50,"Standing":0,"TeamTotalAssists":13,"TeamTotalBetrayals":0,"TeamTotalDeaths":17,"TeamTotalGameVariantCustomStat_1":0,"TeamTotalGameVariantCustomStat_2":0,"TeamTotalGameVariantCustomStat_3":0,"TeamTotalGameVariantCustomStat_4":0,"TeamTotalKills":52,"TeamTotalMedals":54,"TeamTotalSuicides":2},{"DeathsOverTime":[[0,0],[26,1],[29,2],[32,3],[50,4],[55,5],[56,6],[61,7],[66,8],[67,9],[68,10],[74,11],[84,12],[87,13],[90,14],[91,15],[108,16],[111,17],[113,18],[130,19],[132,20],[139,21],[139,22],[145,23],[146,24],[154,25],[155,26],[162,27],[169,28],[169,29],[171,30],[179,31],[185,32],[191,33],[196,34],[197,35],[211,36],[230,37],[233,38],[235,39],[240,40],[246,41],[260,42],[261,43],[270,44],[282,45],[284,46],[294,47],[300,48],[304,49],[305,50],[316,51],[325,52],[325,53]],"Exists":true,"Index":1,"KillsOverTime":[[0,0],[55,1],[110,2],[125,3],[135,4],[144,5],[162,6],[193,7],[207,8],[214,9],[214,10],[240,11],[267,12],[279,13],[316,14],[318,15],[325,15]],"MedalsOverTime":[[0,0],[55,1],[55,2],[55,3],[110,4],[110,5],[125,6],[135,7],[162,8],[193,9],[193,10],[207,11],[207,12],[214,13],[214,14],[267,15],[279,16],[279,17],[316,18],[318,19],[325,19]],"MetagameScore":14,"Score":14,"Standing":1,"TeamTotalAssists":3,"TeamTotalBetrayals":0,"TeamTotalDeaths":53,"TeamTotalGameVariantCustomStat_1":0,"TeamTotalGameVariantCustomStat_2":0,"TeamTotalGameVariantCustomStat_3":0,"TeamTotalGameVariantCustomStat_4":0,"TeamTotalKills":15,"TeamTotalMedals":19,"TeamTotalSuicides":1}]}}
+{
+    "reason": "Okay",
+    "status": 0,
+    "GameDetails": {
+        "BaseMapName": "Forge World",
+        "CampaignDifficulty": "Easy",
+        "CampaignGlobalScore": 0,
+        "CampaignMetagameEnabled": false,
+        "GameDuration": 325,
+        "GameId": 689591721,
+        "GameTimestamp": "/Date(1310051864000-0700)/",
+        "GameVariantClass": 3,
+        "GameVariantHash": 2884017618796358000,
+        "GameVariantIconIndex": 1,
+        "GameVariantName": "Slayer",
+        "HasDetails": true,
+        "IsTeamGame": true,
+        "MapName": "Pinnacle (Forge World)",
+        "MapVariantHash": 7330330871734991000,
+        "PlayerCount": 8,
+        "Players": [
+            {
+                "AiEventAggregates": [],
+                "Assists": 4,
+                "AvgDeathDistanceMeters": 8.832058,
+                "AvgKillDistanceMeters": 34.41523,
+                "Betrayals": 0,
+                "DNF": false,
+                "Deaths": 2,
+                "DeathsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        214,
+                        1
+                    ],
+                    [
+                        267,
+                        2
+                    ],
+                    [
+                        325,
+                        2
+                    ]
+                ],
+                "Headshots": 2,
+                "IndividualStandingWithNoRegardForTeams": 1,
+                "IsGuest": false,
+                "KilledMostByCount": 1,
+                "KilledMostCount": 5,
+                "Kills": 16,
+                "KillsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        29,
+                        1
+                    ],
+                    [
+                        32,
+                        2
+                    ],
+                    [
+                        66,
+                        3
+                    ],
+                    [
+                        90,
+                        4
+                    ],
+                    [
+                        111,
+                        5
+                    ],
+                    [
+                        113,
+                        6
+                    ],
+                    [
+                        139,
+                        7
+                    ],
+                    [
+                        139,
+                        8
+                    ],
+                    [
+                        146,
+                        9
+                    ],
+                    [
+                        169,
+                        10
+                    ],
+                    [
+                        169,
+                        11
+                    ],
+                    [
+                        171,
+                        12
+                    ],
+                    [
+                        185,
+                        13
+                    ],
+                    [
+                        197,
+                        14
+                    ],
+                    [
+                        235,
+                        15
+                    ],
+                    [
+                        304,
+                        16
+                    ],
+                    [
+                        325,
+                        16
+                    ]
+                ],
+                "MedalsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        33,
+                        1
+                    ],
+                    [
+                        55,
+                        2
+                    ],
+                    [
+                        66,
+                        3
+                    ],
+                    [
+                        67,
+                        4
+                    ],
+                    [
+                        84,
+                        5
+                    ],
+                    [
+                        90,
+                        6
+                    ],
+                    [
+                        90,
+                        7
+                    ],
+                    [
+                        111,
+                        8
+                    ],
+                    [
+                        113,
+                        9
+                    ],
+                    [
+                        139,
+                        10
+                    ],
+                    [
+                        169,
+                        11
+                    ],
+                    [
+                        169,
+                        12
+                    ],
+                    [
+                        169,
+                        13
+                    ],
+                    [
+                        171,
+                        14
+                    ],
+                    [
+                        171,
+                        15
+                    ],
+                    [
+                        179,
+                        16
+                    ],
+                    [
+                        304,
+                        17
+                    ],
+                    [
+                        325,
+                        17
+                    ]
+                ],
+                "MultiMedalCount": 5,
+                "OtherMedalCount": 4,
+                "PlayerDataIndex": 6,
+                "PlayerDetail": {
+                    "CampaignProgressCoop": "CompletedLegendary",
+                    "CampaignProgressSp": "CompletedHeroic",
+                    "Initialized": true,
+                    "IsGuest": false,
+                    "LastGameVariantClassPlayed": "Competitive",
+                    "ReachEmblem": {
+                        "background_index": 35,
+                        "change_colors": [
+                            2,
+                            0,
+                            22,
+                            2
+                        ],
+                        "flags": 0,
+                        "foreground_index": 58
+                    },
+                    "appearance_primary_color": 2,
+                    "appearance_secondary_color": 22,
+                    "armor_completion_percentage": 0.5163399,
+                    "credits_lifetime": 1270575,
+                    "daily_challenges_completed": 191,
+                    "first_active": "/Date(1284500280000-0700)/",
+                    "gamertag": "DimSonic",
+                    "games_total": 1096,
+                    "last_active": "/Date(1310237940000-0700)/",
+                    "service_tag": "S226",
+                    "weekly_challenges_completed": 6
+                },
+                "PlayerKilledByMost": "AttestedMovie5",
+                "PlayerKilledMost": "FracturedHen",
+                "PointsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        325,
+                        0
+                    ]
+                ],
+                "Rating": 0,
+                "Score": 16,
+                "SpecificMedalCounts": [
+                    {
+                        "Key": 126,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 11,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 12,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 2,
+                        "Value": 4
+                    },
+                    {
+                        "Key": 3,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 70,
+                        "Value": 2
+                    },
+                    {
+                        "Key": 93,
+                        "Value": 2
+                    },
+                    {
+                        "Key": 89,
+                        "Value": 4
+                    },
+                    {
+                        "Key": 91,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 95,
+                        "Value": 1
+                    }
+                ],
+                "SpreeMedalCount": 2,
+                "Standing": 0,
+                "StyleMedalCount": 7,
+                "Suicides": 0,
+                "Team": 0,
+                "TeamScore": 50,
+                "TotalMedalCount": 18,
+                "UniqueMultiMedalCount": 2,
+                "UniqueOtherMedalCount": 2,
+                "UniqueSpreeMedalCount": 2,
+                "UniqueStyleMedalCount": 4,
+                "UniqueTotalMedalCount": 10,
+                "WeaponCarnageReport": [
+                    {
+                        "Deaths": 0,
+                        "Headshots": 0,
+                        "Kills": 5,
+                        "Penalties": 0,
+                        "WeaponId": 9
+                    },
+                    {
+                        "Deaths": 0,
+                        "Headshots": 2,
+                        "Kills": 4,
+                        "Penalties": 0,
+                        "WeaponId": 8
+                    },
+                    {
+                        "Deaths": 0,
+                        "Headshots": 0,
+                        "Kills": 3,
+                        "Penalties": 0,
+                        "WeaponId": 5
+                    },
+                    {
+                        "Deaths": 0,
+                        "Headshots": 0,
+                        "Kills": 3,
+                        "Penalties": 0,
+                        "WeaponId": 7
+                    },
+                    {
+                        "Deaths": 1,
+                        "Headshots": 0,
+                        "Kills": 1,
+                        "Penalties": 0,
+                        "WeaponId": 11
+                    },
+                    {
+                        "Deaths": 1,
+                        "Headshots": 0,
+                        "Kills": 0,
+                        "Penalties": 0,
+                        "WeaponId": 43
+                    }
+                ]
+            },
+            {
+                "AiEventAggregates": [],
+                "Assists": 1,
+                "AvgDeathDistanceMeters": 1.11092007,
+                "AvgKillDistanceMeters": 42.770607,
+                "Betrayals": 0,
+                "DNF": false,
+                "Deaths": 2,
+                "DeathsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        110,
+                        1
+                    ],
+                    [
+                        135,
+                        2
+                    ],
+                    [
+                        325,
+                        2
+                    ]
+                ],
+                "Headshots": 2,
+                "IndividualStandingWithNoRegardForTeams": 0,
+                "IsGuest": false,
+                "KilledMostByCount": 1,
+                "KilledMostCount": 7,
+                "Kills": 18,
+                "KillsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        50,
+                        1
+                    ],
+                    [
+                        56,
+                        2
+                    ],
+                    [
+                        67,
+                        3
+                    ],
+                    [
+                        84,
+                        4
+                    ],
+                    [
+                        91,
+                        5
+                    ],
+                    [
+                        130,
+                        6
+                    ],
+                    [
+                        145,
+                        7
+                    ],
+                    [
+                        154,
+                        8
+                    ],
+                    [
+                        155,
+                        9
+                    ],
+                    [
+                        179,
+                        10
+                    ],
+                    [
+                        230,
+                        11
+                    ],
+                    [
+                        240,
+                        12
+                    ],
+                    [
+                        246,
+                        13
+                    ],
+                    [
+                        260,
+                        14
+                    ],
+                    [
+                        284,
+                        15
+                    ],
+                    [
+                        294,
+                        16
+                    ],
+                    [
+                        300,
+                        17
+                    ],
+                    [
+                        325,
+                        18
+                    ],
+                    [
+                        325,
+                        18
+                    ]
+                ],
+                "MedalsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        50,
+                        1
+                    ],
+                    [
+                        91,
+                        2
+                    ],
+                    [
+                        130,
+                        3
+                    ],
+                    [
+                        130,
+                        4
+                    ],
+                    [
+                        139,
+                        5
+                    ],
+                    [
+                        154,
+                        6
+                    ],
+                    [
+                        155,
+                        7
+                    ],
+                    [
+                        231,
+                        8
+                    ],
+                    [
+                        260,
+                        9
+                    ],
+                    [
+                        260,
+                        10
+                    ],
+                    [
+                        295,
+                        11
+                    ],
+                    [
+                        295,
+                        12
+                    ],
+                    [
+                        295,
+                        13
+                    ],
+                    [
+                        300,
+                        14
+                    ],
+                    [
+                        325,
+                        15
+                    ],
+                    [
+                        325,
+                        15
+                    ]
+                ],
+                "MultiMedalCount": 1,
+                "OtherMedalCount": 5,
+                "PlayerDataIndex": 3,
+                "PlayerDetail": {
+                    "CampaignProgressCoop": "PartialNormal",
+                    "CampaignProgressSp": "None",
+                    "Initialized": true,
+                    "IsGuest": false,
+                    "LastGameVariantClassPlayed": "Competitive",
+                    "ReachEmblem": {
+                        "background_index": 51,
+                        "change_colors": [
+                            0,
+                            25,
+                            25,
+                            15
+                        ],
+                        "flags": 1,
+                        "foreground_index": 13
+                    },
+                    "appearance_primary_color": 0,
+                    "appearance_secondary_color": 25,
+                    "armor_completion_percentage": 0.73202616,
+                    "credits_lifetime": 2984252,
+                    "daily_challenges_completed": 175,
+                    "first_active": "/Date(1284569520000-0700)/",
+                    "gamertag": "cioj",
+                    "games_total": 2089,
+                    "last_active": "/Date(1310348640000-0700)/",
+                    "service_tag": "BAIT",
+                    "weekly_challenges_completed": 2
+                },
+                "PlayerKilledByMost": "AttestedMovie5",
+                "PlayerKilledMost": "AttestedMovie5",
+                "PointsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        325,
+                        0
+                    ]
+                ],
+                "Rating": 0,
+                "Score": 18,
+                "SpecificMedalCounts": [
+                    {
+                        "Key": 126,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 11,
+                        "Value": 2
+                    },
+                    {
+                        "Key": 12,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 20,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 2,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 69,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 70,
+                        "Value": 2
+                    },
+                    {
+                        "Key": 72,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 93,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 86,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 89,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 91,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 103,
+                        "Value": 2
+                    }
+                ],
+                "SpreeMedalCount": 4,
+                "Standing": 0,
+                "StyleMedalCount": 6,
+                "Suicides": 0,
+                "Team": 0,
+                "TeamScore": 50,
+                "TotalMedalCount": 16,
+                "UniqueMultiMedalCount": 1,
+                "UniqueOtherMedalCount": 4,
+                "UniqueSpreeMedalCount": 3,
+                "UniqueStyleMedalCount": 5,
+                "UniqueTotalMedalCount": 13,
+                "WeaponCarnageReport": [
+                    {
+                        "Deaths": 0,
+                        "Headshots": 2,
+                        "Kills": 10,
+                        "Penalties": 0,
+                        "WeaponId": 8
+                    },
+                    {
+                        "Deaths": 0,
+                        "Headshots": 0,
+                        "Kills": 2,
+                        "Penalties": 0,
+                        "WeaponId": 4
+                    },
+                    {
+                        "Deaths": 1,
+                        "Headshots": 0,
+                        "Kills": 2,
+                        "Penalties": 0,
+                        "WeaponId": 5
+                    },
+                    {
+                        "Deaths": 0,
+                        "Headshots": 0,
+                        "Kills": 1,
+                        "Penalties": 0,
+                        "WeaponId": 11
+                    },
+                    {
+                        "Deaths": 0,
+                        "Headshots": 0,
+                        "Kills": 1,
+                        "Penalties": 0,
+                        "WeaponId": 14
+                    },
+                    {
+                        "Deaths": 0,
+                        "Headshots": 0,
+                        "Kills": 1,
+                        "Penalties": 0,
+                        "WeaponId": 22
+                    },
+                    {
+                        "Deaths": 1,
+                        "Headshots": 0,
+                        "Kills": 1,
+                        "Penalties": 0,
+                        "WeaponId": 43
+                    }
+                ]
+            },
+            {
+                "AiEventAggregates": [],
+                "Assists": 4,
+                "AvgDeathDistanceMeters": 8.154742,
+                "AvgKillDistanceMeters": 9.254769,
+                "Betrayals": 0,
+                "DNF": false,
+                "Deaths": 6,
+                "DeathsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        125,
+                        1
+                    ],
+                    [
+                        144,
+                        2
+                    ],
+                    [
+                        162,
+                        3
+                    ],
+                    [
+                        207,
+                        4
+                    ],
+                    [
+                        240,
+                        5
+                    ],
+                    [
+                        316,
+                        6
+                    ],
+                    [
+                        325,
+                        6
+                    ]
+                ],
+                "Headshots": 1,
+                "IndividualStandingWithNoRegardForTeams": 2,
+                "IsGuest": false,
+                "KilledMostByCount": 3,
+                "KilledMostCount": 4,
+                "Kills": 10,
+                "KillsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        26,
+                        1
+                    ],
+                    [
+                        61,
+                        2
+                    ],
+                    [
+                        162,
+                        3
+                    ],
+                    [
+                        191,
+                        4
+                    ],
+                    [
+                        196,
+                        5
+                    ],
+                    [
+                        233,
+                        6
+                    ],
+                    [
+                        261,
+                        7
+                    ],
+                    [
+                        270,
+                        8
+                    ],
+                    [
+                        282,
+                        9
+                    ],
+                    [
+                        305,
+                        10
+                    ],
+                    [
+                        325,
+                        10
+                    ]
+                ],
+                "MedalsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        26,
+                        1
+                    ],
+                    [
+                        61,
+                        2
+                    ],
+                    [
+                        74,
+                        3
+                    ],
+                    [
+                        145,
+                        4
+                    ],
+                    [
+                        162,
+                        5
+                    ],
+                    [
+                        185,
+                        6
+                    ],
+                    [
+                        191,
+                        7
+                    ],
+                    [
+                        196,
+                        8
+                    ],
+                    [
+                        198,
+                        9
+                    ],
+                    [
+                        270,
+                        10
+                    ],
+                    [
+                        282,
+                        11
+                    ],
+                    [
+                        282,
+                        12
+                    ],
+                    [
+                        305,
+                        13
+                    ],
+                    [
+                        305,
+                        14
+                    ],
+                    [
+                        325,
+                        14
+                    ]
+                ],
+                "MultiMedalCount": 0,
+                "OtherMedalCount": 5,
+                "PlayerDataIndex": 2,
+                "PlayerDetail": {
+                    "CampaignProgressCoop": "CompletedNormal",
+                    "CampaignProgressSp": "CompletedHeroic",
+                    "Initialized": true,
+                    "IsGuest": false,
+                    "LastGameVariantClassPlayed": "Invasion",
+                    "ReachEmblem": {
+                        "background_index": 40,
+                        "change_colors": [
+                            23,
+                            19,
+                            12,
+                            11
+                        ],
+                        "flags": 0,
+                        "foreground_index": 48
+                    },
+                    "appearance_primary_color": 23,
+                    "appearance_secondary_color": 23,
+                    "armor_completion_percentage": 0.379084975,
+                    "credits_lifetime": 378344,
+                    "daily_challenges_completed": 46,
+                    "first_active": "/Date(1284495240000-0700)/",
+                    "gamertag": "vikinlore",
+                    "games_total": 449,
+                    "last_active": "/Date(1310362260000-0700)/",
+                    "service_tag": "QTPI",
+                    "weekly_challenges_completed": 0
+                },
+                "PlayerKilledByMost": "FracturedHen",
+                "PlayerKilledMost": "xxxKIDDFISTOxxx",
+                "PointsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        325,
+                        0
+                    ]
+                ],
+                "Rating": 0,
+                "Score": 10,
+                "SpecificMedalCounts": [
+                    {
+                        "Key": 126,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 71,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 72,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 93,
+                        "Value": 3
+                    },
+                    {
+                        "Key": 85,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 86,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 89,
+                        "Value": 4
+                    },
+                    {
+                        "Key": 92,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 96,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 103,
+                        "Value": 1
+                    }
+                ],
+                "SpreeMedalCount": 0,
+                "Standing": 0,
+                "StyleMedalCount": 10,
+                "Suicides": 0,
+                "Team": 0,
+                "TeamScore": 50,
+                "TotalMedalCount": 15,
+                "UniqueMultiMedalCount": 0,
+                "UniqueOtherMedalCount": 3,
+                "UniqueSpreeMedalCount": 0,
+                "UniqueStyleMedalCount": 7,
+                "UniqueTotalMedalCount": 10,
+                "WeaponCarnageReport": [
+                    {
+                        "Deaths": 3,
+                        "Headshots": 0,
+                        "Kills": 5,
+                        "Penalties": 0,
+                        "WeaponId": 5
+                    },
+                    {
+                        "Deaths": 0,
+                        "Headshots": 1,
+                        "Kills": 2,
+                        "Penalties": 0,
+                        "WeaponId": 4
+                    },
+                    {
+                        "Deaths": 2,
+                        "Headshots": 0,
+                        "Kills": 2,
+                        "Penalties": 0,
+                        "WeaponId": 43
+                    },
+                    {
+                        "Deaths": 0,
+                        "Headshots": 0,
+                        "Kills": 1,
+                        "Penalties": 0,
+                        "WeaponId": 14
+                    },
+                    {
+                        "Deaths": 1,
+                        "Headshots": 0,
+                        "Kills": 0,
+                        "Penalties": 0,
+                        "WeaponId": 7
+                    }
+                ]
+            },
+            {
+                "AiEventAggregates": [],
+                "Assists": 4,
+                "AvgDeathDistanceMeters": 3.048783,
+                "AvgKillDistanceMeters": 6.246538,
+                "Betrayals": 0,
+                "DNF": false,
+                "Deaths": 7,
+                "DeathsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        55,
+                        1
+                    ],
+                    [
+                        193,
+                        2
+                    ],
+                    [
+                        214,
+                        3
+                    ],
+                    [
+                        279,
+                        4
+                    ],
+                    [
+                        318,
+                        5
+                    ],
+                    [
+                        325,
+                        5
+                    ]
+                ],
+                "Headshots": 0,
+                "IndividualStandingWithNoRegardForTeams": 3,
+                "IsGuest": false,
+                "KilledMostByCount": 3,
+                "KilledMostCount": 4,
+                "Kills": 8,
+                "KillsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        55,
+                        1
+                    ],
+                    [
+                        68,
+                        2
+                    ],
+                    [
+                        74,
+                        3
+                    ],
+                    [
+                        87,
+                        4
+                    ],
+                    [
+                        108,
+                        5
+                    ],
+                    [
+                        132,
+                        6
+                    ],
+                    [
+                        211,
+                        7
+                    ],
+                    [
+                        316,
+                        8
+                    ],
+                    [
+                        325,
+                        8
+                    ]
+                ],
+                "MedalsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        55,
+                        1
+                    ],
+                    [
+                        56,
+                        2
+                    ],
+                    [
+                        91,
+                        3
+                    ],
+                    [
+                        108,
+                        4
+                    ],
+                    [
+                        132,
+                        5
+                    ],
+                    [
+                        132,
+                        6
+                    ],
+                    [
+                        246,
+                        7
+                    ],
+                    [
+                        282,
+                        8
+                    ],
+                    [
+                        325,
+                        8
+                    ]
+                ],
+                "MultiMedalCount": 0,
+                "OtherMedalCount": 3,
+                "PlayerDataIndex": 7,
+                "PlayerDetail": {
+                    "CampaignProgressCoop": "None",
+                    "CampaignProgressSp": "None",
+                    "Initialized": true,
+                    "IsGuest": false,
+                    "LastGameVariantClassPlayed": "Competitive",
+                    "ReachEmblem": {
+                        "background_index": 49,
+                        "change_colors": [
+                            10,
+                            19,
+                            12,
+                            21
+                        ],
+                        "flags": 0,
+                        "foreground_index": 27
+                    },
+                    "appearance_primary_color": 10,
+                    "appearance_secondary_color": 22,
+                    "armor_completion_percentage": 0.26797387,
+                    "credits_lifetime": 431042,
+                    "daily_challenges_completed": 9,
+                    "first_active": "/Date(1306087320000-0700)/",
+                    "gamertag": "RAGERUNNER69",
+                    "games_total": 289,
+                    "last_active": "/Date(1310347440000-0700)/",
+                    "service_tag": "0000",
+                    "weekly_challenges_completed": 0
+                },
+                "PlayerKilledByMost": "FracturedHen",
+                "PlayerKilledMost": "xxxKIDDFISTO(1)",
+                "PointsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        325,
+                        0
+                    ]
+                ],
+                "Rating": 0,
+                "Score": 6,
+                "SpecificMedalCounts": [
+                    {
+                        "Key": 126,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 11,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 72,
+                        "Value": 3
+                    },
+                    {
+                        "Key": 89,
+                        "Value": 4
+                    }
+                ],
+                "SpreeMedalCount": 1,
+                "Standing": 0,
+                "StyleMedalCount": 5,
+                "Suicides": 2,
+                "Team": 0,
+                "TeamScore": 50,
+                "TotalMedalCount": 9,
+                "UniqueMultiMedalCount": 0,
+                "UniqueOtherMedalCount": 1,
+                "UniqueSpreeMedalCount": 1,
+                "UniqueStyleMedalCount": 2,
+                "UniqueTotalMedalCount": 4,
+                "WeaponCarnageReport": [
+                    {
+                        "Deaths": 1,
+                        "Headshots": 0,
+                        "Kills": 4,
+                        "Penalties": 0,
+                        "WeaponId": 5
+                    },
+                    {
+                        "Deaths": 4,
+                        "Headshots": 0,
+                        "Kills": 3,
+                        "Penalties": 0,
+                        "WeaponId": 43
+                    },
+                    {
+                        "Deaths": 0,
+                        "Headshots": 0,
+                        "Kills": 1,
+                        "Penalties": 0,
+                        "WeaponId": 11
+                    },
+                    {
+                        "Deaths": 2,
+                        "Headshots": 0,
+                        "Kills": 0,
+                        "Penalties": 2,
+                        "WeaponId": 41
+                    }
+                ]
+            },
+            {
+                "AiEventAggregates": [],
+                "Assists": 1,
+                "AvgDeathDistanceMeters": 26.9681511,
+                "AvgKillDistanceMeters": 6.033523,
+                "Betrayals": 0,
+                "DNF": false,
+                "Deaths": 15,
+                "DeathsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        29,
+                        1
+                    ],
+                    [
+                        56,
+                        2
+                    ],
+                    [
+                        68,
+                        3
+                    ],
+                    [
+                        84,
+                        4
+                    ],
+                    [
+                        108,
+                        5
+                    ],
+                    [
+                        139,
+                        6
+                    ],
+                    [
+                        154,
+                        7
+                    ],
+                    [
+                        171,
+                        8
+                    ],
+                    [
+                        196,
+                        9
+                    ],
+                    [
+                        230,
+                        10
+                    ],
+                    [
+                        246,
+                        11
+                    ],
+                    [
+                        270,
+                        12
+                    ],
+                    [
+                        284,
+                        13
+                    ],
+                    [
+                        305,
+                        14
+                    ],
+                    [
+                        325,
+                        15
+                    ],
+                    [
+                        325,
+                        15
+                    ]
+                ],
+                "Headshots": 0,
+                "IndividualStandingWithNoRegardForTeams": 6,
+                "IsGuest": false,
+                "KilledMostByCount": 7,
+                "KilledMostCount": 1,
+                "Kills": 3,
+                "KillsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        135,
+                        1
+                    ],
+                    [
+                        193,
+                        2
+                    ],
+                    [
+                        214,
+                        3
+                    ],
+                    [
+                        325,
+                        3
+                    ]
+                ],
+                "MedalsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        55,
+                        1
+                    ],
+                    [
+                        135,
+                        2
+                    ],
+                    [
+                        193,
+                        3
+                    ],
+                    [
+                        193,
+                        4
+                    ],
+                    [
+                        214,
+                        5
+                    ],
+                    [
+                        325,
+                        5
+                    ]
+                ],
+                "MultiMedalCount": 0,
+                "OtherMedalCount": 4,
+                "PlayerDataIndex": 0,
+                "PlayerDetail": {
+                    "CampaignProgressCoop": "None",
+                    "CampaignProgressSp": "PartialNormal",
+                    "Initialized": true,
+                    "IsGuest": false,
+                    "LastGameVariantClassPlayed": "Competitive",
+                    "ReachEmblem": {
+                        "background_index": 44,
+                        "change_colors": [
+                            3,
+                            19,
+                            12,
+                            21
+                        ],
+                        "flags": 0,
+                        "foreground_index": 16
+                    },
+                    "appearance_primary_color": 3,
+                    "appearance_secondary_color": 0,
+                    "armor_completion_percentage": 0.09150327,
+                    "credits_lifetime": 45197,
+                    "daily_challenges_completed": 0,
+                    "first_active": "/Date(1309997460000-0700)/",
+                    "gamertag": "AttestedMovie5",
+                    "games_total": 13,
+                    "last_active": "/Date(1310052420000-0700)/",
+                    "service_tag": "F989",
+                    "weekly_challenges_completed": 0
+                },
+                "PlayerKilledByMost": "cioj",
+                "PlayerKilledMost": "cioj",
+                "PointsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        325,
+                        0
+                    ]
+                ],
+                "Rating": 0,
+                "Score": 3,
+                "SpecificMedalCounts": [
+                    {
+                        "Key": 72,
+                        "Value": 2
+                    },
+                    {
+                        "Key": 67,
+                        "Value": 2
+                    },
+                    {
+                        "Key": 89,
+                        "Value": 1
+                    }
+                ],
+                "SpreeMedalCount": 0,
+                "Standing": 1,
+                "StyleMedalCount": 1,
+                "Suicides": 0,
+                "Team": 1,
+                "TeamScore": 14,
+                "TotalMedalCount": 5,
+                "UniqueMultiMedalCount": 0,
+                "UniqueOtherMedalCount": 2,
+                "UniqueSpreeMedalCount": 0,
+                "UniqueStyleMedalCount": 1,
+                "UniqueTotalMedalCount": 3,
+                "WeaponCarnageReport": [
+                    {
+                        "Deaths": 2,
+                        "Headshots": 0,
+                        "Kills": 2,
+                        "Penalties": 0,
+                        "WeaponId": 43
+                    },
+                    {
+                        "Deaths": 2,
+                        "Headshots": 0,
+                        "Kills": 1,
+                        "Penalties": 0,
+                        "WeaponId": 11
+                    },
+                    {
+                        "Deaths": 1,
+                        "Headshots": 0,
+                        "Kills": 0,
+                        "Penalties": 0,
+                        "WeaponId": 4
+                    },
+                    {
+                        "Deaths": 2,
+                        "Headshots": 0,
+                        "Kills": 0,
+                        "Penalties": 0,
+                        "WeaponId": 5
+                    },
+                    {
+                        "Deaths": 1,
+                        "Headshots": 0,
+                        "Kills": 0,
+                        "Penalties": 0,
+                        "WeaponId": 7
+                    },
+                    {
+                        "Deaths": 5,
+                        "Headshots": 0,
+                        "Kills": 0,
+                        "Penalties": 0,
+                        "WeaponId": 8
+                    },
+                    {
+                        "Deaths": 1,
+                        "Headshots": 0,
+                        "Kills": 0,
+                        "Penalties": 0,
+                        "WeaponId": 9
+                    },
+                    {
+                        "Deaths": 1,
+                        "Headshots": 0,
+                        "Kills": 0,
+                        "Penalties": 0,
+                        "WeaponId": 14
+                    }
+                ]
+            },
+            {
+                "AiEventAggregates": [],
+                "Assists": 1,
+                "AvgDeathDistanceMeters": 42.4576263,
+                "AvgKillDistanceMeters": 8.170439,
+                "Betrayals": 0,
+                "DNF": false,
+                "Deaths": 12,
+                "DeathsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        50,
+                        1
+                    ],
+                    [
+                        66,
+                        2
+                    ],
+                    [
+                        90,
+                        3
+                    ],
+                    [
+                        113,
+                        4
+                    ],
+                    [
+                        130,
+                        5
+                    ],
+                    [
+                        146,
+                        6
+                    ],
+                    [
+                        169,
+                        7
+                    ],
+                    [
+                        191,
+                        8
+                    ],
+                    [
+                        240,
+                        9
+                    ],
+                    [
+                        260,
+                        10
+                    ],
+                    [
+                        282,
+                        11
+                    ],
+                    [
+                        294,
+                        12
+                    ],
+                    [
+                        325,
+                        12
+                    ]
+                ],
+                "Headshots": 0,
+                "IndividualStandingWithNoRegardForTeams": 4,
+                "IsGuest": false,
+                "KilledMostByCount": 5,
+                "KilledMostCount": 3,
+                "Kills": 7,
+                "KillsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        110,
+                        1
+                    ],
+                    [
+                        144,
+                        2
+                    ],
+                    [
+                        207,
+                        3
+                    ],
+                    [
+                        214,
+                        4
+                    ],
+                    [
+                        240,
+                        5
+                    ],
+                    [
+                        279,
+                        6
+                    ],
+                    [
+                        318,
+                        7
+                    ],
+                    [
+                        325,
+                        7
+                    ]
+                ],
+                "MedalsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        110,
+                        1
+                    ],
+                    [
+                        207,
+                        2
+                    ],
+                    [
+                        207,
+                        3
+                    ],
+                    [
+                        214,
+                        4
+                    ],
+                    [
+                        279,
+                        5
+                    ],
+                    [
+                        279,
+                        6
+                    ],
+                    [
+                        316,
+                        7
+                    ],
+                    [
+                        318,
+                        8
+                    ],
+                    [
+                        325,
+                        8
+                    ]
+                ],
+                "MultiMedalCount": 0,
+                "OtherMedalCount": 6,
+                "PlayerDataIndex": 1,
+                "PlayerDetail": {
+                    "CampaignProgressCoop": "None",
+                    "CampaignProgressSp": "None",
+                    "Initialized": true,
+                    "IsGuest": false,
+                    "LastGameVariantClassPlayed": "Competitive",
+                    "ReachEmblem": {
+                        "background_index": 13,
+                        "change_colors": [
+                            6,
+                            23,
+                            25,
+                            18
+                        ],
+                        "flags": 0,
+                        "foreground_index": 25
+                    },
+                    "appearance_primary_color": 6,
+                    "appearance_secondary_color": 0,
+                    "armor_completion_percentage": 0,
+                    "credits_lifetime": 12624,
+                    "daily_challenges_completed": 0,
+                    "first_active": "/Date(1309997460000-0700)/",
+                    "gamertag": "FracturedHen",
+                    "games_total": 9,
+                    "last_active": "/Date(1310052420000-0700)/",
+                    "service_tag": "F989",
+                    "weekly_challenges_completed": 0
+                },
+                "PlayerKilledByMost": "cioj",
+                "PlayerKilledMost": "vikinlore",
+                "PointsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        325,
+                        0
+                    ]
+                ],
+                "Rating": 0,
+                "Score": 7,
+                "SpecificMedalCounts": [
+                    {
+                        "Key": 72,
+                        "Value": 2
+                    },
+                    {
+                        "Key": 67,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 93,
+                        "Value": 3
+                    },
+                    {
+                        "Key": 89,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 91,
+                        "Value": 1
+                    }
+                ],
+                "SpreeMedalCount": 0,
+                "Standing": 1,
+                "StyleMedalCount": 2,
+                "Suicides": 0,
+                "Team": 1,
+                "TeamScore": 14,
+                "TotalMedalCount": 8,
+                "UniqueMultiMedalCount": 0,
+                "UniqueOtherMedalCount": 3,
+                "UniqueSpreeMedalCount": 0,
+                "UniqueStyleMedalCount": 2,
+                "UniqueTotalMedalCount": 5,
+                "WeaponCarnageReport": [
+                    {
+                        "Deaths": 1,
+                        "Headshots": 0,
+                        "Kills": 4,
+                        "Penalties": 0,
+                        "WeaponId": 5
+                    },
+                    {
+                        "Deaths": 1,
+                        "Headshots": 0,
+                        "Kills": 2,
+                        "Penalties": 0,
+                        "WeaponId": 43
+                    },
+                    {
+                        "Deaths": 0,
+                        "Headshots": 0,
+                        "Kills": 1,
+                        "Penalties": 0,
+                        "WeaponId": 7
+                    },
+                    {
+                        "Deaths": 1,
+                        "Headshots": 0,
+                        "Kills": 0,
+                        "Penalties": 0,
+                        "WeaponId": 4
+                    },
+                    {
+                        "Deaths": 5,
+                        "Headshots": 0,
+                        "Kills": 0,
+                        "Penalties": 0,
+                        "WeaponId": 8
+                    },
+                    {
+                        "Deaths": 2,
+                        "Headshots": 0,
+                        "Kills": 0,
+                        "Penalties": 0,
+                        "WeaponId": 9
+                    },
+                    {
+                        "Deaths": 1,
+                        "Headshots": 0,
+                        "Kills": 0,
+                        "Penalties": 0,
+                        "WeaponId": 14
+                    },
+                    {
+                        "Deaths": 1,
+                        "Headshots": 0,
+                        "Kills": 0,
+                        "Penalties": 0,
+                        "WeaponId": 22
+                    }
+                ]
+            },
+            {
+                "AiEventAggregates": [],
+                "Assists": 0,
+                "AvgDeathDistanceMeters": 21.3734722,
+                "AvgKillDistanceMeters": 1.42793572,
+                "Betrayals": 0,
+                "DNF": false,
+                "Deaths": 12,
+                "DeathsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        26,
+                        1
+                    ],
+                    [
+                        61,
+                        2
+                    ],
+                    [
+                        74,
+                        3
+                    ],
+                    [
+                        91,
+                        4
+                    ],
+                    [
+                        111,
+                        5
+                    ],
+                    [
+                        132,
+                        6
+                    ],
+                    [
+                        145,
+                        7
+                    ],
+                    [
+                        162,
+                        8
+                    ],
+                    [
+                        179,
+                        9
+                    ],
+                    [
+                        197,
+                        10
+                    ],
+                    [
+                        233,
+                        11
+                    ],
+                    [
+                        304,
+                        12
+                    ],
+                    [
+                        325,
+                        12
+                    ]
+                ],
+                "Headshots": 0,
+                "IndividualStandingWithNoRegardForTeams": 5,
+                "IsGuest": false,
+                "KilledMostByCount": 4,
+                "KilledMostCount": 2,
+                "Kills": 4,
+                "KillsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        55,
+                        1
+                    ],
+                    [
+                        125,
+                        2
+                    ],
+                    [
+                        162,
+                        3
+                    ],
+                    [
+                        267,
+                        4
+                    ],
+                    [
+                        325,
+                        4
+                    ]
+                ],
+                "MedalsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        55,
+                        1
+                    ],
+                    [
+                        55,
+                        2
+                    ],
+                    [
+                        125,
+                        3
+                    ],
+                    [
+                        162,
+                        4
+                    ],
+                    [
+                        267,
+                        5
+                    ],
+                    [
+                        325,
+                        5
+                    ]
+                ],
+                "MultiMedalCount": 0,
+                "OtherMedalCount": 4,
+                "PlayerDataIndex": 4,
+                "PlayerDetail": {
+                    "CampaignProgressCoop": "None",
+                    "CampaignProgressSp": "None",
+                    "Initialized": true,
+                    "IsGuest": false,
+                    "LastGameVariantClassPlayed": "Arena",
+                    "ReachEmblem": {
+                        "background_index": 44,
+                        "change_colors": [
+                            3,
+                            19,
+                            12,
+                            21
+                        ],
+                        "flags": 0,
+                        "foreground_index": 25
+                    },
+                    "appearance_primary_color": 3,
+                    "appearance_secondary_color": 0,
+                    "armor_completion_percentage": 0.124183007,
+                    "credits_lifetime": 40813,
+                    "daily_challenges_completed": 0,
+                    "first_active": "/Date(1310008860000-0700)/",
+                    "gamertag": "xxxKIDDFISTOxxx",
+                    "games_total": 12,
+                    "last_active": "/Date(1310094240000-0700)/",
+                    "service_tag": "0000",
+                    "weekly_challenges_completed": 0
+                },
+                "PlayerKilledByMost": "vikinlore",
+                "PlayerKilledMost": "vikinlore",
+                "PointsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        325,
+                        0
+                    ]
+                ],
+                "Rating": 0,
+                "Score": 4,
+                "SpecificMedalCounts": [
+                    {
+                        "Key": 71,
+                        "Value": 1
+                    },
+                    {
+                        "Key": 72,
+                        "Value": 3
+                    },
+                    {
+                        "Key": 101,
+                        "Value": 1
+                    }
+                ],
+                "SpreeMedalCount": 0,
+                "Standing": 1,
+                "StyleMedalCount": 1,
+                "Suicides": 0,
+                "Team": 1,
+                "TeamScore": 14,
+                "TotalMedalCount": 5,
+                "UniqueMultiMedalCount": 0,
+                "UniqueOtherMedalCount": 2,
+                "UniqueSpreeMedalCount": 0,
+                "UniqueStyleMedalCount": 1,
+                "UniqueTotalMedalCount": 3,
+                "WeaponCarnageReport": [
+                    {
+                        "Deaths": 2,
+                        "Headshots": 0,
+                        "Kills": 4,
+                        "Penalties": 0,
+                        "WeaponId": 43
+                    },
+                    {
+                        "Deaths": 2,
+                        "Headshots": 0,
+                        "Kills": 0,
+                        "Penalties": 0,
+                        "WeaponId": 4
+                    },
+                    {
+                        "Deaths": 5,
+                        "Headshots": 0,
+                        "Kills": 0,
+                        "Penalties": 0,
+                        "WeaponId": 5
+                    },
+                    {
+                        "Deaths": 1,
+                        "Headshots": 0,
+                        "Kills": 0,
+                        "Penalties": 0,
+                        "WeaponId": 7
+                    },
+                    {
+                        "Deaths": 2,
+                        "Headshots": 0,
+                        "Kills": 0,
+                        "Penalties": 0,
+                        "WeaponId": 8
+                    }
+                ]
+            },
+            {
+                "AiEventAggregates": [],
+                "Assists": 1,
+                "AvgDeathDistanceMeters": 22.50301,
+                "AvgKillDistanceMeters": 3.05294132,
+                "Betrayals": 0,
+                "DNF": false,
+                "Deaths": 14,
+                "DeathsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        32,
+                        1
+                    ],
+                    [
+                        55,
+                        2
+                    ],
+                    [
+                        67,
+                        3
+                    ],
+                    [
+                        87,
+                        4
+                    ],
+                    [
+                        139,
+                        5
+                    ],
+                    [
+                        155,
+                        6
+                    ],
+                    [
+                        169,
+                        7
+                    ],
+                    [
+                        185,
+                        8
+                    ],
+                    [
+                        211,
+                        9
+                    ],
+                    [
+                        235,
+                        10
+                    ],
+                    [
+                        261,
+                        11
+                    ],
+                    [
+                        300,
+                        12
+                    ],
+                    [
+                        316,
+                        13
+                    ],
+                    [
+                        325,
+                        13
+                    ]
+                ],
+                "Headshots": 0,
+                "IndividualStandingWithNoRegardForTeams": 7,
+                "IsGuest": true,
+                "KilledMostByCount": 5,
+                "KilledMostCount": 1,
+                "Kills": 1,
+                "KillsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        316,
+                        1
+                    ],
+                    [
+                        325,
+                        1
+                    ]
+                ],
+                "MedalsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        110,
+                        1
+                    ],
+                    [
+                        325,
+                        1
+                    ]
+                ],
+                "MultiMedalCount": 0,
+                "OtherMedalCount": 0,
+                "PlayerDataIndex": 5,
+                "PlayerDetail": {
+                    "CampaignProgressCoop": "None",
+                    "CampaignProgressSp": "None",
+                    "Initialized": true,
+                    "IsGuest": true,
+                    "LastGameVariantClassPlayed": "Arena",
+                    "ReachEmblem": {
+                        "background_index": 13,
+                        "change_colors": [
+                            6,
+                            23,
+                            25,
+                            18
+                        ],
+                        "flags": 0,
+                        "foreground_index": 25
+                    },
+                    "appearance_primary_color": 6,
+                    "appearance_secondary_color": 0,
+                    "armor_completion_percentage": 0,
+                    "credits_lifetime": 0,
+                    "daily_challenges_completed": 0,
+                    "first_active": "/Date(1310008860000-0700)/",
+                    "gamertag": "xxxKIDDFISTOxxx (G)",
+                    "games_total": 0,
+                    "last_active": "/Date(1310094240000-0700)/",
+                    "service_tag": "U393",
+                    "weekly_challenges_completed": 0
+                },
+                "PlayerKilledByMost": "DimSonic",
+                "PlayerKilledMost": "vikinlore",
+                "PointsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        325,
+                        0
+                    ]
+                ],
+                "Rating": 0,
+                "Score": 0,
+                "SpecificMedalCounts": [
+                    {
+                        "Key": 89,
+                        "Value": 1
+                    }
+                ],
+                "SpreeMedalCount": 0,
+                "Standing": 1,
+                "StyleMedalCount": 1,
+                "Suicides": 1,
+                "Team": 1,
+                "TeamScore": 14,
+                "TotalMedalCount": 1,
+                "UniqueMultiMedalCount": 0,
+                "UniqueOtherMedalCount": 0,
+                "UniqueSpreeMedalCount": 0,
+                "UniqueStyleMedalCount": 1,
+                "UniqueTotalMedalCount": 1,
+                "WeaponCarnageReport": [
+                    {
+                        "Deaths": 6,
+                        "Headshots": 0,
+                        "Kills": 1,
+                        "Penalties": 0,
+                        "WeaponId": 5
+                    },
+                    {
+                        "Deaths": 1,
+                        "Headshots": 0,
+                        "Kills": 0,
+                        "Penalties": 0,
+                        "WeaponId": 7
+                    },
+                    {
+                        "Deaths": 2,
+                        "Headshots": 0,
+                        "Kills": 0,
+                        "Penalties": 0,
+                        "WeaponId": 8
+                    },
+                    {
+                        "Deaths": 2,
+                        "Headshots": 0,
+                        "Kills": 0,
+                        "Penalties": 0,
+                        "WeaponId": 9
+                    },
+                    {
+                        "Deaths": 1,
+                        "Headshots": 0,
+                        "Kills": 0,
+                        "Penalties": 0,
+                        "WeaponId": 11
+                    },
+                    {
+                        "Deaths": 1,
+                        "Headshots": 0,
+                        "Kills": 0,
+                        "Penalties": 1,
+                        "WeaponId": 41
+                    },
+                    {
+                        "Deaths": 1,
+                        "Headshots": 0,
+                        "Kills": 0,
+                        "Penalties": 0,
+                        "WeaponId": 43
+                    }
+                ]
+            }
+        ],
+        "PlaylistName": "Team Slayer",
+        "Teams": [
+            {
+                "DeathsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        55,
+                        1
+                    ],
+                    [
+                        110,
+                        2
+                    ],
+                    [
+                        125,
+                        3
+                    ],
+                    [
+                        135,
+                        4
+                    ],
+                    [
+                        144,
+                        5
+                    ],
+                    [
+                        162,
+                        6
+                    ],
+                    [
+                        193,
+                        7
+                    ],
+                    [
+                        207,
+                        8
+                    ],
+                    [
+                        214,
+                        9
+                    ],
+                    [
+                        214,
+                        10
+                    ],
+                    [
+                        240,
+                        11
+                    ],
+                    [
+                        267,
+                        12
+                    ],
+                    [
+                        279,
+                        13
+                    ],
+                    [
+                        316,
+                        14
+                    ],
+                    [
+                        318,
+                        15
+                    ],
+                    [
+                        325,
+                        17
+                    ]
+                ],
+                "Exists": true,
+                "Index": 0,
+                "KillsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        26,
+                        1
+                    ],
+                    [
+                        29,
+                        2
+                    ],
+                    [
+                        32,
+                        3
+                    ],
+                    [
+                        50,
+                        4
+                    ],
+                    [
+                        55,
+                        5
+                    ],
+                    [
+                        56,
+                        6
+                    ],
+                    [
+                        61,
+                        7
+                    ],
+                    [
+                        66,
+                        8
+                    ],
+                    [
+                        67,
+                        9
+                    ],
+                    [
+                        68,
+                        10
+                    ],
+                    [
+                        74,
+                        11
+                    ],
+                    [
+                        84,
+                        12
+                    ],
+                    [
+                        87,
+                        13
+                    ],
+                    [
+                        90,
+                        14
+                    ],
+                    [
+                        91,
+                        15
+                    ],
+                    [
+                        108,
+                        16
+                    ],
+                    [
+                        111,
+                        17
+                    ],
+                    [
+                        113,
+                        18
+                    ],
+                    [
+                        130,
+                        19
+                    ],
+                    [
+                        132,
+                        20
+                    ],
+                    [
+                        139,
+                        21
+                    ],
+                    [
+                        139,
+                        22
+                    ],
+                    [
+                        145,
+                        23
+                    ],
+                    [
+                        146,
+                        24
+                    ],
+                    [
+                        154,
+                        25
+                    ],
+                    [
+                        155,
+                        26
+                    ],
+                    [
+                        162,
+                        27
+                    ],
+                    [
+                        169,
+                        28
+                    ],
+                    [
+                        169,
+                        29
+                    ],
+                    [
+                        171,
+                        30
+                    ],
+                    [
+                        179,
+                        31
+                    ],
+                    [
+                        185,
+                        32
+                    ],
+                    [
+                        191,
+                        33
+                    ],
+                    [
+                        196,
+                        34
+                    ],
+                    [
+                        197,
+                        35
+                    ],
+                    [
+                        211,
+                        36
+                    ],
+                    [
+                        230,
+                        37
+                    ],
+                    [
+                        233,
+                        38
+                    ],
+                    [
+                        235,
+                        39
+                    ],
+                    [
+                        240,
+                        40
+                    ],
+                    [
+                        246,
+                        41
+                    ],
+                    [
+                        260,
+                        42
+                    ],
+                    [
+                        261,
+                        43
+                    ],
+                    [
+                        270,
+                        44
+                    ],
+                    [
+                        282,
+                        45
+                    ],
+                    [
+                        284,
+                        46
+                    ],
+                    [
+                        294,
+                        47
+                    ],
+                    [
+                        300,
+                        48
+                    ],
+                    [
+                        304,
+                        49
+                    ],
+                    [
+                        305,
+                        50
+                    ],
+                    [
+                        316,
+                        51
+                    ],
+                    [
+                        325,
+                        52
+                    ],
+                    [
+                        325,
+                        52
+                    ]
+                ],
+                "MedalsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        26,
+                        1
+                    ],
+                    [
+                        33,
+                        2
+                    ],
+                    [
+                        50,
+                        3
+                    ],
+                    [
+                        55,
+                        4
+                    ],
+                    [
+                        55,
+                        5
+                    ],
+                    [
+                        56,
+                        6
+                    ],
+                    [
+                        61,
+                        7
+                    ],
+                    [
+                        66,
+                        8
+                    ],
+                    [
+                        67,
+                        9
+                    ],
+                    [
+                        74,
+                        10
+                    ],
+                    [
+                        84,
+                        11
+                    ],
+                    [
+                        90,
+                        12
+                    ],
+                    [
+                        90,
+                        13
+                    ],
+                    [
+                        91,
+                        14
+                    ],
+                    [
+                        91,
+                        15
+                    ],
+                    [
+                        108,
+                        16
+                    ],
+                    [
+                        111,
+                        17
+                    ],
+                    [
+                        113,
+                        18
+                    ],
+                    [
+                        130,
+                        19
+                    ],
+                    [
+                        130,
+                        20
+                    ],
+                    [
+                        132,
+                        21
+                    ],
+                    [
+                        132,
+                        22
+                    ],
+                    [
+                        139,
+                        23
+                    ],
+                    [
+                        139,
+                        24
+                    ],
+                    [
+                        145,
+                        25
+                    ],
+                    [
+                        154,
+                        26
+                    ],
+                    [
+                        155,
+                        27
+                    ],
+                    [
+                        162,
+                        28
+                    ],
+                    [
+                        169,
+                        29
+                    ],
+                    [
+                        169,
+                        30
+                    ],
+                    [
+                        169,
+                        31
+                    ],
+                    [
+                        171,
+                        32
+                    ],
+                    [
+                        171,
+                        33
+                    ],
+                    [
+                        179,
+                        34
+                    ],
+                    [
+                        185,
+                        35
+                    ],
+                    [
+                        191,
+                        36
+                    ],
+                    [
+                        196,
+                        37
+                    ],
+                    [
+                        198,
+                        38
+                    ],
+                    [
+                        231,
+                        39
+                    ],
+                    [
+                        246,
+                        40
+                    ],
+                    [
+                        260,
+                        41
+                    ],
+                    [
+                        260,
+                        42
+                    ],
+                    [
+                        270,
+                        43
+                    ],
+                    [
+                        282,
+                        44
+                    ],
+                    [
+                        282,
+                        45
+                    ],
+                    [
+                        282,
+                        46
+                    ],
+                    [
+                        295,
+                        47
+                    ],
+                    [
+                        295,
+                        48
+                    ],
+                    [
+                        295,
+                        49
+                    ],
+                    [
+                        300,
+                        50
+                    ],
+                    [
+                        304,
+                        51
+                    ],
+                    [
+                        305,
+                        52
+                    ],
+                    [
+                        305,
+                        53
+                    ],
+                    [
+                        325,
+                        54
+                    ],
+                    [
+                        325,
+                        54
+                    ]
+                ],
+                "MetagameScore": 50,
+                "Score": 50,
+                "Standing": 0,
+                "TeamTotalAssists": 13,
+                "TeamTotalBetrayals": 0,
+                "TeamTotalDeaths": 17,
+                "TeamTotalGameVariantCustomStat_1": 0,
+                "TeamTotalGameVariantCustomStat_2": 0,
+                "TeamTotalGameVariantCustomStat_3": 0,
+                "TeamTotalGameVariantCustomStat_4": 0,
+                "TeamTotalKills": 52,
+                "TeamTotalMedals": 54,
+                "TeamTotalSuicides": 2
+            },
+            {
+                "DeathsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        26,
+                        1
+                    ],
+                    [
+                        29,
+                        2
+                    ],
+                    [
+                        32,
+                        3
+                    ],
+                    [
+                        50,
+                        4
+                    ],
+                    [
+                        55,
+                        5
+                    ],
+                    [
+                        56,
+                        6
+                    ],
+                    [
+                        61,
+                        7
+                    ],
+                    [
+                        66,
+                        8
+                    ],
+                    [
+                        67,
+                        9
+                    ],
+                    [
+                        68,
+                        10
+                    ],
+                    [
+                        74,
+                        11
+                    ],
+                    [
+                        84,
+                        12
+                    ],
+                    [
+                        87,
+                        13
+                    ],
+                    [
+                        90,
+                        14
+                    ],
+                    [
+                        91,
+                        15
+                    ],
+                    [
+                        108,
+                        16
+                    ],
+                    [
+                        111,
+                        17
+                    ],
+                    [
+                        113,
+                        18
+                    ],
+                    [
+                        130,
+                        19
+                    ],
+                    [
+                        132,
+                        20
+                    ],
+                    [
+                        139,
+                        21
+                    ],
+                    [
+                        139,
+                        22
+                    ],
+                    [
+                        145,
+                        23
+                    ],
+                    [
+                        146,
+                        24
+                    ],
+                    [
+                        154,
+                        25
+                    ],
+                    [
+                        155,
+                        26
+                    ],
+                    [
+                        162,
+                        27
+                    ],
+                    [
+                        169,
+                        28
+                    ],
+                    [
+                        169,
+                        29
+                    ],
+                    [
+                        171,
+                        30
+                    ],
+                    [
+                        179,
+                        31
+                    ],
+                    [
+                        185,
+                        32
+                    ],
+                    [
+                        191,
+                        33
+                    ],
+                    [
+                        196,
+                        34
+                    ],
+                    [
+                        197,
+                        35
+                    ],
+                    [
+                        211,
+                        36
+                    ],
+                    [
+                        230,
+                        37
+                    ],
+                    [
+                        233,
+                        38
+                    ],
+                    [
+                        235,
+                        39
+                    ],
+                    [
+                        240,
+                        40
+                    ],
+                    [
+                        246,
+                        41
+                    ],
+                    [
+                        260,
+                        42
+                    ],
+                    [
+                        261,
+                        43
+                    ],
+                    [
+                        270,
+                        44
+                    ],
+                    [
+                        282,
+                        45
+                    ],
+                    [
+                        284,
+                        46
+                    ],
+                    [
+                        294,
+                        47
+                    ],
+                    [
+                        300,
+                        48
+                    ],
+                    [
+                        304,
+                        49
+                    ],
+                    [
+                        305,
+                        50
+                    ],
+                    [
+                        316,
+                        51
+                    ],
+                    [
+                        325,
+                        52
+                    ],
+                    [
+                        325,
+                        53
+                    ]
+                ],
+                "Exists": true,
+                "Index": 1,
+                "KillsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        55,
+                        1
+                    ],
+                    [
+                        110,
+                        2
+                    ],
+                    [
+                        125,
+                        3
+                    ],
+                    [
+                        135,
+                        4
+                    ],
+                    [
+                        144,
+                        5
+                    ],
+                    [
+                        162,
+                        6
+                    ],
+                    [
+                        193,
+                        7
+                    ],
+                    [
+                        207,
+                        8
+                    ],
+                    [
+                        214,
+                        9
+                    ],
+                    [
+                        214,
+                        10
+                    ],
+                    [
+                        240,
+                        11
+                    ],
+                    [
+                        267,
+                        12
+                    ],
+                    [
+                        279,
+                        13
+                    ],
+                    [
+                        316,
+                        14
+                    ],
+                    [
+                        318,
+                        15
+                    ],
+                    [
+                        325,
+                        15
+                    ]
+                ],
+                "MedalsOverTime": [
+                    [
+                        0,
+                        0
+                    ],
+                    [
+                        55,
+                        1
+                    ],
+                    [
+                        55,
+                        2
+                    ],
+                    [
+                        55,
+                        3
+                    ],
+                    [
+                        110,
+                        4
+                    ],
+                    [
+                        110,
+                        5
+                    ],
+                    [
+                        125,
+                        6
+                    ],
+                    [
+                        135,
+                        7
+                    ],
+                    [
+                        162,
+                        8
+                    ],
+                    [
+                        193,
+                        9
+                    ],
+                    [
+                        193,
+                        10
+                    ],
+                    [
+                        207,
+                        11
+                    ],
+                    [
+                        207,
+                        12
+                    ],
+                    [
+                        214,
+                        13
+                    ],
+                    [
+                        214,
+                        14
+                    ],
+                    [
+                        267,
+                        15
+                    ],
+                    [
+                        279,
+                        16
+                    ],
+                    [
+                        279,
+                        17
+                    ],
+                    [
+                        316,
+                        18
+                    ],
+                    [
+                        318,
+                        19
+                    ],
+                    [
+                        325,
+                        19
+                    ]
+                ],
+                "MetagameScore": 14,
+                "Score": 14,
+                "Standing": 1,
+                "TeamTotalAssists": 3,
+                "TeamTotalBetrayals": 0,
+                "TeamTotalDeaths": 53,
+                "TeamTotalGameVariantCustomStat_1": 0,
+                "TeamTotalGameVariantCustomStat_2": 0,
+                "TeamTotalGameVariantCustomStat_3": 0,
+                "TeamTotalGameVariantCustomStat_4": 0,
+                "TeamTotalKills": 15,
+                "TeamTotalMedals": 19,
+                "TeamTotalSuicides": 1
+            }
+        ]
+    }
+}
