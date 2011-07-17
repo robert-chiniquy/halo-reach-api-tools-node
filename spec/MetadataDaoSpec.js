@@ -6,6 +6,7 @@ var
   MockApiClient = require('../spec/MockApiClient.js').MockApiClient,  
   MetadataDao = require('../lib/MetadataDao.js').MetadataDao;
 
+
 describe('MetadataDao', function() {
   
   beforeEach(function() {

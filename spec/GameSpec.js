@@ -3,6 +3,7 @@ var
   MockApiClient = require('../spec/MockApiClient.js').MockApiClient,
   Game = require('../lib/Game.js').Game;
   
+  
 describe('Game', function() {
   it('should be able to be instantiated', function() {
     var
