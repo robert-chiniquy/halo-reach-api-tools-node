@@ -1,17 +1,50 @@
 
 var
+  $ = require('../node_modules/jquery/dist/node-jquery.js'),
   MockApiClient = require('../spec/MockApiClient.js').MockApiClient,
+  MetadataDao = require('../lib/MetadataDao.js').MetadataDao, 
   Player = require('../lib/Player.js').Player;
 
 describe('Player', function() {
+  
+  var
+    meta_dfd, // deferred resolved when metadata is ready
+    metadata; // metadata
+
+  beforeEach(function() {
+    var
+      mdd = MetadataDao(MockApiClient);
+
+    meta_dfd = 
+      mdd.get(
+        function(err, obj) {
+          metadata = obj;
+        }
+      );
+  });
+  
   it('should be able to be instantiated', function() {
     var
-      player_props = {'gamertag':'test'},
-      p = Player(player_props);
+      completed = false;
 
-    expect(p).toNotEqual(false);
-    expect(p.get_gamertag()).toEqual('test');
+    $.when(meta_dfd)
+      .done(function() {
+        
+        var
+          player_props = {'gamertag':'test'},
+          p = Player(metadata, player_props);
 
+        expect(p).toNotEqual(false);
+        expect(p.get_gamertag()).toEqual('test');
+        
+        asyncSpecDone();
+        completed = true;
+        
+      });
+
+    if (!completed) {
+      asyncSpecWait();
+    }
   });
   
   
@@ -19,19 +52,26 @@ describe('Player', function() {
     var
       mac = MockApiClient();
     
-    mac.get('player/details/nostats',
-      mac.mock_args,
-      function(err, data) {
-        var
-          player = Player(data);
-          
-        expect(player.get_gamertag()).toEqual(mac.mock_args.gamertag);
-          
-        asyncSpecDone();
-      }
-    );
+    $.when(meta_dfd)
+      .done(function() {
+        mac.get('player/details/nostats',
+          mac.mock_args,
+          function(err, data) {
+            var
+              player = Player(metadata, data);
+
+            expect(player.get_gamertag()).toEqual(mac.mock_args.gamertag);
+
+            asyncSpecDone();
+          }
+        )
+      });
     
     asyncSpecWait();
   });
   
+
+
+
+
 });

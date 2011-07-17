@@ -2,17 +2,29 @@ var
   $ = require('../node_modules/jquery/dist/node-jquery.js'),
   Cache = require('../lib/Cache.js').Cache,  
   TEST_REDIS_DB = require('../lib/config.js').TEST_REDIS_DB,
-  MockApiClient = require('../spec/MockApiClient.js').MockApiClient,    
+  MockApiClient = require('../spec/MockApiClient.js').MockApiClient,  
+  MetadataDao = require('../lib/MetadataDao.js').MetadataDao,  
   PlayerDao = require('../lib/PlayerDao.js').PlayerDao,
   Player = require('../lib/Player.js').Player;
 
 describe('PlayerDao', function() {
   var
-    test_user = 'cioj';
+    test_user = 'cioj',
+    meta_dfd, // deferred resolved when metadata is ready
+    metadata; // metadata
 
   beforeEach(function() {   
+    var
+      mdd = MetadataDao(MockApiClient);
+
+    meta_dfd = mdd.get(
+        function(err, obj) {
+          metadata = obj;
+        }
+      );
+
     Cache.prototype.select(TEST_REDIS_DB);    
-    Cache.prototype.flushdb();
+    Cache.prototype.flushdb();    
   });
 
   it('should detect non-existence', function() {
@@ -89,39 +101,43 @@ describe('PlayerDao', function() {
       pd = PlayerDao(MockApiClient),      
       mac = MockApiClient();
     
-    // write to cache
-    mac.get('player/details/nostats',
-      {
-        'gamertag': test_user
-      },
-      function(err, data) {
-        var
-          player = Player(data);
-        player.store();
-      });
+    $.when(meta_dfd)
+      .done(function() {        
+        // write to cache
+        mac.get('player/details/nostats',
+          {
+            'gamertag': test_user
+          },
+          function(err, data) {
+            var
+              player = Player(metadata, data);
+
+            player.store();
+          });
       
-    // grab from cache
-    $.when(        
-      pd.get(test_user, function(err, obj) {
-        $.when(pd.exists(test_user))
-          .fail(function(){
-            existed = false;
-            asyncSpecDone();
-            expect(existed).toEqual(true);
-          })
-          .done(function(){
-            existed = true;
-            asyncSpecDone();
-            expect(existed).toEqual(true); 
-          });          
+      // grab from cache
+      $.when(        
+        pd.get(test_user, function(err, obj) {
+          $.when(pd.exists(test_user))
+            .fail(function(){
+              existed = false;
+              asyncSpecDone();
+              expect(existed).toEqual(true);
+            })
+            .done(function(){
+              existed = true;
+              asyncSpecDone();
+              expect(existed).toEqual(true); 
+            });          
+        })
+      ).done(function() {
+        expect(true).toEqual(true);         
+        asyncSpecDone();
       })
-    ).done(function() {
-      expect(true).toEqual(true);         
-      asyncSpecDone();
-    })
-    .fail(function() {
-      expect(1).toEqual(2);
-      asyncSpecDone();
+      .fail(function() {
+        expect(1).toEqual(2);
+        asyncSpecDone();
+      });
     });
       
     asyncSpecWait();    
