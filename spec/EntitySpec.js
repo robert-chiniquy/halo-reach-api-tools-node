@@ -1,6 +1,6 @@
 
 var 
-  Entity = require("../lib/Entity.js").Entity;
+  Entity = require("../lib/types/Entity.js").Entity;
 
 describe('Entity setters and getters', function() {
   

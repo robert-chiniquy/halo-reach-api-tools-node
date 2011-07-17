@@ -1,8 +1,8 @@
 
 var
-  $ = require('../node_modules/jquery/dist/node-jquery.js'),
-  MockApiClient = require('../spec/MockApiClient.js').MockApiClient,
-  Metadata = require('../lib/Metadata.js').Metadata;
+  $ = require('jquery/dist/node-jquery.js'),
+  MockApiClient = require('../lib/services/MockApiClient.js').MockApiClient,
+  Metadata = require('../lib/models/Metadata.js').Metadata;
 
 /**
  * @todo check if jasmine-node really acts weird 

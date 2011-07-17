@@ -1,10 +1,10 @@
 
 var
-  $ = require('../node_modules/jquery/dist/node-jquery.js'),
-  Cache = require('../lib/Cache.js').Cache,  
+  $ = require('jquery/dist/node-jquery.js'),
+  Cache = require('../lib/services/Cache.js').Cache,  
   TEST_REDIS_DB = require('../lib/config.js').TEST_REDIS_DB,
-  MockApiClient = require('../spec/MockApiClient.js').MockApiClient,      
-  PlayerStatsDao = require('../lib/PlayerStatsDao.js').PlayerStatsDao;
+  MockApiClient = require('../lib/services/MockApiClient.js').MockApiClient,      
+  PlayerStatsDao = require('../lib/daos/PlayerStatsDao.js').PlayerStatsDao;
 
 
 describe('PlayerStatsDao', function() {

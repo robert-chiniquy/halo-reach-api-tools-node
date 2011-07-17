@@ -1,9 +1,9 @@
 
 var
-  $ = require('../node_modules/jquery/dist/node-jquery.js'),
-  MockApiClient = require('../spec/MockApiClient.js').MockApiClient,
-  MetadataDao = require('../lib/MetadataDao.js').MetadataDao,  
-  PlayerStats = require('../lib/PlayerStats.js').PlayerStats;
+  $ = require('jquery/dist/node-jquery.js'),
+  MockApiClient = require('../lib/services/MockApiClient.js').MockApiClient,
+  MetadataDao = require('../lib/daos/MetadataDao.js').MetadataDao,  
+  PlayerStats = require('../lib/models/PlayerStats.js').PlayerStats;
 
 
 describe('PlayerStats', function() {

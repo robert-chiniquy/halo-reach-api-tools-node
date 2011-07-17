@@ -1,11 +1,11 @@
 var
-  $ = require('../node_modules/jquery/dist/node-jquery.js'),
-  Cache = require('../lib/Cache.js').Cache,  
+  $ = require('jquery/dist/node-jquery.js'),
+  Cache = require('../lib/services/Cache.js').Cache,  
   TEST_REDIS_DB = require('../lib/config.js').TEST_REDIS_DB,
-  MockApiClient = require('../spec/MockApiClient.js').MockApiClient,  
-  MetadataDao = require('../lib/MetadataDao.js').MetadataDao,  
-  PlayerDao = require('../lib/PlayerDao.js').PlayerDao,
-  Player = require('../lib/Player.js').Player;
+  MockApiClient = require('../lib/services/MockApiClient.js').MockApiClient,  
+  MetadataDao = require('../lib/daos/MetadataDao.js').MetadataDao,  
+  PlayerDao = require('../lib/daos/PlayerDao.js').PlayerDao,
+  Player = require('../lib/models/Player.js').Player;
 
 describe('PlayerDao', function() {
   var

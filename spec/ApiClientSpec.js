@@ -1,6 +1,6 @@
 
 var
-  ApiClient = require('../lib/ApiClient.js').ApiClient;
+  ApiClient = require('../lib/services/ApiClient.js').ApiClient;
   
 describe('ApiClient', function() {
   it('should generate urls correctly for each action', function() {

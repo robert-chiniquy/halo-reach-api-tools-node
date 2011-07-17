@@ -1,7 +1,7 @@
 
 var
-  $ = require('../node_modules/jquery/dist/node-jquery.js'),
-  MockApiClient = require('../spec/MockApiClient.js').MockApiClient;
+  $ = require('jquery/dist/node-jquery.js'),
+  MockApiClient = require('../lib/services/MockApiClient.js').MockApiClient;
 
 describe('MockApiClient', function() {
   it('should correctly mock paths', function() {

@@ -1,9 +1,9 @@
 
 var
-  $ = require('../node_modules/jquery/dist/node-jquery.js'),
+  $ = require('jquery/dist/node-jquery.js'),
   TEST_REDIS_DB = require('../lib/config.js').TEST_REDIS_DB,  
-  Cache = require('../lib/Cache.js').Cache,
-  CacheableEntity = require('../lib/CacheableEntity.js').CacheableEntity;  
+  Cache = require('../lib/services/Cache.js').Cache,
+  CacheableEntity = require('../lib/types/CacheableEntity.js').CacheableEntity;  
   
   
 describe('CacheableEntity', function() {
