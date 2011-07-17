@@ -1,7 +1,7 @@
 var
   $ = require('../node_modules/jquery/dist/node-jquery.js'),
   Cache = require('../lib/Cache.js').Cache,  
-  TEST_REDIS_DB = require('../lib/config.js').TEST_REDIS_DB,  
+  TEST_REDIS_DB = require('../lib/config.js').TEST_REDIS_DB,
   MockApiClient = require('../spec/MockApiClient.js').MockApiClient,    
   PlayerDao = require('../lib/PlayerDao.js').PlayerDao,
   Player = require('../lib/Player.js').Player;
@@ -9,7 +9,6 @@ var
 describe('PlayerDao', function() {
   var
     test_user = 'cioj';
-
 
   beforeEach(function() {   
     Cache.prototype.select(TEST_REDIS_DB);    
@@ -144,48 +143,5 @@ describe('PlayerDao', function() {
 
     asyncSpecWait();        
   });
-
-  /*
-  it('should be able to load from getDetailsByPlaylistOnly', function() {
-    var
-      pd = PlayerDao(MockApiClient),
-      player;
-
-    $.when(
-      pd.getDetailsByPlaylistOnly(
-        'cioj', 
-        function(err, obj) {
-          player = obj
-        }      
-      )
-    ).done(function() {
-      expect(player.service_tag).toEqual('BAIT');
-      asyncSpecDone();        
-    });
-
-    asyncSpecWait();        
-  });
-  */
-/*
-  it('should be able to load from getDetailsByMapOnly', function() {
-    var
-      pd = PlayerDao(MockApiClient),
-      player;
-
-    $.when(
-      pd.getDetailsByMapOnly(
-        'cioj', 
-        function(err, obj) {
-          player = obj
-        }      
-      )
-    ).done(function() {
-      expect(player.service_tag).toEqual('BAIT');
-      asyncSpecDone();        
-    });
-
-    asyncSpecWait();        
-  });
-*/
 
 });

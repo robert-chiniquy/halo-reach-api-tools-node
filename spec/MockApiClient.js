@@ -54,11 +54,13 @@ function MockApiClient() {
     var
       filename = instance.get_url(action, args);
       
-    fs.readFile(filename, 'utf8', function(err, data) {
-      data = JSON.parse(data);
-      data = data[api_mixin.actions[action]['return']];
-      assign_callback(err, data);
-    });    
+    fs.readFile(filename, 'utf8', 
+      function(err, data) {
+        data = JSON.parse(data);
+        data = data[api_mixin.actions[action]['return']];
+        assign_callback(err, data);
+      }
+    );    
   };
   
   /**
