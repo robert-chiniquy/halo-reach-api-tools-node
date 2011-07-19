@@ -5,7 +5,8 @@ var
   Cache = require('../lib/services/Cache.js').Cache,  
   TEST_REDIS_DB = require('../lib/config.js').TEST_REDIS_DB,    
   MetadataDao = require('../lib/daos/MetadataDao.js').MetadataDao,   
-  Game = require('../lib/models/Game.js').Game;
+  Game = require('../lib/models/Game.js').Game,
+  PlayerStatsDao = require('../lib/daos/PlayerStatsDao.js').PlayerStatsDao;
   
   
 describe('Game', function() {
@@ -58,6 +59,7 @@ describe('Game', function() {
           game = Game(metadata, data);
           
         expect(game.get_GameId()).toEqual(mac.mock_args.gameId);
+        expect(game.get_HasDetails()).toEqual(true);
           
         asyncSpecDone();
       }
@@ -80,12 +82,19 @@ describe('Game', function() {
               games = [];
 
             for (i=0; i<data.length; i++) {
-              //games[i] = Game(metadata, data[i]);
               
-            }
-            
-            //console.log(games[0].getProperties());
+              PlayerStatsDao.prototype.selectPlayerSpecificProps(data[i]);
+              games[i] = Game(metadata, data[i]);
+              
+              expect(typeof games[i].RequestedPlayerAssists).toEqual('undefined');
+              
+              expect(games[i].get_HasDetails()).toEqual(false);
+              expect(games[i].get_GameDuration()).toBeGreaterThan(0);
+              
+            }            
 
+            expect(games.length).toBeGreaterThan(0);
+            
             asyncSpecDone();
           }
         )
