@@ -84,6 +84,7 @@ describe('Game', function() {
             for (i=0; i<data.length; i++) {
               
               PlayerStatsDao.prototype.selectPlayerSpecificProps(data[i]);
+              
               games[i] = Game(metadata, data[i]);
               
               expect(typeof games[i].RequestedPlayerAssists).toEqual('undefined');

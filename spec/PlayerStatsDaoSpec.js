@@ -1,6 +1,6 @@
 
 var
-  $ = require('jquery/dist/node-jquery.js'),
+  $ = require('jquery'),//dist/node-jquery.js'),
   Cache = require('../lib/services/Cache.js').Cache,  
   TEST_REDIS_DB = require('../lib/config.js').TEST_REDIS_DB,
   MockApiClient = require('../lib/services/MockApiClient.js').MockApiClient,      
@@ -14,20 +14,30 @@ describe('PlayerStatsDao', function() {
     var
       psd = PlayerStatsDao(MockApiClient),
       player_stats;
-
+      
     psd.getDetailsByPlaylistOnly(
       'cioj', 
       function(err, obj) {
+        var
+          id; // for iteration
+        
         player_stats = obj;
-        
-        expect(typeof player_stats).toNotEqual('undefined');
-        expect(player_stats).toNotEqual(null);
-        
+
+        for (id in player_stats) {
+          if (({}).hasOwnProperty.call(player_stats, id)) {
+            expect(typeof player_stats[id]).toNotEqual('undefined');
+            expect(player_stats[id]).toNotEqual(null);
+
+            expect(typeof player_stats[id].get_MapId()).toEqual('undefined');
+            expect(typeof player_stats[id].get_HopperId()).toNotEqual('undefined');
+          }
+        }
+
         asyncSpecDone();        
       }      
     );
 
-    asyncSpecWait();        
+    asyncSpecWait(); 
   });
   
   it('should be able to load from getDetailsByMapOnly', function() {
@@ -38,10 +48,20 @@ describe('PlayerStatsDao', function() {
     psd.getDetailsByMapOnly(
       'cioj', 
       function(err, obj) {
+        var
+          id; // for iteration
+        
         player_stats = obj;
 
-        expect(typeof player_stats).toNotEqual('undefined');
-        expect(player_stats).toNotEqual(null);
+        for (id in player_stats) {
+          if (({}).hasOwnProperty.call(player_stats, id)) {
+            expect(typeof player_stats[id]).toNotEqual('undefined');
+            expect(player_stats[id]).toNotEqual(null);
+
+            expect(typeof player_stats[id].get_MapId()).toNotEqual('undefined');
+            expect(typeof player_stats[id].get_HopperId()).toEqual('undefined');
+          }
+        }
 
         asyncSpecDone();        
       }      
@@ -83,6 +103,8 @@ describe('PlayerStatsDao', function() {
       
       expect(typeof out).toEqual('object');
       expect(typeof out.RequestedPlayerAssists).toNotEqual('undefined');
+      
+      expect(typeof out.GameId).toNotEqual('undefined');
     
   });
   
