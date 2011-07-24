@@ -38,14 +38,21 @@ describe('PlayerStatsDao', function() {
             expect(typeof player_stats[id]).toNotEqual('undefined');
             expect(player_stats[id]).toNotEqual(null);
 
-            //expect(typeof player_stats[id].get_MapId()).toEqual('undefined');
-            //expect(typeof player_stats[id].get_HopperId()).toNotEqual('undefined');
+            if (typeof player_stats[id].get_MapId() === 'undefined') {
+              expect(typeof player_stats[id].get_HopperId()).toNotEqual('undefined');
+            }
+            if (typeof player_stats[id].get_HopperId() === 'undefined') {
+              expect(typeof player_stats[id].get_MapId()).toNotEqual('undefined');              
+            }
             
           }
         }
 
         asyncSpecDone();        
               
+      },
+      { // todo this shouldn't be here
+        'MapName': "Sword Base"            
       }
       
     );
