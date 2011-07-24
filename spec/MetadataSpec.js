@@ -34,9 +34,7 @@ describe('Metadata', function() {
     asyncSpecWait();
   });
   
-  
   it('should be constructable from cache', function() {
-    
     var
       dfd = $.Deferred(),
       mac = MockApiClient(),
@@ -103,6 +101,73 @@ describe('Metadata', function() {
      
     asyncSpecWait();
         
+  });
+  
+  
+  it('should return map names in an array', function() {
+    var
+      i, // for iteration
+      names = [],
+      dfd = $.Deferred(),
+      mac = MockApiClient(),
+      meta = Metadata();
+      
+    mac.get('game/metadata',
+      mac.mock_args,
+      function(err, data) {
+        meta = Metadata(data);  
+        dfd.resolve();
+      }
+    );
+      
+    $.when(dfd)
+      .done(function() {
+        
+        names = meta.prototype.getAllMapNames.call(meta);
+        
+        expect(names.length).toBeGreaterThan(0);
+
+        for (i=0; i<names.length; i++) {
+          expect(typeof names[i]).toEqual('string');
+        }
+
+        asyncSpecDone();
+      });
+
+    asyncSpecWait();
+  });
+  
+  it('should return playlist names in an array', function() {
+    var
+      i, // for iteration
+      names = [],
+      dfd = $.Deferred(),
+      mac = MockApiClient(),
+      meta = Metadata();
+      
+    mac.get('game/metadata',
+      mac.mock_args,
+      function(err, data) {
+        meta = Metadata(data);  
+        dfd.resolve();
+      }
+    );
+      
+    $.when(dfd)
+      .done(function() {
+        
+        names = meta.prototype.getAllPlaylistNames.call(meta);
+        
+        expect(names.length).toBeGreaterThan(0);
+        
+        for (i=0; i<names.length; i++) {
+          expect(typeof names[i]).toEqual('string');
+        }
+        
+        asyncSpecDone();
+      });
+
+    asyncSpecWait();
   });
   
  

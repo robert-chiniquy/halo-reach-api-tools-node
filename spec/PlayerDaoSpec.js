@@ -1,5 +1,5 @@
 var
-  $ = require('jquery/dist/node-jquery.js'),
+  $ = require('jquery'),
   Cache = require('../lib/services/Cache.js').Cache,  
   TEST_REDIS_DB = require('../lib/config.js').TEST_REDIS_DB,
   MockApiClient = require('../lib/services/MockApiClient.js').MockApiClient,  
