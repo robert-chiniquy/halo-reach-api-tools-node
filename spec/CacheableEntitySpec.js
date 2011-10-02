@@ -12,8 +12,8 @@ describe('CacheableEntity', function() {
     mc, mc2, mc3;
   
   beforeEach(function() {
-    Cache.prototype.select(TEST_REDIS_DB);
-    Cache.prototype.flushdb();
+    Cache.select(TEST_REDIS_DB);
+    Cache.flushdb();
   });
   
   function MockCacheableEntity(props) {

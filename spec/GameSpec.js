@@ -26,8 +26,8 @@ describe('Game', function() {
         }
       );
       
-    Cache.prototype.select(TEST_REDIS_DB);    
-    Cache.prototype.flushdb();
+    Cache.select(TEST_REDIS_DB);    
+    Cache.flushdb();
   });  
   
   
