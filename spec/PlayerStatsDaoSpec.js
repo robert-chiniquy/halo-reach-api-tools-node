@@ -9,10 +9,12 @@ var
 
 describe('PlayerStatsDao', function() {
     
+    
   beforeEach(function() {
     Cache.select(TEST_REDIS_DB);    
     Cache.flushdb();
   });
+  
   
   it('should be able to load from get_all with no cache', function() {
     var
@@ -30,7 +32,6 @@ describe('PlayerStatsDao', function() {
         player_stats = arr;
 
         for (id in player_stats) {
-          
           if (({}).hasOwnProperty.call(player_stats, id)) {
             
             expect(typeof player_stats[id]).toNotEqual('undefined');
@@ -42,6 +43,11 @@ describe('PlayerStatsDao', function() {
             if (typeof player_stats[id].get_HopperId() === 'undefined') {
               expect(typeof player_stats[id].get_MapId()).toNotEqual('undefined');              
             }
+            
+            //console.log(id);
+            //console.log(player_stats[id].getProperties());
+            
+            expect()
             
           }
         }
@@ -81,11 +87,13 @@ describe('PlayerStatsDao', function() {
 
         for (id in player_stats) {
           if (({}).hasOwnProperty.call(player_stats, id)) {
+            
             expect(typeof player_stats[id]).toNotEqual('undefined');
             expect(player_stats[id]).toNotEqual(null);
 
             expect(typeof player_stats[id].get_MapId()).toEqual('undefined');
             expect(typeof player_stats[id].get_HopperId()).toNotEqual('undefined');
+            
           }
         }
 
@@ -111,11 +119,13 @@ describe('PlayerStatsDao', function() {
 
         for (id in player_stats) {
           if (({}).hasOwnProperty.call(player_stats, id)) {
+            
             expect(typeof player_stats[id]).toNotEqual('undefined');
             expect(player_stats[id]).toNotEqual(null);
 
             expect(typeof player_stats[id].get_MapId()).toNotEqual('undefined');
             expect(typeof player_stats[id].get_HopperId()).toEqual('undefined');
+            
           }
         }
 

@@ -1,6 +1,6 @@
 
 var
-  $ = require('jquery/dist/node-jquery.js'),
+  $ = require('jquery'),
   MockApiClient = require('../lib/services/MockApiClient.js').MockApiClient,
   Metadata = require('../lib/models/Metadata.js').Metadata;
 
@@ -123,7 +123,7 @@ describe('Metadata', function() {
     $.when(dfd)
       .done(function() {
         
-        names = meta.prototype.getAllMapNames.call(meta);
+        names = meta.getAllMapNames();
         
         expect(names.length).toBeGreaterThan(0);
 
@@ -156,7 +156,7 @@ describe('Metadata', function() {
     $.when(dfd)
       .done(function() {
         
-        names = meta.prototype.getAllPlaylistNames.call(meta);
+        names = meta.getAllPlaylistNames();
         
         expect(names.length).toBeGreaterThan(0);
         
