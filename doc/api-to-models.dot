@@ -1,0 +1,203 @@
+
+// dot -Tpng -O api-to-models.dot && open api-to-models.dot.png
+// # cat Game.js  | grep : | grep -v http | grep -v function | sed -e "s/[':]//g;" | awk '{print "<tr><td align=\"left\" port=\"g"NR"\" bgcolor=\"white\" >"$1"</td></tr>"}'
+
+digraph apimodels {
+
+//  rankdir="LR";
+  fontsize="24";
+  splines=true;
+  remincross=true;
+
+  subgraph entities {
+
+    Game[
+    shape=plaintext
+    label=<<table border="0" cellborder="1" cellspacing="0">
+    <tr><td port="g0" bgcolor="yellow">Game</td></tr>
+    
+    <tr><td align="left" port="g1" bgcolor="white" >GameId</td></tr>
+    <tr><td align="left" port="g2" bgcolor="white" >Players</td></tr>
+    <tr><td align="left" port="g3" bgcolor="white" >Teams</td></tr>
+    <tr><td align="left" port="g4" bgcolor="white" >PlayerCount</td></tr>
+    <tr><td align="left" port="g5" bgcolor="white" >IsTeamGame</td></tr>
+    <tr><td align="left" port="g6" bgcolor="white" >PlaylistName</td></tr>
+    <tr><td align="left" port="g7" bgcolor="white" >MapName</td></tr>
+    <tr><td align="left" port="g8" bgcolor="white" >BaseMapName</td></tr>
+    <tr><td align="left" port="g9" bgcolor="white" >MapVariantHash</td></tr>
+    <tr><td align="left" port="g10" bgcolor="white" >GameVariantClass</td></tr>
+    <tr><td align="left" port="g11" bgcolor="white" >GameVariantHash</td></tr>
+    <tr><td align="left" port="g12" bgcolor="white" >GameVariantName</td></tr>
+    <tr><td align="left" port="g13" bgcolor="white" >GameDuration</td></tr>
+    <tr><td align="left" port="g14" bgcolor="white" >GameTimestamp</td></tr>
+    <tr><td align="left" port="g15" bgcolor="white" >HasDetails</td></tr>
+    <tr><td align="left" port="g16" bgcolor="white" >CampaignDifficulty</td></tr>
+    <tr><td align="left" port="g17" bgcolor="white" >CampaignGlobalScore</td></tr>
+    <tr><td align="left" port="g18" bgcolor="white" >CampaignMetagameEnabled</td></tr>
+    <tr><td align="left" port="g19" bgcolor="white" >GameVariantIconIndex</td></tr>
+
+    </table>>];
+
+    Metadata[
+    shape=plaintext
+    label=<<table border="0" cellborder="1" cellspacing="0">
+    <tr><td port="m0" bgcolor="yellow">Metadata</td></tr>
+
+    <tr><td align="left" port="m1" bgcolor="white" >CurrentArenaSeason</td></tr>
+    <tr><td align="left" port="m2" bgcolor="white" >AllReachPlaylists</td></tr>
+    <tr><td align="left" port="m3" bgcolor="white" >AllCommendationsById</td></tr>
+    <tr><td align="left" port="m4" bgcolor="white" >AllEnemiesById</td></tr>
+    <tr><td align="left" port="m5" bgcolor="white" >AllMapsById</td></tr>
+    <tr><td align="left" port="m6" bgcolor="white" >AllMedalsById</td></tr>
+    <tr><td align="left" port="m7" bgcolor="white" >AllWeaponsById</td></tr>
+    <tr><td align="left" port="m8" bgcolor="white" >GameVariantClassesKeysAndValues</td></tr>
+    <tr><td align="left" port="m9" bgcolor="white" >GlobalRanks</td></tr>
+    <tr><td align="left" port="m10" bgcolor="white" >GlobalRanksById</td></tr>
+    <tr><td align="left" port="m11" bgcolor="white" >PlayerColorsByIndex</td></tr>
+
+    </table>>
+    ];
+
+    Player[
+    shape=plaintext
+    label=<<table border="0" cellborder="1" cellspacing="0">
+    <tr><td port="p0" bgcolor="yellow">Player</td></tr>
+    
+    <tr><td align="left" port="p2" bgcolor="white" >gamertag</td></tr>
+    <tr><td align="left" port="p3" bgcolor="white" >service_tag</td></tr>
+    <tr><td align="left" port="p4" bgcolor="white" >first_active</td></tr>
+    <tr><td align="left" port="p5" bgcolor="white" >games_total</td></tr>
+    <tr><td align="left" port="p6" bgcolor="white" >last_active</td></tr>
+    <tr><td align="left" port="p7" bgcolor="white" >credits_lifetime</td></tr>
+    <tr><td align="left" port="p8" bgcolor="white" >LastGameVariantClassPlayed</td></tr>
+    <tr><td align="left" port="p9" bgcolor="white" >CampaignProgressCoop</td></tr>
+    <tr><td align="left" port="p10" bgcolor="white" >CampaignProgressSp</td></tr>
+    <tr><td align="left" port="p11" bgcolor="white" >CommendationState</td></tr>
+    <tr><td align="left" port="p12" bgcolor="white" >Initialized</td></tr>
+    <tr><td align="left" port="p13" bgcolor="white" >IsGuest</td></tr>
+    <tr><td align="left" port="p14" bgcolor="white" >daily_challenges_completed</td></tr>
+    <tr><td align="left" port="p15" bgcolor="white" >weekly_challenges_completed</td></tr>
+    <tr><td align="left" port="p16" bgcolor="white" >commendation_completion_percentage</td></tr>
+    <tr><td align="left" port="p17" bgcolor="white" >armor_completion_percentage</td></tr>
+    <tr><td align="left" port="p18" bgcolor="white" >appearance_primary_color</td></tr>
+    <tr><td align="left" port="p19" bgcolor="white" >appearance_secondary_color</td></tr>
+    <tr><td align="left" port="p20" bgcolor="white" >ReachEmblem</td></tr>
+
+    </table>>
+    ];
+
+    PlayerStats[
+    shape=plaintext
+    label=<<table border="0" cellborder="1" cellspacing="0">
+    <tr><td port="s0" bgcolor="yellow">PlayerStats</td></tr>
+
+    <tr><td align="left" port="s1" bgcolor="white" >HopperId</td></tr>
+    <tr><td align="left" port="s2" bgcolor="white" >MapId</td></tr>
+    <tr><td align="left" port="s3" bgcolor="white" >GameId</td></tr>
+    <tr><td align="left" port="s4" bgcolor="white" >MapName</td></tr>
+    <tr><td align="left" port="s5" bgcolor="white" >PlaylistName</td></tr>
+
+    <tr><td align="left" port="s6" bgcolor="lavender" >VariantClass</td></tr>
+    <tr><td align="left" port="s7" bgcolor="lavender" >DeathsByDamageType</td></tr>
+    <tr><td align="left" port="s8" bgcolor="lavender" >PointsByDamageType</td></tr>
+    <tr><td align="left" port="s9" bgcolor="lavender" >KillsByDamageType</td></tr>
+    <tr><td align="left" port="s10" bgcolor="lavender" >game_count</td></tr>
+    <tr><td align="left" port="s11" bgcolor="lavender" >total_assists</td></tr>
+    <tr><td align="left" port="s12" bgcolor="lavender" >total_betrayals</td></tr>
+    <tr><td align="left" port="s13" bgcolor="lavender" >total_deaths</td></tr>
+    <tr><td align="left" port="s14" bgcolor="lavender" >total_first_place</td></tr>
+    <tr><td align="left" port="s15" bgcolor="lavender" >total_wins</td></tr>
+    <tr><td align="left" port="s16" bgcolor="lavender" >total_kills</td></tr>
+    <tr><td align="left" port="s17" bgcolor="lavender" >biggest_kill_points</td></tr>
+    <tr><td align="left" port="s18" bgcolor="lavender" >biggest_kill_streak</td></tr>
+    <tr><td align="left" port="s19" bgcolor="lavender" >highest_game_kills</td></tr>
+    <tr><td align="left" port="s20" bgcolor="lavender" >DeathsByEnemyTypeClass</td></tr>
+    <tr><td align="left" port="s21" bgcolor="lavender" >KillsByEnemyTypeClass</td></tr>
+    <tr><td align="left" port="s22" bgcolor="lavender" >PointsByEnemyTypeClass</td></tr>
+    <tr><td align="left" port="s23" bgcolor="lavender" >MedalChestCompletionPercentage</td></tr>
+    <tr><td align="left" port="s24" bgcolor="lavender" >MedalCountsByType</td></tr>
+    <tr><td align="left" port="s25" bgcolor="lavender" >TotalMedals</td></tr>
+    <tr><td align="left" port="s26" bgcolor="lavender" >game_difficulty</td></tr>
+    <tr><td align="left" port="s27" bgcolor="lavender" >high_score</td></tr>
+    <tr><td align="left" port="s28" bgcolor="lavender" >high_score_coop</td></tr>
+    <tr><td align="left" port="s29" bgcolor="lavender" >high_score_solo</td></tr>
+    <tr><td align="left" port="s30" bgcolor="lavender" >season_id</td></tr>
+    <tr><td align="left" port="s31" bgcolor="lavender" >total_score</td></tr>
+    <tr><td align="left" port="s32" bgcolor="lavender" >total_top_half_place</td></tr>
+    <tr><td align="left" port="s33" bgcolor="lavender" >total_top_third_place</td></tr>
+    <tr><td align="left" port="s34" bgcolor="lavender" >total_playtime</td></tr>
+    <tr><td align="left" port="s35" bgcolor="lavender" >highest_set</td></tr>
+    <tr><td align="left" port="s36" bgcolor="lavender" >highest_skull_multiplier</td></tr>
+    <tr><td align="left" port="s37" bgcolor="lavender" >total_enemy_players_killed</td></tr>
+    <tr><td align="left" port="s38" bgcolor="lavender" >total_generators_destroyed</td></tr>
+    <tr><td align="left" port="s39" bgcolor="lavender" >total_missions_beating_par</td></tr>
+    <tr><td align="left" port="s40" bgcolor="lavender" >total_missions_not_dying</td></tr>
+    <tr><td align="left" port="s41" bgcolor="lavender" >total_score_coop</td></tr>
+    <tr><td align="left" port="s42" bgcolor="lavender" >total_score_solo</td></tr>
+    <tr><td align="left" port="s43" bgcolor="lavender" >total_waves_completed</td></tr>
+
+    <tr><td align="left" port="s44" bgcolor="green" >RequestedPlayerAssists</td></tr>
+    <tr><td align="left" port="s45" bgcolor="green" >RequestedPlayerDeaths</td></tr>
+    <tr><td align="left" port="s46" bgcolor="green" >RequestedPlayerKills</td></tr>
+    <tr><td align="left" port="s47" bgcolor="green" >RequestedPlayerRating</td></tr>
+    <tr><td align="left" port="s48" bgcolor="green" >RequestedPlayerScore</td></tr>
+    <tr><td align="left" port="s49" bgcolor="green" >RequestedPlayerStanding</td></tr>
+
+    </table>>
+    ];
+
+    //User;
+  }
+
+  subgraph daos {
+
+    GameDao;
+    PlayerDao;
+    MetadataDao;
+    PlayerStatsDao;
+
+  }
+  
+  subgraph cluster_api_calls {
+
+    label="API";
+    color="gray";
+    rankdir="TB";
+
+    //node[shape="none"];
+
+    GetGameMetadata;
+    GetGameDetails [color="lavender"];
+    GetGameHistory [color="green"];
+
+    GetPlayerDetailsWithStatsByMap;
+    GetPlayerDetailsWithStatsByPlaylist;
+    GetPlayerDetailsWithNoStats;
+
+  }
+
+  MetadataDao -> Metadata:m0;
+  GetGameMetadata -> MetadataDao;
+
+  GameDao -> Game:g0 ;
+  Metadata -> GameDao;
+  GetGameHistory -> GameDao;
+  GetGameDetails -> GameDao;
+
+  PlayerDao -> Player:p0;
+  Metadata -> PlayerDao;
+  GetPlayerDetailsWithNoStats -> PlayerDao;
+
+  PlayerStatsDao -> PlayerStats:s0;
+  Metadata -> PlayerStatsDao;
+  GetPlayerDetailsWithStatsByMap -> PlayerStatsDao;
+  GetPlayerDetailsWithStatsByPlaylist -> PlayerStatsDao;
+  GetGameDetails -> PlayerStatsDao;
+  GetGameHistory -> PlayerStatsDao;
+
+
+
+
+}
+
+
