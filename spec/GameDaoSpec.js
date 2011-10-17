@@ -1,7 +1,7 @@
 
 
 var
-  $ = require('jquery/dist/node-jquery.js'),
+  $ = require('jquery'),
   Cache = require('../lib/services/Cache.js').Cache,  
   TEST_REDIS_DB = require('../lib/config.js').TEST_REDIS_DB,
   MockApiClient = require('../lib/services/MockApiClient.js').MockApiClient,  
@@ -28,6 +28,52 @@ describe('GameDao', function() {
     Cache.select(TEST_REDIS_DB);    
     Cache.flushdb();    
   });
+
+
+  it('should return a Game entity', function() {
+    var
+      game,
+      gd = GameDao(MockApiClient);
+      
+    gd.get(test_game_id, function(err, val) {
+      game = val;
+      expect(game.type).toEqual('Game');
+      asyncSpecDone();
+    });
+    asyncSpecWait();
+    
+  });
+
+  it('should detect existence', function() {
+
+    var
+      existed,
+      game,
+      gd = GameDao(MockApiClient);
+
+    // create game, store in cache
+    gd.get(test_game_id, function(err, val) {
+      game = val;
+      
+      $.when(gd.exists(test_game_id))
+        .fail(function(){
+          existed = false;
+          expect(existed).toEqual(true); 
+          asyncSpecDone();
+        })
+        .done(function(){
+          existed = true;
+          expect(existed).toEqual(true); 
+          asyncSpecDone();
+        });
+            
+    });
+      
+    asyncSpecWait();
+
+
+  });
+
 
   it('should detect non-existence', function() {
     var
